@@ -1,0 +1,47 @@
+baseURL = "https://seismobassoon.github.io/"
+languageCode = "en-us"
+title = "Nobuaki Fuji"
+defaultContentLanguage = "en"
+theme = "wowchemy"
+# Minimal params, you will customize later
+[params]
+  author = "Nobuaki Fuji"
+  description = "Science and music: seismology, full-waveform inversion, art-science collaborations, and compositions."
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
+  [languages.ja]
+    languageName = "日本語"
+    weight = 3
+  [languages.zh]
+    languageName = "简体中文"
+    weight = 4
+  [languages.zhtw]
+    languageName = "繁體中文"
+    weight = 5
+  [languages.ru]
+    languageName = "Русский"
+    weight = 6
+  [languages.pt]
+    languageName = "Português"
+    weight = 7
+  [languages.it]
+    languageName = "Italiano"
+    weight = 8
+  [languages.es]
+    languageName = "Español"
+    weight = 9
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 10
+  [languages.oc]
+    languageName = "Occitan"
+    weight = 11
+  [languages.fa]
+    languageName = "فارسی"
+    weight = 12
