@@ -8,8 +8,6 @@ et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufran
 
 {{< img "images/moi.png" "Moi" >}}
 
-
-
 ## Géodynamique et sismologie : problèmes direct et inverse
 
 Je suis sismologue, spécialiste de l’imagerie sismique de la structure de la Terre et des corps telluriques, et je développe des théories et des méthodes numériques pour modéliser et inverser des données (géo)physiques, entre autres des sismogrammes et des oscillogrammes de neutrinos.
@@ -18,8 +16,7 @@ Parmi mes thématiques de recherche, je m’intéresse notamment à la dynamique
 
 À travers ces projets, j’ai construit de nombreuses collaborations aux niveaux national et international. J’ai également initié un workshop interdisciplinaire, intergénérationnel et bisannuel, **CLEEDI**, afin de favoriser un véritable dialogue entre géoscientifiques de différentes disciplines, pendant une semaine au cœur de l’Ariège.
 
-
-{{< figure src="/images/schema_box.png" alt="Tomo" >}}
+{{< img "/images/schema_box.png" "Tomo" >}}
 
 ## Géomusique : composition de musique classique
 
