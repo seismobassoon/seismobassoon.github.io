@@ -6,7 +6,7 @@ draft = false
 Je m'appelle Nobuaki Fuji, sismobassoniste, maître de conférences (HDR) et responsable de l'équipe de sismologie à [l'IPGP](https://www.ipgp.fr), à [l'UPC](https://u-paris.fr)
 et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
 
-![Moi](/images/moi.png)
+![Moi](images/moi.png)
 
 ## Géodynamique et sismologie : problèmes direct et inverse
 
