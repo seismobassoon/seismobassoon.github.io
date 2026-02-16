@@ -18,7 +18,7 @@ disablePathToLower = false
         title = "Nobuaki Fuji"
         subtitle = "Seismology • Numerical Modeling • Art & Science"
         imageUrl = "images/moi.png"
-        imageWidth = 160
+        imageWidth = 180
         imageHeight = 160
     
 
