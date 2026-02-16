@@ -1,1 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
 
+<div class="team-grid">
+  {{ range .Pages.ByDate }}
+    <div class="team-card">
+      <h3>{{ .Title }}</h3>
+      <span class="role {{ lower .Params.role }}">{{ .Params.role }}</span>
+      <p>{{ .Content }}</p>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
