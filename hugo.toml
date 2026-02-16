@@ -50,6 +50,26 @@ disablePathToLower = false
         name = "CV"
         url = "cv/"
         weight = 2
+    [[languages.en.menu.main]]
+        name = "Team"
+        url = "team/"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Research"
+        url = "research/"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Education"
+        url = "education/"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Bassoon"
+        url = "bassoon/"
+        weight = 6
+    [[languages.en.menu.main]]
+        name = "Composition"
+        url = "composition/"
+        weight = 7
   [languages.fr]
     weight = 2
     languageName = "Français"
@@ -62,6 +82,28 @@ disablePathToLower = false
         name = "Parcours"
         url = "cv/"
         weight = 2
+    [[languages.fr.menu.main]]
+        name = "Équipe"
+        url = "team/"
+        weight = 3
+    [[languages.fr.menu.main]]
+        name = "Recherche"
+        url = "research/"
+        weight = 4
+    [[languages.fr.menu.main]]
+        name = "Enseignement"
+        url = "education/"
+        weight = 5
+    [[languages.fr.menu.main]]
+        name = "Basson"
+        url = "bassoon/"
+        weight = 6
+    [[languages.fr.menu.main]]
+        name = "Composition"
+        url = "composition/"
+        weight = 7
+
+
 
 
     
