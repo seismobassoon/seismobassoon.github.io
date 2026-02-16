@@ -14,7 +14,8 @@ disablePathToLower = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
     ShowPostNavLinks = false
-
+    [params.assets]
+        customCSS = ["css/custom.css"]
 
     [params.profileMode]
         enabled = true
