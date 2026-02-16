@@ -8,6 +8,7 @@ et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufran
 
 ![Moi]({{< relURL "images/moi.png" >}})
 
+![Moi]("images/moi.png")
 ## Géodynamique et sismologie : problèmes direct et inverse
 
 Je suis sismologue, spécialiste de l’imagerie sismique de la structure de la Terre et des corps telluriques, et je développe des théories et des méthodes numériques pour modéliser et inverser des données (géo)physiques, entre autres des sismogrammes et des oscillogrammes de neutrinos.
