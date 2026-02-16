@@ -4,8 +4,7 @@ draft = false
 title = "Curriculum Vitæ"
 +++
 
-![Parcours](images/parcours.png)
-
+{{< img "images/parcours.png" "Parcours">}}
 Je suis né à Hyōgo le 26 novembre 1982 et j'ai vécu le séisme de Kobé en 1995 (mais ce n'est pas la raison pour laquelle je suis devenu sismologue !).
 
 J'ai commencé mes études à l'université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.
