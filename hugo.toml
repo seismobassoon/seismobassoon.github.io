@@ -16,7 +16,7 @@ disablePathToLower = false
     [params.profileMode]
         enabled = true
         title = "Nobuaki Fuji"
-        subtitle = "Seismology • Numerical Modeling • Art & Science"
+        subtitle = "Geophysics • Art & Science"
         imageUrl = "images/moi.png"
         imageWidth = 180
         imageHeight = 160
