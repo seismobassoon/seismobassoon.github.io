@@ -11,6 +11,9 @@ disablePathToLower = false
 
 [params]
     displayFullLangName = true
+    ShowReadingTime = false
+    ShowBreadCrumbs = false
+    ShowPostNavLinks = false
 
 
     [params.profileMode]
