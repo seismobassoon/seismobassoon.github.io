@@ -16,7 +16,7 @@ Parmi mes thématiques de recherche, je m’intéresse notamment à la dynamique
 
 À travers ces projets, j’ai construit de nombreuses collaborations aux niveaux national et international. J’ai également initié un workshop interdisciplinaire, intergénérationnel et bisannuel, **CLEEDI**, afin de favoriser un véritable dialogue entre géoscientifiques de différentes disciplines, pendant une semaine au cœur de l’Ariège.
 
-![Tomo](/images/schema_box.png)
+![Tomo](images/schema_box.png)
 
 ## Géomusique : composition de musique classique
 
