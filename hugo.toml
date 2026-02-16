@@ -51,7 +51,7 @@ disablePathToLower = false
         url = "about/"
         weight = 1
     [[languages.en.menu.main]]
-        name = "CV"
+        name = "About"
         url = "cv/"
         weight = 2
     [[languages.en.menu.main]]
@@ -79,7 +79,7 @@ disablePathToLower = false
         url = "news/"
         weight = 1
     [[languages.fr.menu.main]]
-        name = "Parcours"
+        name = "Moi"
         url = "cv/"
         weight = 2
     [[languages.fr.menu.main]]
