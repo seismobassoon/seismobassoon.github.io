@@ -1,5 +1,6 @@
 +++
 title = "Moi"
+translationKey = "about"
 draft = false
 +++
 
