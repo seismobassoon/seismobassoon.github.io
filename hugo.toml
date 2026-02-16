@@ -1,0 +1,75 @@
+baseURL = 'https://example.org/'
+
+theme = "PaperMod"
+title = 'Nobuaki Fuji'
+
+
+languageCode = 'en'
+defaultContentLanguageInSubdir = true
+disablePathToLower = false
+
+[params]
+    displayFullLangName = true
+
+
+    [params.profileMode]
+        enabled = true
+        title = "Nobuaki Fuji"
+        subtitle = "Seismology • Numerical Modeling • Art & Science"
+        imageUrl = "/images/moi.png"
+        imageWidth = 160
+        imageHeight = 160
+    
+
+    [[params.socialIcons]]
+        name = "googlescholar"
+        url = "https://scholar.google.com/citations?user=EqiISYkAAAAJ"
+
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/nobuaki-fuji-82ba9520"
+
+    [[params.socialIcons]]
+        name = "youtube"
+        url = "https://www.youtube.com/@seismobassoon"
+
+
+[languages]
+
+  [languages.en]
+    weight = 1
+    languageName = "English"
+    languageCode = "EN"
+    contentDir = "content/en"
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "/cv/"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "CV"
+        url = "/cv/"
+        weight = 2
+  [languages.fr]
+    weight = 2
+    languageName = "Français"
+    contentDir = "content/fr"
+    [[languages.fr.menu.main]]
+        name = "Enchanté"
+        url = "/about/"
+        weight = 1
+    [[languages.fr.menu.main]]
+        name = "Parcours"
+        url = "/cv/"
+        weight = 2
+
+
+    
+  [languages.jp]
+    weight = 3
+    languageName = "日本語"
+    contentDir = "content/jp"
+
+  [languages.de]
+    weight = 4
+    languageName = "Deutsch"
+    contentDir = "content/de"
