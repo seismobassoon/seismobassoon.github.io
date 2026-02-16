@@ -2,10 +2,11 @@ baseURL = 'https://seismobassoon.github.io/seismobassoon/'
 
 theme = "PaperMod"
 title = 'Nobuaki Fuji'
-
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 languageCode = 'en'
-defaultContentLanguageInSubdir = true
+
 disablePathToLower = false
 
 [params]
