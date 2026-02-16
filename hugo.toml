@@ -44,11 +44,11 @@ disablePathToLower = false
     contentDir = "content/en"
     [[languages.en.menu.main]]
         name = "About"
-        url = "/cv/"
-        weight = 2
+        url = "about/"
+        weight = 1
     [[languages.en.menu.main]]
         name = "CV"
-        url = "/cv/"
+        url = "cv/"
         weight = 2
   [languages.fr]
     weight = 2
@@ -56,11 +56,11 @@ disablePathToLower = false
     contentDir = "content/fr"
     [[languages.fr.menu.main]]
         name = "Enchanté"
-        url = "/about/"
+        url = "about/"
         weight = 1
     [[languages.fr.menu.main]]
         name = "Parcours"
-        url = "/cv/"
+        url = "cv/"
         weight = 2
 
 
