@@ -74,8 +74,8 @@ disablePathToLower = false
     languageName = "Français"
     contentDir = "content/fr"
     [[languages.fr.menu.main]]
-        name = "Enchanté"
-        url = "about/"
+        name = "News"
+        url = "news/"
         weight = 1
     [[languages.fr.menu.main]]
         name = "Parcours"
