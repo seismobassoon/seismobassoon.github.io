@@ -63,13 +63,9 @@ disablePathToLower = false
         url = "education/"
         weight = 5
     [[languages.en.menu.main]]
-        name = "Bassoon"
-        url = "bassoon/"
+        name = "Geomusic"
+        url = "geomusic/"
         weight = 6
-    [[languages.en.menu.main]]
-        name = "Composition"
-        url = "composition/"
-        weight = 7
   [languages.fr]
     weight = 2
     languageName = "Français"
@@ -95,13 +91,10 @@ disablePathToLower = false
         url = "education/"
         weight = 5
     [[languages.fr.menu.main]]
-        name = "Basson"
-        url = "bassoon/"
+        name = "Géomusique"
+        url = "geomusic/"
         weight = 6
-    [[languages.fr.menu.main]]
-        name = "Composition"
-        url = "composition/"
-        weight = 7
+    
 
 
 
@@ -111,6 +104,32 @@ disablePathToLower = false
     weight = 3
     languageName = "日本語"
     contentDir = "content/jp"
+    [[languages.jp.menu.main]]
+        name = "ようこそ"
+        url = "about/"
+        weight = 1
+    [[languages.jp.menu.main]]
+        name = "職歴"
+        url = "cv/"
+        weight = 2
+    [[languages.jp.menu.main]]
+        name = "研究室"
+        url = "team/"
+        weight = 3
+    [[languages.jp.menu.main]]
+        name = "研究"
+        url = "research/"
+        weight = 4
+    [[languages.jp.menu.main]]
+        name = "教育"
+        url = "education/"
+        weight = 5
+    [[languages.jp.menu.main]]
+        name = "ジオ音楽"
+        url = "geomusic/"
+        weight = 6
+    
+
 
   [languages.de]
     weight = 4
