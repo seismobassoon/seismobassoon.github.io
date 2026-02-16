@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://seismobassoon.github.io/seismobassoon/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://seismobassoon.github.io/seismobassoon/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/categories/"
+                href="https://seismobassoon.github.io/seismobassoon/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                href="https://seismobassoon.github.io/seismobassoon/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="EN"
-                href="http://localhost:1313/en/categories/"
+                href="https://seismobassoon.github.io/seismobassoon/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://seismobassoon.github.io/seismobassoon/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://seismobassoon.github.io/seismobassoon/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/"
+                href="https://seismobassoon.github.io/seismobassoon/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://seismobassoon.github.io/seismobassoon/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="EN"
-                href="http://localhost:1313/en/"
+                href="https://seismobassoon.github.io/seismobassoon/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://seismobassoon.github.io/seismobassoon/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://seismobassoon.github.io/seismobassoon/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/tags/"
+                href="https://seismobassoon.github.io/seismobassoon/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://seismobassoon.github.io/seismobassoon/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="EN"
-                href="http://localhost:1313/en/tags/"
+                href="https://seismobassoon.github.io/seismobassoon/en/tags/"
                 />
   </url>
 </urlset>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Curriculum Vitæ on Nobuaki Fuji</title>
-    <link>http://localhost:1313/fr/cv/</link>
+    <link>https://seismobassoon.github.io/seismobassoon/fr/cv/</link>
     <description>Recent content in Curriculum Vitæ on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seismobassoon.github.io/seismobassoon/fr/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
