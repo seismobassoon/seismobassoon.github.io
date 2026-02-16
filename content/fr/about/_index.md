@@ -6,9 +6,8 @@ draft = false
 Je m'appelle Nobuaki Fuji, sismobassoniste, maître de conférences (HDR) et responsable de l'équipe de sismologie à [l'IPGP](https://www.ipgp.fr), à [l'UPC](https://u-paris.fr)
 et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
 
-![Moi]({{< relURL "images/moi.png" >}})
 
-![Moi]("images/moi.png")
+{{< figure src="/images/moi.png" alt="Moi" >}}
 
 ## Géodynamique et sismologie : problèmes direct et inverse
 
@@ -18,8 +17,8 @@ Parmi mes thématiques de recherche, je m’intéresse notamment à la dynamique
 
 À travers ces projets, j’ai construit de nombreuses collaborations aux niveaux national et international. J’ai également initié un workshop interdisciplinaire, intergénérationnel et bisannuel, **CLEEDI**, afin de favoriser un véritable dialogue entre géoscientifiques de différentes disciplines, pendant une semaine au cœur de l’Ariège.
 
-![Tomo]({{< relURL "images/schema_box.png" >}})
 
+{{< figure src="/images/schema_box.png" alt="Tomo" >}}
 
 ## Géomusique : composition de musique classique
 
