@@ -12,7 +12,8 @@ draft = false
 
 # 地球ダイナミクスと地震学における順問題と逆問題
 
-I am a seismologist specialising in seismic imaging of the Earth’s structure and that of terrestrial bodies, and I develop theories and numerical methods to model and invert (geo)physical data, including seismograms and neutrino oscillograms.
+地震波形を用いた地球惑星内部の構造推定のために、順問題(フォーワードモデリング)と逆問題(インバージョン)の理論および数値計算手法を開発しています。近年はニュートリノ振動にも興味を持っています。
+
 
 Among my research themes, I am particularly interested in the dynamics of mantle plumes and their connections with the LLVPs (Large Low Velocity Provinces) at the base of the Earth’s mantle. I also work on developing new approaches to constrain the nature of the deep mantle, integrating innovative observables such as neutrinos.
 
