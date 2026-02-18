@@ -1,0 +1,38 @@
+.team-more {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+    color: #d14b4b;              /* ta couleur */
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.team-summary {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+
+    overflow: hidden;
+}
+
+
+
+.team-more:hover {
+    color: #a83232;
+}
+
+.single .post-content {
+    margin-top: 2rem;
+}
+
+.team-grid {
+    gap: 2.5rem;
+}
+
+.team-more-wrapper {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+}

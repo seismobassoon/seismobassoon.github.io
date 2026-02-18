@@ -75,27 +75,27 @@ disablePathToLower = false
     languageName = "Français"
     contentDir = "content/fr"
     [[languages.fr.menu.main]]
-        name = "News"
+        name = "📢"
         url = "news/"
         weight = 1
     [[languages.fr.menu.main]]
-        name = "Moi"
+        name = "👤"
         url = "cv/"
         weight = 2
     [[languages.fr.menu.main]]
-        name = "Équipe"
+        name = "👥"
         url = "team/"
         weight = 3
     [[languages.fr.menu.main]]
-        name = "Recherche"
+        name = "🧠"
         url = "research/"
         weight = 4
     [[languages.fr.menu.main]]
-        name = "Enseignement"
+        name = "🏫"
         url = "education/"
         weight = 5
     [[languages.fr.menu.main]]
-        name = "Géomusique"
+        name = "🎶"
         url = "geomusic/"
         weight = 6
     
