@@ -14,17 +14,13 @@ draft = false
 
 地震波形を用いた地球惑星内部の構造推定のために、順問題(フォーワードモデリング)と逆問題(インバージョン)の理論および数値計算手法を開発しています。近年はニュートリノ振動にも興味を持っています。
 
+現在の限られたデータから地球惑星の内部ダイナミクスを制約するのは、かなり無理があることで、多分野にわたる観測と理論の定量的な考察が必要となります。そのために、**CLEEDI**という一週間の国際ハカソンを二年に一度ピレネー山脈はアリエージュ県で開催し、分野間だけではなく地元の一般の方々との会話によって地球惑星科学分野を盛り上げることを目指しています。
 
-Among my research themes, I am particularly interested in the dynamics of mantle plumes and their connections with the LLVPs (Large Low Velocity Provinces) at the base of the Earth’s mantle. I also work on developing new approaches to constrain the nature of the deep mantle, integrating innovative observables such as neutrinos.
-
-Throughout these projects, I have established numerous collaborations at both national and international levels. I also initiated an interdisciplinary, intergenerational, biennial workshop, CLEEDI, designed to foster genuine dialogue among geoscientists from different disciplines over the course of a week in the heart of Ariège.
 
 {{< img "images/schema_box.png" "Tomo" >}}
 
-Geomusic: composition of classical music out of geophysics
+# フィロガイア・オーケストラ
 
-I am a bassoonist and composer. I compose classical music, inspired by images and videos in geophysics, played in interaction with the data on behalf of the PhiloGaïa Orchestra project. The artistic representarion of science does not necessarily need educational explications.
-
-I wish to continue along this path in order to affirm my identity as a geo-composer, by exploring musical creation based on geophysical data.
+ファゴット奏者で作曲も行うので、これまでに数々のクラシック音楽の作曲を通じて科学コミュニケーションの企画を行ってきました。地球惑星科学が魅せる図やビデオは、説明なしでも充分芸術的な価値があると思います。
 
 {{< youtube JCsNx9VqJTw >}}
