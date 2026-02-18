@@ -109,11 +109,11 @@ disablePathToLower = false
     languageName = "日本語"
     contentDir = "content/jp"
     [[languages.jp.menu.main]]
-        name = "ようこそ"
+        name = "ニュース"
         url = "about/"
         weight = 1
     [[languages.jp.menu.main]]
-        name = "職歴"
+        name = "私"
         url = "cv/"
         weight = 2
     [[languages.jp.menu.main]]
