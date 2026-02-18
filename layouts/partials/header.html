@@ -64,13 +64,20 @@
                         {{- range . -}}
                         {{- if ne $lang .Lang }}
                         <li>
-                            <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"
+                            <a href="{{- .Permalink -}}" title="{{ .Language.Params.languageAltTitle | default (.Language.LanguageName | emojify) | default (.Lang | title) }}"r
                                 aria-label="{{ .Language.LanguageName | default (.Lang | title) }}">
-                                {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
-                                {{- .Language.LanguageName | emojify -}}
-                                {{- else }}
-                                {{- .Lang | title -}}
-                                {{- end -}}
+
+
+                                {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) -}}
+  {{- .Language.LanguageName | emojify -}}
+{{- else -}}
+  {{- with .Language.Params.langBadge -}}
+    {{- . -}}
+  {{- else -}}
+    {{- .Lang | title -}}
+  {{- end -}}
+{{- end -}}
+                               
                             </a>
                         </li>
                         {{- end -}}
