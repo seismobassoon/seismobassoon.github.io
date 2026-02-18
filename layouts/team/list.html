@@ -1,18 +1,16 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
-<h2>Équipe actuelle</h2>
-<div class="team-grid">
-  {{ range (where .Pages "Params.status" "active").ByDate.Reverse }}
-    {{ partial "team-card.html" . }}
-  {{ end }}
-</div>
 
-<h2>Alumni</h2>
-<div class="team-grid">
-  {{ range (where .Pages "Params.status" "alumni").ByDate.Reverse }}
-    {{ partial "team-card.html" . }}
-  {{ end }}
-</div>
-
+## {{ i18n "teamCurrent" }}
+{{ range (where .Pages "Params.status" "active").ByDate.Reverse }}
+  {{ partial "team-card.html" . }}
 {{ end }}
+
+## {{ i18n "teamAlumni" }}
+{{ range (where .Pages "Params.status" "alumni").ByDate.Reverse }}
+  {{ partial "team-card.html" . }}
+{{ end }}
+
+
+
