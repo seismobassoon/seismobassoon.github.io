@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 <h1>{{ .Title }}</h1>
 
 <h2>{{ i18n "teamCurrent" }}</h2>
@@ -9,4 +10,6 @@
 <h2>{{ i18n "teamAlumni" }}</h2>
 {{ range (where .Pages "Params.status" "alumni").ByDate.Reverse }}
   {{ partial "team-card.html" . }}
+{{ end }}
+
 {{ end }}
