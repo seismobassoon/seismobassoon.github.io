@@ -1,19 +1,11 @@
 {{- $path := .Get 0 -}}
-{{- $lines := default 2 (.Get 1 | int) -}}
 {{- with site.GetPage $path -}}
   <article class="post-entry entry-card-mini">
     <header class="entry-header">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
-
-    {{ with .Params.role }}
-      <div class="entry-footer">
-        {{ . }}
-      </div>
-    {{ end }}
-
-    <div class="entry-content entry-clamp">
-      <p>{{ .Summary }}</p>
+    <div class="entry-content">
+      <p class="entry-clamp">{{ .Summary }}</p>
     </div>
   </article>
 {{- end -}}
