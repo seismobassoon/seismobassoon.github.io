@@ -8,9 +8,9 @@ defaultContentLanguageInSubdir = false
 languageCode = 'en'
 
 disablePathToLower = false
-displayFullLangName = false
+
 [params]
-    displayFullLangName = true
+    displayFullLangName = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
     ShowPostNavLinks = false
