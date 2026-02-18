@@ -1,24 +1,23 @@
 +++
 date = "2026-02-16T14:37:51+01:00"
 draft = false
-title = "Curriculum Vitæ"
+title = "履歴書"
 +++
 
+1982年11月26日兵庫県尼崎市生まれで、12歳で兵庫県南部地震被災し、
+地震予知の不可能さを身をもって知る。決してこの経験が地震学者への道に繋がったわけではない。
+2001年に東京大学入学もオーケストラにのめり、ファゴットの練習に励む日々。
+国際ダブルリード協会名誉会員の菅原眸先生に師事、2022年に逝去されるまで
+家族のように可愛がって貰う。
+2010年に非弾性パラメータ推定のための波形インバージョン手法の開発で、
+博士号をゲラーロバート研究室で [取得](https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642) 
+する。
 
-Je suis né à Hyōgo le 26 novembre 1982 et j'ai vécu le séisme de Kobé en 1995 (mais ce n'est pas la raison pour laquelle je suis devenu sismologue !).
+ポスドクは2010年から2012年までトゥールーズのシュヴローセバスチャンの
+もとで波形の偏微分係数計算の最適化を行い、2012年に[パリ地球物理研究所](https://www.ipgp.fr)の
+准教授に着任。2022年に [教授資格(HDR)](https://hal.science/tel-05081045)を取得、さらに
+[フランス大学学士会](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html)
+会員となる。2025年より地震学研究グループ長を務める。
 
-J'ai commencé mes études à l'université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.
-
-J'ai soutenu [ma thèse en 2010](https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642) sur le développement de méthodes d'inversion des formes d'ondes sismiques pour contraindre la structure élastique et anélastique, sous la direction de Robert J. Geller à l'université de Tokyo.
-
-J'ai ensuite migré en France, immédiatement après ma thèse, pour travailler sur le calcul rapide des noyaux de sensibilité à hautes fréquences avec Sébastien Chevrot à l'université Toulouse III.
-
-J'ai soutenu mon [habilitation à diriger des recherches (HDR)](https://hal.science/tel-05081045) en 2022.
-
-J'ai été recruté maître de conférences à [l'Institut de physique du globe de Paris](https://www.ipgp.fr) en 2012. J'ai été responsable du master international (GPX et IMSES) de 2012 à 2020, membre élu du rang B du conseil scientifique de l'IPGP de 2016 à 2019, membre du conseil scientifique du réseau global Géoscope de 2016 à 2022, responsable du thème *Intérieurs de la Terre et des planètes* de 2016 à 2020.
-
-Depuis 2025, je suis responsable de l'équipe de sismologie.
-
-Je suis membre junior de [l'Institut universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) depuis 2022.
 
 {{< img "images/parcours.png" "Parcours">}}
