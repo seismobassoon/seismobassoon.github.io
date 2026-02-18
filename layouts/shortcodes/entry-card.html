@@ -1,11 +1,12 @@
 {{- $path := .Get 0 -}}
-{{- with site.GetPage $path -}}
+{{- $langPath := printf "%s/%s" $.Page.Lang $path -}}
+{{- with site.GetPage $langPath -}}
   <article class="post-entry entry-card-mini">
     <header class="entry-header">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
     <div class="entry-content">
-      <p class="entry-clamp">{{ .Summary }}</p>
+      <p class="entry-clamp">{{ .Summary | plainify }}</p>
     </div>
   </article>
 {{- end -}}
