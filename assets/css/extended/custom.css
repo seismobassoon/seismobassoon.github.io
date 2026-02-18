@@ -64,7 +64,17 @@
   color: #555;
 }
 
+.team-summary{
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;   /* mets 2 ou 3 */
+  line-clamp:3;           /* propriété standard (support variable) */
+  overflow:hidden;
+}
 
+.team-summary{
+  margin: 0 0 1rem 0;     /* optionnel : garde l’espace avant “Voir plus” */
+}
 .lang-pill {
   display: inline-block;
   padding: 2px 8px;
