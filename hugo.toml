@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = false
 languageCode = 'en'
 
 disablePathToLower = false
-
+displayFullLangName = false
 [params]
     displayFullLangName = true
     ShowReadingTime = false
