@@ -8,6 +8,7 @@ draft = false
 <!--
 詳しくはこちら[履歴書]({{< relref "details.md" >}})
 -->
+{{< entry-card "cv/details.md" >}}
 
 {{< img "images/moi.png" "Moi" >}}
 
