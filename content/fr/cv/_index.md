@@ -12,8 +12,8 @@ et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufran
 {{ with site.GetPage "section" "cv/details.md" }}
   {{ partial "entry-card.html" . }}
 {{ end }}-->
-{{< entry-card "cv/details.md" >}}
 
+{{< entry-card "cv/details.md" 2 >}}
 {{< img "images/moi.png" "Moi" >}}
 
 ## Géodynamique et sismologie : problèmes direct et inverse
