@@ -1,39 +1,59 @@
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
 }
 
 .team-card {
-  padding: 1rem;
-  border-radius: 12px;
-  background: #f9f9f9;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  padding: 1.8rem;
+  border-radius: 14px;
+  background: white;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease;
+  gap: 2.5rem;
 }
 
-.role {
-  padding: 4px 8px;
-  border-radius: 8px;
+.team-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Rôle = couleur */
+.team-card.phd {
+  border-left: 6px solid #2b6cb0;
+}
+
+.team-card.postdoc {
+  border-left: 6px solid #dd6b20;
+}
+
+.team-card.master {
+  border-left: 6px solid #38a169;
+}
+
+.team-card.intern {
+  border-left: 6px solid #805ad5;
+}
+
+/* Alumni plus discret */
+.team-card.alumni {
+  opacity: 0.85;
+  background: #f7f7f7;
+}
+
+.team-card p {
+    margin-bottom: 1rem;   /* espace vertical interne */
+    line-height: 1.6;
+}
+
+.badge {
   font-size: 0.8rem;
-  font-weight: bold;
-}
-
-.role.phd {
-  background: #d0e8ff;
-  color: #004080;
-}
-
-.role.postdoc {
-  background: #ffe4cc;
-  color: #a64b00;
-}
-
-.role.master {
-  background: #e6ffe6;
-  color: #006600;
-}
-
-.role.young {
-  background: #eee;
-  color: #555;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
 }

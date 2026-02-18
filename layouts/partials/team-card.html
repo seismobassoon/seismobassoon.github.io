@@ -1,0 +1,22 @@
+<div class="team-card {{ lower .Params.current_role }} {{ .Params.status }}">
+  <h3>{{ .Title }}</h3>
+
+  <div class="badge">
+    {{ .Params.current_role }}
+  </div>
+
+    {{ if in .Params.current_role "*" }}
+    <span class="badge-phd">Official PhD</span>
+    {{ end }}
+
+
+        <p class="team-summary">
+        {{ .Summary }}
+        </p>
+
+    <div class="team-more-wrapper">
+    <a class="team-more" href="{{ .RelPermalink }}">
+      {{ i18n "readMore" }} →
+    </a>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on Nobuaki Fuji</title>
+    <link>http://localhost:1313/seismobassoon/fr/news/</link>
+    <description>Recent content in News on Nobuaki Fuji</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/seismobassoon/fr/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La nouvelle vidéo du PhiloGaïa est en ligne !</title>
+      <link>http://localhost:1313/seismobassoon/fr/news/2026-02-07/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/seismobassoon/fr/news/2026-02-07/</guid>
+      <description>&lt;p&gt;La vidéo du concert dans le cadre du workshop CLEEDI 2025 à Tarascon-sur-Ariège est en ligne !&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
