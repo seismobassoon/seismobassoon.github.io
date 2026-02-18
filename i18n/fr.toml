@@ -1,2 +1,9 @@
+
 [readMore]
 other = "Voir plus"
+
+[teamCurrent]
+other = "Équipe actuelle"
+
+[teamAlumni]
+other = "Alumni"
