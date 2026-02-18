@@ -2,6 +2,8 @@
 date = "2026-02-16T14:37:51+01:00"
 draft = false
 title = "Curriculum Vitæ"
+
+showInSection: false
 +++
 
 {{< img "images/parcours.png" "Parcours">}}
