@@ -1,5 +1,6 @@
 {{ range .Site.Languages }}
-  <a href="{{ .Lang | relLangURL }}" class="lang-pill">
+  <a href="{{ .Lang | relLangURL }}"
+     class="lang-pill {{ if eq $.Site.Language.Lang .Lang }}active{{ end }}">
     {{ .Lang | upper }}
   </a>
 {{ end }}
