@@ -1,6 +1,15 @@
-{{- $path := .Get 0 -}}
-{{- $langPath := printf "%s/%s" $.Page.Lang $path -}}
-{{- with site.GetPage $langPath -}}
+{{- $rel := .Get 0 -}} {{/* ex: "cv/details.md" */}}
+{{- $p := site.GetPage $rel -}}
+
+{{/* 1) essaie d'abord la page dans la langue courante */}}
+{{- $t := cond (ne $p nil) ($p.Translations.GetByLang $.Page.Lang) nil -}}
+
+{{/* 2) si pas de traduction trouvée, tente un lookup explicite "jp/..." */}}
+{{- if not $t -}}
+  {{- $t = site.GetPage (printf "%s/%s" $.Page.Lang $rel) -}}
+{{- end -}}
+
+{{- with $t -}}
   <article class="post-entry entry-card-mini">
     <header class="entry-header">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
