@@ -1,0 +1,13 @@
+.entry-card-mini{
+  max-width: 520px;   /* petite carte */
+  margin: 1rem 0;
+  padding: 0.9rem 1rem;
+  border-radius: 12px;
+}
+
+.entry-clamp p{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;  /* clamp défaut */
+  overflow: hidden;
+}
