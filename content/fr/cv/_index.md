@@ -13,7 +13,7 @@ et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufran
   {{ partial "entry-card.html" . }}
 {{ end }}-->
 
-{{< entry-card "cv/details.md" 2 >}}
+{{< entry-card "cv/details.md" >}}
 
 {{< img "images/moi.png" "Moi" >}}
 
