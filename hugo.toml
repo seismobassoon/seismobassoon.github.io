@@ -10,7 +10,7 @@ languageCode = 'en'
 disablePathToLower = false
 
 [params]
-    displayFullLangName = true
+    displayFullLangName = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
     ShowPostNavLinks = false
@@ -43,8 +43,10 @@ disablePathToLower = false
 
   [languages.en]
     weight = 1
-    languageName = "English"
-    languageCode = "EN"
+    languageName ="English"
+    languageCode = "en"
+    [languages.en.params]
+      langBadge = "EN"
     contentDir = "content/en"
     [[languages.en.menu.main]]
         name = "About"
@@ -70,10 +72,14 @@ disablePathToLower = false
         name = "Geomusic"
         url = "geomusic/"
         weight = 6
+
+        
   [languages.fr]
     weight = 2
     languageName = "Français"
     contentDir = "content/fr"
+    [languages.fr.params]
+      langBadge = "FR"
     [[languages.fr.menu.main]]
         name = "📢"
         url = "news/"
@@ -108,12 +114,14 @@ disablePathToLower = false
     weight = 3
     languageName = "日本語"
     contentDir = "content/jp"
+    [languages.jp.params]
+      langBadge = "あ"
     [[languages.jp.menu.main]]
-        name = "ようこそ"
+        name = "ニュース"
         url = "about/"
         weight = 1
     [[languages.jp.menu.main]]
-        name = "職歴"
+        name = "私"
         url = "cv/"
         weight = 2
     [[languages.jp.menu.main]]
