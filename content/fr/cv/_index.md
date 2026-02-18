@@ -7,7 +7,12 @@ draft = false
 Je m'appelle Nobuaki Fuji, sismobassoniste, maître de conférences (HDR) et responsable de l'équipe de sismologie à [l'IPGP](https://www.ipgp.fr), à [l'UPC](https://u-paris.fr)
 et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
 
-Voir le [Curriculum Vitæ]({{< relref "details.md" >}})
+<!--Voir le [Curriculum Vitæ]({{< relref "details.md" >}})
+-->
+{{ with site.GetPage "section" "cv/details.md" }}
+  {{ partial "entry-card.html" . }}
+{{ end }}
+
 
 {{< img "images/moi.png" "Moi" >}}
 
