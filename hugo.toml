@@ -45,6 +45,8 @@ disablePathToLower = false
     weight = 1
     languageName ="English"
     languageCode = "en"
+    [languages.en.params]
+      langBadge = "EN"
     contentDir = "content/en"
     [[languages.en.menu.main]]
         name = "About"
@@ -70,10 +72,14 @@ disablePathToLower = false
         name = "Geomusic"
         url = "geomusic/"
         weight = 6
+
+        
   [languages.fr]
     weight = 2
     languageName = "Français"
     contentDir = "content/fr"
+    [languages.fr.params]
+      langBadge = "FR"
     [[languages.fr.menu.main]]
         name = "News"
         url = "news/"
@@ -108,6 +114,8 @@ disablePathToLower = false
     weight = 3
     languageName = "日本語"
     contentDir = "content/jp"
+    [languages.jp.params]
+      langBadge = "あ"
     [[languages.jp.menu.main]]
         name = "ニュース"
         url = "about/"
