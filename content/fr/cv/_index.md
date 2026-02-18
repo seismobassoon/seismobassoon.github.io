@@ -8,11 +8,11 @@ Je m'appelle Nobuaki Fuji, sismobassoniste, maître de conférences (HDR) et res
 et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
 
 <!--Voir le [Curriculum Vitæ]({{< relref "details.md" >}})
--->
+
 {{ with site.GetPage "section" "cv/details.md" }}
   {{ partial "entry-card.html" . }}
-{{ end }}
-
+{{ end }}-->
+{{< entry-card "cv/details.md" >}}
 
 {{< img "images/moi.png" "Moi" >}}
 
