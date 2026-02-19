@@ -1,2 +1,8 @@
 [readMore]
-other = "Read more"
+other = "さらに見る"
+
+[teamCurrent]
+other = "現在のチーム"
+
+[teamAlumni]
+other = "過去在籍者"

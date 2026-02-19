@@ -6,23 +6,69 @@
     <description>Recent content on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:37:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Curriculum Vitæ</title>
-      <link>http://localhost:1313/fr/cv/details/</link>
-      <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
-      <guid>http://localhost:1313/fr/cv/details/</guid>
-      <description>&lt;p&gt;Je suis né à Hyōgo le 26 novembre 1982 et j&amp;rsquo;ai vécu le séisme de Kobé en 1995 (mais ce n&amp;rsquo;est pas la raison pour laquelle je suis devenu sismologue !).&lt;/p&gt;
-&lt;p&gt;J&amp;rsquo;ai commencé mes études à l&amp;rsquo;université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.&lt;/p&gt;
-&lt;p&gt;J&amp;rsquo;ai soutenu &lt;a href=&#34;https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642&#34;&gt;ma thèse en 2010&lt;/a&gt; sur le développement de méthodes d&amp;rsquo;inversion des formes d&amp;rsquo;ondes sismiques pour contraindre la structure élastique et anélastique, sous la direction de Robert J. Geller à l&amp;rsquo;université de Tokyo.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>La nouvelle vidéo du PhiloGaïa est en ligne !</title>
       <link>http://localhost:1313/fr/news/2026-02-07/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/news/2026-02-07/</guid>
-      <description>&lt;p&gt;La vidéo du concert dans le cadre du workshop CLEEDI 2025 à Tarascon-sur-Ariège est en ligne !&lt;/p&gt;</description>
+      <description>&lt;p&gt;La vidéo du concert dans le cadre du workshop CLEEDI 2025 à Tarascon-sur-Ariège est en ligne !&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JCsNx9VqJTw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>CV long</title>
+      <link>http://localhost:1313/fr/cv/details/cv_long/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/cv/details/cv_long/</guid>
+      <description>&lt;h1 id=&#34;curriculum-vitæ&#34;&gt;Curriculum Vitæ&lt;/h1&gt;
+&lt;h2 id=&#34;notice-individuelle&#34;&gt;Notice individuelle&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nom, Prénom&lt;/strong&gt; : Fuji, Nobuaki&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Date de naissance&lt;/strong&gt; : 26 novembre 1982&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nationalité&lt;/strong&gt; : Japonaise (naturalisation française en cours)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lieu de naissance&lt;/strong&gt; : Hyogo, Japon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Situation actuelle&lt;/strong&gt; :&lt;br&gt;
+Maître de conférences, Université Paris Cité&lt;br&gt;
+Institut de Physique du Globe de Paris&lt;br&gt;
+Membre junior, Institut Universitaire de France&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adresse professionnelle&lt;/strong&gt; :&lt;br&gt;
+Bureau 328, Équipe de Sismologie&lt;br&gt;
+Université Paris Cité&lt;br&gt;
+Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
+1 rue Jussieu&lt;br&gt;
+75238 Paris Cedex 05&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications et communications</title>
+      <link>http://localhost:1313/fr/cv/details/publications/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/cv/details/publications/</guid>
+      <description>&lt;h1 id=&#34;publications-dans-des-revues-à-comité-de-lecture-rang-a&#34;&gt;Publications dans des revues à comité de lecture (rang A)&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;(Les doctorants et postdoctorants encadrés sont indiqués par “supervision”. Les collaborations par “collaboration”.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;p&gt;Fuji, N., 2025&lt;br&gt;
+« Évolution(s) » vue(s) par un géophysicien.&lt;br&gt;
+&lt;em&gt;Évolution(s) - Science, art et littérature&lt;/em&gt; (Eds. Séginger, G. &amp;amp; Yvonnet, J.), 289–306.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;p&gt;Fuji, N., 2024&lt;br&gt;
+The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese).&lt;br&gt;
+&lt;em&gt;The Review of High Pressure Science and Technology&lt;/em&gt;, 33(3), 158–167.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doucet Adèle</title>

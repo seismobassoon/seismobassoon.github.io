@@ -14,7 +14,7 @@ et membre junior de chaire médiation scientifique à [l'IUF](https://www.iufran
   {{ partial "entry-card.html" . }}
 {{ end }}-->
 
-{{< entry-card "cv/details.md" >}}
+{{< entry-card "cv/details" >}}
 
 {{< img "images/moi.png" "Moi" >}}
 
@@ -34,3 +34,4 @@ Je suis bassoniste et compositeur. Je compose de la musique classique inspirée 
 
 
 {{< youtube JCsNx9VqJTw >}}
+

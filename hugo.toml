@@ -49,27 +49,33 @@ disablePathToLower = false
       langBadge = "EN"
     contentDir = "content/en"
     [[languages.en.menu.main]]
-        name = "About"
-        url = "about/"
+        name = "📢"
+        pre = "News"
+        url = "news/"
         weight = 1
     [[languages.en.menu.main]]
-        name = "About"
+        name = "👤"
+        pre = "About"
         url = "cv/"
         weight = 2
     [[languages.en.menu.main]]
-        name = "Team"
+        name = "👥"
+        pre = "Team"
         url = "team/"
         weight = 3
     [[languages.en.menu.main]]
-        name = "Research"
+        name = "🧠"
+        pre = "Research"
         url = "research/"
         weight = 4
     [[languages.en.menu.main]]
-        name = "Education"
+        name = "🏫"
+        pre = "Education"
         url = "education/"
         weight = 5
     [[languages.en.menu.main]]
-        name = "Geomusic"
+        name = "🎹"
+        pre = "PhiloGaïa"
         url = "geomusic/"
         weight = 6
 
@@ -82,7 +88,7 @@ disablePathToLower = false
       langBadge = "FR"
     [[languages.fr.menu.main]]
         name = "📢"
-        pre = "news"
+        pre = "actu"
         url = "news/"
         weight = 1
     [[languages.fr.menu.main]]
@@ -123,33 +129,42 @@ disablePathToLower = false
     [languages.jp.params]
       langBadge = "あ"
     [[languages.jp.menu.main]]
-        name = "ニュース"
-        url = "about/"
+        name = "📢"
+        pre = "ニュース"
+        url = "news/"
         weight = 1
     [[languages.jp.menu.main]]
-        name = "私"
+        name = "👤"
+        pre = "私"
         url = "cv/"
         weight = 2
     [[languages.jp.menu.main]]
-        name = "研究室"
+        name = "👥"
+        pre = "チーム"
         url = "team/"
         weight = 3
     [[languages.jp.menu.main]]
-        name = "研究"
+        name = "🧠"
+        pre = "研究"
         url = "research/"
         weight = 4
     [[languages.jp.menu.main]]
-        name = "教育"
+        name = "🏫"
+        pre = "教育"
         url = "education/"
         weight = 5
     [[languages.jp.menu.main]]
-        name = "ジオ音楽"
+        name = "🎹"
+        pre = "フィロガイア"
         url = "geomusic/"
         weight = 6
-    
+
+
 
 
   [languages.de]
     weight = 4
     languageName = "Deutsch"
     contentDir = "content/de"
+    [languages.de.params]
+      langBadge = "DE"

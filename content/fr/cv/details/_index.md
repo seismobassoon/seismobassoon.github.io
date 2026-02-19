@@ -13,12 +13,14 @@ J'ai soutenu [ma thèse en 2010](https://ndlsearch.ndl.go.jp/books/R100000002-I0
 
 J'ai ensuite migré en France, immédiatement après ma thèse, pour travailler sur le calcul rapide des noyaux de sensibilité à hautes fréquences avec Sébastien Chevrot à l'université Toulouse III.
 
-J'ai soutenu mon [habilitation à diriger des recherches (HDR)](https://hal.science/tel-05081045) en 2022.
 
 J'ai été recruté maître de conférences à [l'Institut de physique du globe de Paris](https://www.ipgp.fr) en 2012. J'ai été responsable du master international (GPX et IMSES) de 2012 à 2020, membre élu du rang B du conseil scientifique de l'IPGP de 2016 à 2019, membre du conseil scientifique du réseau global Géoscope de 2016 à 2022, responsable du thème *Intérieurs de la Terre et des planètes* de 2016 à 2020.
-
+J'ai soutenu mon [habilitation à diriger des recherches (HDR)](https://hal.science/tel-05081045) en 2022 et je suis membre junior de [l'Institut universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) depuis 2022.
 Depuis 2025, je suis responsable de l'équipe de sismologie.
 
-Je suis membre junior de [l'Institut universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) depuis 2022.
+
+
 
 {{< img "images/parcours.png" "Parcours">}}
+{{< entry-card "cv/details/CV_long.md" >}}
+{{< entry-card "cv/details/publications.md" >}}
