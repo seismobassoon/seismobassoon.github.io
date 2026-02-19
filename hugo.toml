@@ -82,26 +82,32 @@ disablePathToLower = false
       langBadge = "FR"
     [[languages.fr.menu.main]]
         name = "📢"
+        pre = "news"
         url = "news/"
         weight = 1
     [[languages.fr.menu.main]]
         name = "👤"
+        pre = "moi"
         url = "cv/"
         weight = 2
     [[languages.fr.menu.main]]
         name = "👥"
+        pre = "équipe"
         url = "team/"
         weight = 3
     [[languages.fr.menu.main]]
         name = "🧠"
+        pre = "recherche"
         url = "research/"
         weight = 4
     [[languages.fr.menu.main]]
         name = "🏫"
+        pre = "enseignement"
         url = "education/"
         weight = 5
     [[languages.fr.menu.main]]
-        name = "🎶"
+        name = "🎹"
+        pre = "philogaïa"
         url = "geomusic/"
         weight = 6
     
