@@ -1,5 +1,5 @@
 +++
-title = "Belahi Thomas"
+title = "Belahi, Thomas"
 current_role = "PhD*"
 status = "alumni"
 date = "2012-10-01"

@@ -1,5 +1,5 @@
 +++
-title = "Teagai Kapiolani"
+title = "Teagai, Kapiolani"
 current_role = "PhD"
 status = "alumini"
 date = "2021-12-01"
