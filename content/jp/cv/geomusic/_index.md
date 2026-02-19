@@ -8,11 +8,11 @@ translationKey = "geomusic"
 
 {{< youtube JCsNx9VqJTw >}}
 
-{{< hT1VAtIpzcc >}}
+{{< youtube hT1VAtIpzcc >}}
 
-{{< pNwKjXhjaaY >}}
+{{< youtube pNwKjXhjaaY >}}
 
-{{< HSQUfjlaaUM >}}
+{{< youtube HSQUfjlaaUM >}}
 
 
-{{< ns3GPxdzHa8 >}}
+{{< youtube ns3GPxdzHa8 >}}
