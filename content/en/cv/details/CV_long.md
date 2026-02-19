@@ -79,40 +79,40 @@ Université Paris Cité – Institut de physique du globe de Paris
 ---
 
 ## 2012–present  
-**Maître de conférences**  
-Institut de Physique du Globe de Paris  
+**Associate professor**  
+Institut de physique du globe de Paris  
 Université Paris Cité – UMR 7154
 
 ---
 
 ## 2010–2012  
-**Post-doctorat**  
+**Postdoc**  
 Université de Toulouse III – IRAP  
 
-- **Sujet** :  
+- **Subject** :  
   Calcul rapide de noyaux de sensibilité des ondes sismiques de hautes fréquences à l'échelle globale  
 - **Direction** : Sébastien Chevrot  
 
 ---
 
 ## 2008–2010  
-**Chercheur spécial DC2**  
+**Special researcher DC2**  
 Japan Society for the Promotion of Science  
 
 ---
 
 ## 2007–2010  
-### Doctorat – Université de Tokyo  
-Département des sciences de la Terre et des planètes  
+### PhD – University of Tokyo  
+Department of Earth and planetary sciences 
 
-- **Titre** :  
+- **Title** :  
   *A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific*
 
-- **Directeur** : Robert J. Geller  
-- **Soutenue le** : 14 janvier 2010  
+- **Supervisor** : Robert J. Geller  
+- **Defended on the** : 14 janvier 2010  
 
 ### Jury
-- Satoru Honda (Président)
+- Satoru Honda (President)
 - Hitoshi Kawakatsu
 - Satoshi Ide
 - Takao Ohminato
@@ -122,25 +122,25 @@ Département des sciences de la Terre et des planètes
 ---
 
 ## 2005–2007  
-### Master – Université de Tokyo  
+### Master – University of Tokyo  
 
-- **Sujet** :  
+- **Subject** :  
   1D SH velocity models for the subregions of the Northwestern Pacific obtained using waveform inversion  
 - **Direction** : Robert J. Geller  
 
 ---
 
 ## 2003–2005  
-Licence 3–4 – Géophysique  
-Université de Tokyo  
+Bachelor 3–4 – Geophysics
+University of Tokyo  
 
 ## 2001–2003  
-Licence 1–2 – Sciences  
-Université de Tokyo  
+Bachelor 1–2 – Sciences
+University of Tokyo  
 
 ---
 
-# Projets scientifiques financés  
+# Financed scientific projects  
 **Total : 654,5 k€**
 
 ### 07/2025–  
@@ -186,34 +186,34 @@ Mission NASA *InSight*
 
 ---
 
-# Compétences
+# Proficiency
 
-## Calcul
+## Computation
 Julia > Fortran 77/90 (+MPI), Perl, Python > C > Java  
 
-## Langues
-Japonais  
-Français  
-Anglais (C2)  
-Russe (A2)  
-Portugais, italien, norvégien, chinois, suédois, coréen, catalan, espagnol, islandais (A1)
+## Languages
+Japanese
+French  
+English
+Russian (A2) 
+Portuguese, Italian, Norwegian, Chinese, Swedish, Korean, Catalan, Spanish, Icelandic (A1)
 
-## Loisirs
-Basson (semi-professionnel)  
+## Hobby
+Bassoon (semi-professional)  
 Composition (Silver Prize – Master Open Competition 2025)  
 Ski  
-Cuisine  
+Cooking
 Piano
 
 ---
 
-# Responsabilités collectives
+# Collective responsabilities
 
-## Rayonnement et responsabilités
+## Inter/national visibility and scientific impact
 
 ### France
 
-**Depuis 04/2022**  
+**From 04/2022**  
 Responsable de l’axe *Geology and Seismology*  
 International Research Centre (IRC), CNRS – Université de Tokyo  
 
