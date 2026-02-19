@@ -1,12 +1,11 @@
 {{- $rel := .Get 0 -}} {{/* ex: "cv/details.md" */}}
-{{- $p := site.GetPage $rel -}}
 
-{{/* 1) essaie d'abord la page dans la langue courante */}}
-{{- $t := cond (ne $p nil) ($p.Translations.GetByLang $.Page.Lang) nil -}}
+{{/* 1) Essaye d'abord le chemin explicite dans la langue courante */}}
+{{- $t := site.GetPage (printf "%s/%s" $.Page.Lang $rel) -}}
 
-{{/* 2) si pas de traduction trouvée, tente un lookup explicite "jp/..." */}}
+{{/* 2) Fallback: si pas trouvé, tente sans préfixe (langue par défaut) */}}
 {{- if not $t -}}
-  {{- $t = site.GetPage (printf "%s/%s" $.Page.Lang $rel) -}}
+  {{- $t = site.GetPage $rel -}}
 {{- end -}}
 
 {{- with $t -}}
