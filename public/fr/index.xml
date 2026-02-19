@@ -158,6 +158,13 @@ Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream 
       <description>Atténuation sismique et lien avec la viscosité géodynamique.</description>
     </item>
     <item>
+      <title>Zhu, Qiwen</title>
+      <link>http://localhost:1313/fr/team/zhu-qiwen/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/zhu-qiwen/</guid>
+      <description>&lt;p&gt;11/2023-, encadré par Li Zhao à Pékin et moi-même sur la tomographie du plateau tibétain. Qiwen est rentré en Chine en février 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Asnar, Manuel</title>
       <link>http://localhost:1313/fr/team/asnar-manuel/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -364,13 +371,6 @@ De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/borisov-dmitry/</guid>
       <description>&lt;p&gt;11/2010-11/2014 en thèse, encadré par Satish Singh de l&amp;rsquo;IPGP. Dimitry était déjà à la fin de sa deuxième année quand je suis arrivé à l&amp;rsquo;IPGP et il était en train de finaliser son projet sur l&amp;rsquo;injection de champs d&amp;rsquo;ondes afin de développer une méthodologie pour inverser les formes d&amp;rsquo;ondes pour une structure localisée dite « box waveform inversion ». Puisque j&amp;rsquo;étais en train de travailler sur un problème similaire pour le cas global, il était naturel pour moi de collaborer avec lui sur l&amp;rsquo;établissement de la théorie et le développement du code. L&amp;rsquo;extrapolation de champs d&amp;rsquo;ondes n&amp;rsquo;est pas aussi directe que l&amp;rsquo;on s&amp;rsquo;imagine dans certains cas, surtout quand l&amp;rsquo;on ne peut pas exercer l&amp;rsquo;intégral de surface entière à cause de la configuration géométrique des réseaux sismiques. Nous avons donc réécrit les formules et pu publier le premier article en utilisant des opérateurs élastiques \mbox{3D}, ce qui allait ensuite être la base pour la thèse de Shihao Yuan, mon deuxième thésard officiel. Dmitry est chercheur-professeur assistant à Kansas Geological Survey. Avec Dmitry, j&amp;rsquo;envisage de proposer un projet sismique-archéologique « iDASSITA » en utilisant des données de la fibre optique.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zhu, Qiwen</title>
-      <link>http://localhost:1313/fr/team/zhu-qiwen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/zhu-qiwen/</guid>
-      <description>&lt;p&gt;11/2023-, encadré par Li Zhao à Pékin et moi-même sur la tomographie du plateau tibétain. Qiwen est rentré en Chine en février 2025.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
