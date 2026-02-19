@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jp/cv/details/</loc>
-    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/cv/details/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/cv/details/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/cv/details/"
-                />
-  </url><url>
     <loc>http://localhost:1313/jp/</loc>
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
     <xhtml:link
@@ -41,6 +23,24 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/cv/details/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/"
                 />
   </url><url>
     <loc>http://localhost:1313/jp/cv/</loc>
@@ -117,6 +117,23 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/geomusic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/geomusic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/geomusic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/geomusic/"
                 />
   </url><url>
     <loc>http://localhost:1313/jp/tags/</loc>
