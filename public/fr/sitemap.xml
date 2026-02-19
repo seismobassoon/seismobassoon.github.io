@@ -142,6 +142,9 @@
     <loc>http://localhost:1313/fr/team/nakao-atsushi/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/fr/team/zhu-qiwen/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/team/asnar-manuel/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -276,7 +279,5 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fr/team/zhu-qiwen/</loc>
   </url>
 </urlset>
