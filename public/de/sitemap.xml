@@ -5,7 +5,7 @@
     <loc>http://localhost:1313/seismobassoon/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/categories/"
                 />
     <xhtml:link
@@ -27,7 +27,7 @@
     <loc>http://localhost:1313/seismobassoon/de/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/"
                 />
     <xhtml:link
@@ -49,7 +49,7 @@
     <loc>http://localhost:1313/seismobassoon/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/tags/"
                 />
     <xhtml:link

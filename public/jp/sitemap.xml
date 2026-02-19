@@ -5,7 +5,7 @@
     <loc>http://localhost:1313/seismobassoon/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/categories/"
                 />
     <xhtml:link
@@ -27,7 +27,7 @@
     <loc>http://localhost:1313/seismobassoon/jp/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/"
                 />
     <xhtml:link
@@ -49,7 +49,7 @@
     <loc>http://localhost:1313/seismobassoon/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="EN"
+                hreflang="en"
                 href="http://localhost:1313/seismobassoon/tags/"
                 />
     <xhtml:link
@@ -66,6 +66,33 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/seismobassoon/jp/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/seismobassoon/jp/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/seismobassoon/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/seismobassoon/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/seismobassoon/jp/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/seismobassoon/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/seismobassoon/jp/cv/"
                 />
   </url>
 </urlset>
