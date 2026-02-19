@@ -27,6 +27,21 @@
   </url><url>
     <loc>http://localhost:1313/fr/research/</loc>
     <lastmod>2026-02-16T15:36:04+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/research/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/cv/details/</loc>
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
@@ -66,9 +81,39 @@
   </url><url>
     <loc>http://localhost:1313/fr/news/2026-02-07/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/news/2026-02-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/news/2026-02-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/news/2026-02-07/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/news/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/news/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
@@ -90,18 +135,93 @@
   </url><url>
     <loc>http://localhost:1313/fr/team/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/riche-floriane/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/riche-floriane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/riche-floriane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/riche-floriane/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/salome-estelle/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/salome-estelle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/salome-estelle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/salome-estelle/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/hua-haiyuan/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/hua-haiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/hua-haiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/hua-haiyuan/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/mohammadi-hesaneh/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/mohammadi-hesaneh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/mohammadi-hesaneh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/mohammadi-hesaneh/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/cv/details/publications/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
@@ -123,117 +243,687 @@
   </url><url>
     <loc>http://localhost:1313/fr/team/drique-lorette/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/drique-lorette/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/drique-lorette/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/drique-lorette/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/goos-isabel/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/goos-isabel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/goos-isabel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/goos-isabel/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/bawa-neha/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/bawa-neha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/bawa-neha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/bawa-neha/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/delaroque-lorraine/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/delaroque-lorraine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/delaroque-lorraine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/delaroque-lorraine/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/pestes-rebeckah/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/pestes-rebeckah/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/pestes-rebeckah/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/pestes-rebeckah/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/doucet-adele/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/doucet-adele/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/doucet-adele/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/doucet-adele/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/kapiolani-teagai/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/kapiolani-teagai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/kapiolani-teagai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/kapiolani-teagai/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/nakao-atsushi/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/nakao-atsushi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/nakao-atsushi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/nakao-atsushi/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/zhu-qiwen/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/zhu-qiwen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/zhu-qiwen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/zhu-qiwen/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/asnar-manuel/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/asnar-manuel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/asnar-manuel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/asnar-manuel/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/salaun-charlotte/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/salaun-charlotte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/salaun-charlotte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/salaun-charlotte/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/chauvet-roxane/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/chauvet-roxane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/chauvet-roxane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/chauvet-roxane/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/xiao-zhu/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/xiao-zhu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/xiao-zhu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/xiao-zhu/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/dill-jane/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/dill-jane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/dill-jane/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/dill-jane/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/lai-ssuting/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/lai-ssuting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/lai-ssuting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/lai-ssuting/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/loubet-antonin/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/loubet-antonin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/loubet-antonin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/loubet-antonin/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/jacob-alice/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/jacob-alice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/jacob-alice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/jacob-alice/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/robin-aline/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/robin-aline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/robin-aline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/robin-aline/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/jang-hyoihn/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/jang-hyoihn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/jang-hyoihn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/jang-hyoihn/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/rahi-kenza/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/rahi-kenza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/rahi-kenza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/rahi-kenza/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/franken-thijs/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/franken-thijs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/franken-thijs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/franken-thijs/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/santty-guy/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/santty-guy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/santty-guy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/santty-guy/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/cuvilliez-clemence/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/cuvilliez-clemence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/cuvilliez-clemence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/cuvilliez-clemence/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/jiang-hao/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/jiang-hao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/jiang-hao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/jiang-hao/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/ovcharenko-oleg/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/ovcharenko-oleg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/ovcharenko-oleg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/ovcharenko-oleg/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/tannoury-claude/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/tannoury-claude/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/tannoury-claude/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/tannoury-claude/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/yuan-shihao/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/yuan-shihao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/yuan-shihao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/yuan-shihao/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/konishi-kensuke/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/konishi-kensuke/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/konishi-kensuke/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/konishi-kensuke/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/marjanovic-milena/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/marjanovic-milena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/marjanovic-milena/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/marjanovic-milena/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/oshikiri-takamasa/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/oshikiri-takamasa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/oshikiri-takamasa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/oshikiri-takamasa/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/villanuava-fernando/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/villanuava-fernando/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/villanuava-fernando/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/villanuava-fernando/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/el-sanhawari-moustapha/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/el-sanhawari-moustapha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/el-sanhawari-moustapha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/el-sanhawari-moustapha/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/jaegler-hugo/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/jaegler-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/jaegler-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/jaegler-hugo/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/juhel-kevin/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/juhel-kevin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/juhel-kevin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/juhel-kevin/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/egorova-angelina/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/egorova-angelina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/egorova-angelina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/egorova-angelina/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/belahi-thomas/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/belahi-thomas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/belahi-thomas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/belahi-thomas/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/meschede-mathias/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/meschede-mathias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/meschede-mathias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/meschede-mathias/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/team/borisov-dmitry/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/borisov-dmitry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/borisov-dmitry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/borisov-dmitry/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
@@ -265,6 +955,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/geomusic/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/geomusic/"
                 />
@@ -275,6 +970,21 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/education/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/education/"
+                />
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
     <xhtml:link
