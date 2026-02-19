@@ -378,7 +378,7 @@ Progress in Earth and Planetary Science
 
 ---
 
-## Organisation de sessions scientifiques
+## Organisation of scientific sessions
 
 EGU 2026 – Vienne (session BUGS)  
 EGU 2025 – Vienne (session BUGS)  
@@ -390,7 +390,7 @@ WPGM 2010 – Taipei
 
 ---
 
-## Organisation de workshops
+## Organisation of workshops
 
 ### CLEEDI  
 Foix — 2021, 2023, 2025  
@@ -410,7 +410,7 @@ Paris & Séoul — 2015, 2016
 
 ---
 
-# Vulgarisation scientifique
+# Scientific mediation
 
 Interviews :  
 
@@ -428,7 +428,7 @@ Fête de la Science (IPGP)
 
 ---
 
-# Sismomusique
+# Seismomusic activities
 
 Fondateur du PhiloGaïa Orchestra  
 Orchestre de chambre de l’IPGP  

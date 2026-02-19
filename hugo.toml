@@ -14,6 +14,7 @@ disablePathToLower = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
     ShowPostNavLinks = false
+    
     [params.assets]
         customCSS = ["css/custom.css"]
 
@@ -38,6 +39,10 @@ disablePathToLower = false
         name = "youtube"
         url = "https://www.youtube.com/@seismobassoon"
 
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/seismobassoon"
 
 [languages]
 
