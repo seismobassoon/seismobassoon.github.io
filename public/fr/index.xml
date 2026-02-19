@@ -60,18 +60,19 @@ Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
       <description>&lt;p&gt;06/2025-08/2025, deuxième année à l&amp;rsquo;École nationale supérieure de géologie, Nancy, encadrée par Véronique Van Elewyck et moi-même. Estelle a adapté Neurthino.jl dans ma nouvelle plateforme flexOPT.jl pour rendre possible le calcul des oscillogrammes de neutrino pour des modèles 2D/3D hétérogènes de la Terre.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Salomé, Estelle</title>
-      <link>http://localhost:1313/fr/team/zhu-qiwen/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/zhu-qiwen/</guid>
-      <description>&lt;p&gt;Qiwen Zhu∗ 11/2023-présent : 50% avec Li Zhao à U&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Hua, Haiyuan</title>
       <link>http://localhost:1313/fr/team/hua-haiyuan/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/hua-haiyuan/</guid>
       <description>&lt;p&gt;02/2025-08/2025, M2R, encadré par Taichi Kawamura et moi-même pour explorer des méthodologies d&amp;rsquo;inversion pour des modèles de la structure 1D de la lune à partir des données antennes. Haiyuan est embauché en tant qu&amp;rsquo;ingénieur-chercheur dans une boîte pétrolière en Chine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mohammadi, Hesaneh</title>
+      <link>http://localhost:1313/fr/team/mohammadi-hesaneh/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/mohammadi-hesaneh/</guid>
+      <description>&lt;p&gt;02/2025-présent, encadrée par Stéphanie Durand et moi-même, sur la tomographie localisée du Mont Fuji.
+Comme Adèle nous a montré, mont Fuji est un volcan dormant qui n&amp;rsquo;attirait pas assez d&amp;rsquo;attention et on ne le connaît pas assez. Dans le cadre de la thèse de Hesaneh, on développe la méthode d&amp;rsquo;imagerie sismique localisée sur la nouvelle plateforme flexOPT.jl et à partir du modèle obtenu on aimerait imager la migration du fluide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications et communications</title>
@@ -92,6 +93,24 @@ The interpretation limits of seismological exploration and the possibility of wa
 &lt;em&gt;The Review of High Pressure Science and Technology&lt;/em&gt;, 33(3), 158–167.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Drique, Lorette</title>
+      <link>http://localhost:1313/fr/team/drique-lorette/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/drique-lorette/</guid>
+      <description>&lt;p&gt;12/2024-présent, encadrée par Béatrice Puyssegur au CEA, Manon Dalaison
+à l’IPGP et moi-même sur la mitigation des erreurs d&amp;rsquo;images InSAR en cas de végétation.
+Lorette a fait son design du projet et est venue pour me proposer à travailler là-dessus.
+J&amp;rsquo;apprends le nouveau monde même si je reste &amp;lsquo;monsieur HDR&amp;rsquo;. J&amp;rsquo;espère qu&amp;rsquo;on va pouvoir analyser
+des données du mont Fuji à un moment donné.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goos, Isabel</title>
+      <link>http://localhost:1313/fr/team/goos-isabel/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/goos-isabel/</guid>
+      <description>&lt;p&gt;04/2023-présent, encadrée par Véronique Van Elewyck et moi-même sur la tomographie des oscillations de neutrinos. Avec le groupe de l&amp;rsquo;université d&amp;rsquo;Idaho et Stéphanie Durand à Lyon, Isabel anime nos travaux collaboratifs. C&amp;rsquo;est la seule équipe du monde qui fait le pont entre la physique de hautes énergies et la géophysique de manière quantitative.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bawa, Neha</title>
       <link>http://localhost:1313/fr/team/bawa-neha/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
@@ -104,6 +123,15 @@ The interpretation limits of seismological exploration and the possibility of wa
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/delaroque-lorraine/</guid>
       <description>&lt;p&gt;02/2023-06/2023, M2R. Lorraine est venue de l&amp;rsquo;université Grenoble Alpes et elle a développé un portail python pour télécharger des données et calculer des sismogrammes synthétiques à l&amp;rsquo;aide du dsmpy. Lorraine est actuellement en thèse avec Antoine Lucas et Taichi Kawamura en planétologie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pestes, Rebekah</title>
+      <link>http://localhost:1313/fr/team/pestes-rebeckah/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/pestes-rebeckah/</guid>
+      <description>&lt;p&gt;11/2022-04/2024, encadrée par Véronique Van Elewyck et moi-même. Rebekah a soutenu sa thèse à VirginiaTech
+devant le jury qui comprend Shunsaku Horiuchi, un vieux ami en physique quantique. C&amp;rsquo;était la première fois que
+j&amp;rsquo;ai travaillé sur la physique des hautes énergies et j&amp;rsquo;ai beaucoup appris grâce à elle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doucet, Adèle</title>
@@ -336,6 +364,13 @@ De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/borisov-dmitry/</guid>
       <description>&lt;p&gt;11/2010-11/2014 en thèse, encadré par Satish Singh de l&amp;rsquo;IPGP. Dimitry était déjà à la fin de sa deuxième année quand je suis arrivé à l&amp;rsquo;IPGP et il était en train de finaliser son projet sur l&amp;rsquo;injection de champs d&amp;rsquo;ondes afin de développer une méthodologie pour inverser les formes d&amp;rsquo;ondes pour une structure localisée dite « box waveform inversion ». Puisque j&amp;rsquo;étais en train de travailler sur un problème similaire pour le cas global, il était naturel pour moi de collaborer avec lui sur l&amp;rsquo;établissement de la théorie et le développement du code. L&amp;rsquo;extrapolation de champs d&amp;rsquo;ondes n&amp;rsquo;est pas aussi directe que l&amp;rsquo;on s&amp;rsquo;imagine dans certains cas, surtout quand l&amp;rsquo;on ne peut pas exercer l&amp;rsquo;intégral de surface entière à cause de la configuration géométrique des réseaux sismiques. Nous avons donc réécrit les formules et pu publier le premier article en utilisant des opérateurs élastiques \mbox{3D}, ce qui allait ensuite être la base pour la thèse de Shihao Yuan, mon deuxième thésard officiel. Dmitry est chercheur-professeur assistant à Kansas Geological Survey. Avec Dmitry, j&amp;rsquo;envisage de proposer un projet sismique-archéologique « iDASSITA » en utilisant des données de la fibre optique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zhu, Qiwen</title>
+      <link>http://localhost:1313/fr/team/zhu-qiwen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/zhu-qiwen/</guid>
+      <description>&lt;p&gt;11/2023-, encadré par Li Zhao à Pékin et moi-même sur la tomographie du plateau tibétain. Qiwen est rentré en Chine en février 2025.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

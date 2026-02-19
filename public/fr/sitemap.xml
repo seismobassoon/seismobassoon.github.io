@@ -94,10 +94,10 @@
     <loc>http://localhost:1313/fr/team/salome-estelle/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/team/zhu-qiwen/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/team/hua-haiyuan/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/team/mohammadi-hesaneh/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/cv/details/publications/</loc>
@@ -118,11 +118,20 @@
                 href="http://localhost:1313/fr/cv/details/publications/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/team/drique-lorette/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/team/goos-isabel/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/team/bawa-neha/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/team/delaroque-lorraine/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/team/pestes-rebeckah/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/team/doucet-adele/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
@@ -220,6 +229,8 @@
     <loc>http://localhost:1313/fr/team/borisov-dmitry/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/fr/geomusic/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -265,5 +276,7 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/team/zhu-qiwen/</loc>
   </url>
 </urlset>
