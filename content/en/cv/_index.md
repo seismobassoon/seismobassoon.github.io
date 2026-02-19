@@ -6,9 +6,7 @@ draft = false
 
 My name is Nobuaki Fuji, seismobassoonist, associate professor and head of the seismology team at [IPGP](https://www.ipgp.fr), [UPC](https://u-paris.fr) and junior member of scientific mediation chair at [IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
 
-<!--
-See the detailed [Curriculum Vitæ]({{< relref "details.md" >}})
--->
+
 {{< img "images/moi.png" "Moi" >}}
 
 ## Geodynamics and seismology: direct and inverse problems
