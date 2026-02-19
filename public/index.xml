@@ -2,75 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nobuaki Fuji</title>
-    <link>http://localhost:1313/seismobassoon/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Feb 2026 14:37:51 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/seismobassoon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitæ</title>
-      <link>http://localhost:1313/seismobassoon/fr/cv/details/</link>
+      <link>http://localhost:1313/en/cv/details/</link>
       <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/cv/details/</guid>
-      <description>&lt;p&gt;
-&lt;img src=&#34;http://localhost:1313/seismobassoon/images/parcours.png&#34; alt=&#34;Parcours&#34; loading=&#34;lazy&#34;&gt;
-
-Je suis né à Hyōgo le 26 novembre 1982 et j&amp;rsquo;ai vécu le séisme de Kobé en 1995 (mais ce n&amp;rsquo;est pas la raison pour laquelle je suis devenu sismologue !).&lt;/p&gt;
+      <guid>http://localhost:1313/en/cv/details/</guid>
+      <description>&lt;p&gt;I was born in Hyogo, one Friday, November 26th, 1982 and I experienced the Kobe earthquake when I was 12 years old.
+However, instead of making me decide to become a seismologist, I just learned that the earthquake prediction is impossible
+and that the media and the government had been emphasising the potential danger of only the &amp;ldquo;big one&amp;rdquo; in Tokyo region but not elsewhere,
+while it is natural to have catastrophic earthquakes whenever and wherever in Japan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitæ</title>
+      <link>http://localhost:1313/fr/cv/details/</link>
+      <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
+      <guid>http://localhost:1313/fr/cv/details/</guid>
+      <description>&lt;p&gt;Je suis né à Hyōgo le 26 novembre 1982 et j&amp;rsquo;ai vécu le séisme de Kobé en 1995 (mais ce n&amp;rsquo;est pas la raison pour laquelle je suis devenu sismologue !).&lt;/p&gt;
 &lt;p&gt;J&amp;rsquo;ai commencé mes études à l&amp;rsquo;université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.&lt;/p&gt;
 &lt;p&gt;J&amp;rsquo;ai soutenu &lt;a href=&#34;https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642&#34;&gt;ma thèse en 2010&lt;/a&gt; sur le développement de méthodes d&amp;rsquo;inversion des formes d&amp;rsquo;ondes sismiques pour contraindre la structure élastique et anélastique, sous la direction de Robert J. Geller à l&amp;rsquo;université de Tokyo.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>履歴書</title>
+      <link>http://localhost:1313/jp/cv/details/</link>
+      <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
+      <guid>http://localhost:1313/jp/cv/details/</guid>
+      <description>&lt;p&gt;1982年11月26日兵庫県尼崎市生まれで、12歳で兵庫県南部地震被災し、
+地震予知の不可能さを身をもって知る。決してこの経験が地震学者への道に繋がったわけではない。
+2001年に東京大学入学もオーケストラにのめり、ファゴットの練習に励む日々。
+国際ダブルリード協会名誉会員の菅原眸先生に師事、2022年に逝去されるまで
+家族のように可愛がって貰う。
+2010年に非弾性パラメータ推定のための波形インバージョン手法の開発で、
+博士号をゲラーロバート研究室で &lt;a href=&#34;https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642&#34;&gt;取得&lt;/a&gt;
+する。&lt;/p&gt;
+&lt;p&gt;ポスドクは2010年から2012年までトゥールーズのシュヴローセバスチャンの
+もとで波形の偏微分係数計算の最適化を行い、2012年に&lt;a href=&#34;https://www.ipgp.fr&#34;&gt;パリ地球物理研究所&lt;/a&gt;の
+准教授に着任。2022年に &lt;a href=&#34;https://hal.science/tel-05081045&#34;&gt;教授資格(HDR)&lt;/a&gt;を取得、さらに
+&lt;a href=&#34;https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html&#34;&gt;フランス大学学士会&lt;/a&gt;
+会員となる。2025年より地震学研究グループ長を務める。&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/images/parcours.png&#34; alt=&#34;Parcours&#34; loading=&#34;lazy&#34;&gt;</description>
+    </item>
+    <item>
       <title>La nouvelle vidéo du PhiloGaïa est en ligne !</title>
-      <link>http://localhost:1313/seismobassoon/fr/news/2026-02-07/</link>
+      <link>http://localhost:1313/fr/news/2026-02-07/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/news/2026-02-07/</guid>
+      <guid>http://localhost:1313/fr/news/2026-02-07/</guid>
       <description>&lt;p&gt;La vidéo du concert dans le cadre du workshop CLEEDI 2025 à Tarascon-sur-Ariège est en ligne !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doucet Adèle</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/doucet-adele/</link>
+      <link>http://localhost:1313/fr/team/doucet-adele/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/doucet-adele/</guid>
+      <guid>http://localhost:1313/fr/team/doucet-adele/</guid>
       <description>&lt;p&gt;04/2022-08/2022, M2R, encadrée par Yosuke Aoki (ERI) et moi-même, puis thèse depuis 10/2023 encadrée par Léonard Seydoux, Jean-Philippe Métaxian, Yosuke Aoki (ERI) et moi-même&lt;/p&gt;
 &lt;p&gt;Adèle m&amp;rsquo;avait parlé de son ambition de réaliser sa recherche au Japon toute l&amp;rsquo;année 2021 pendant le covid, ce qui était presque surréaliste. Avec Yosuke à l&amp;rsquo;ERI, nous avons commencé à construire un projet autour de la surveillance sismique d&amp;rsquo;un volcan dormant : le mont Fuji. Adèle n&amp;rsquo;a rien lâché et a enfin réussi à obtenir son visa et a commencé son stage à Tokyo en avril 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teagai Kapiolani</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/kapiolani-teagai/</link>
+      <link>http://localhost:1313/fr/team/kapiolani-teagai/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/kapiolani-teagai/</guid>
+      <guid>http://localhost:1313/fr/team/kapiolani-teagai/</guid>
       <description>&lt;p&gt;Doctorante 12/21-09/2025 encadrée par John Armitage, Christophe Andermann, Niel Hovius et moi-même.&lt;/p&gt;
 &lt;p&gt;Kapiolani est arrivée à Paris en 2021 après son M2 en hydrologie. Nous avons simulé le changement saisonnier de la vitesse apparente des ondes sismiques à partir de la modélisation du transport de l&amp;rsquo;eau.
 Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nakao Atsushi</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/atsushi-nakao/</link>
+      <link>http://localhost:1313/fr/team/atsushi-nakao/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/atsushi-nakao/</guid>
+      <guid>http://localhost:1313/fr/team/atsushi-nakao/</guid>
       <description>Atténuation sismique et lien avec la viscosité géodynamique.</description>
     </item>
     <item>
       <title>Asnar, Manuel</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/asnar-manuel/</link>
+      <link>http://localhost:1313/fr/team/asnar-manuel/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/asnar-manuel/</guid>
+      <guid>http://localhost:1313/fr/team/asnar-manuel/</guid>
       <description>&lt;p&gt;06/2020-12/2020, M2, École nationale supérieure de techniques avancées (ENSTA Paris), encadré par moi-même.&lt;/p&gt;
 &lt;p&gt;Il a travaillé pour le développement d’une nouvelle méthodologie de calcul des sismogrammes synthétiques à l’aide de la série Born appliquée aux harmonies sphériques. Un article de référence sur cette théorie a été publié avec un petit exemple pour les ondes scalaires (SH) il y a déjà 20 ans, mais le code n’avait jamais été développé ni pour les ondes vectorielles (P-SV) ni à la manière user-friendly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kensuke Konishi</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/konishi-kensuke/</link>
+      <link>http://localhost:1313/fr/team/konishi-kensuke/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/konishi-kensuke/</guid>
+      <guid>http://localhost:1313/fr/team/konishi-kensuke/</guid>
       <description>Inversion des formes d’ondes et collaboration franco-taïwanaise.</description>
     </item>
     <item>
       <title>Belahi Thomas</title>
-      <link>http://localhost:1313/seismobassoon/fr/team/belahi-thomas/</link>
+      <link>http://localhost:1313/fr/team/belahi-thomas/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/team/belahi-thomas/</guid>
+      <guid>http://localhost:1313/fr/team/belahi-thomas/</guid>
       <description>&lt;p&gt;10/2012–04/2017, thèse, encadré par moi-même et Satish Singh (IPGP).&lt;/p&gt;
 &lt;p&gt;Thomas commença sa thèse en même temps que moi à l&amp;rsquo;IPGP, i.e. il est mon premier étudiant « officiel ». Venant de l&amp;rsquo;école nationale supérieure des mines de Nancy et M2 en IDEA league (ETH Zürich, RWTH Aachen, TU Delft), il était déjà ingénieur et avait de très solides bases en codage.&lt;/p&gt;
 &lt;p&gt;Le sujet était le développement d&amp;rsquo;une méthodologie d&amp;rsquo;inverser des formes d&amp;rsquo;ondes pour la structure élastique et anélastique en domaine temporel. Bien qu&amp;rsquo;il y existât quelques codes développés par d&amp;rsquo;anciens thésards, il n&amp;rsquo;était pas évident pour nous de les synthétiser pour commencer le projet, étant donné une grande disparité des codes existants.&lt;/p&gt;</description>
