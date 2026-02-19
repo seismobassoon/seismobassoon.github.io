@@ -140,7 +140,7 @@ disablePathToLower = false
         weight = 2
     [[languages.jp.menu.main]]
         name = "👥"
-        pre = "チーム"
+        pre = "研究室"
         url = "team/"
         weight = 3
     [[languages.jp.menu.main]]
