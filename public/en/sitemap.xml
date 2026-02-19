@@ -2,205 +2,215 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/seismobassoon/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
     <lastmod>2026-02-16T15:36:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-16T15:36:04+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/"
+                href="http://localhost:1313/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/seismobassoon/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/research/</loc>
+    <loc>http://localhost:1313/fr/research/</loc>
     <lastmod>2026-02-16T15:36:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/cv/details/</loc>
-    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/cv/</loc>
+    <loc>http://localhost:1313/en/cv/</loc>
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/en/cv/"
+                href="http://localhost:1313/fr/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
+                href="http://localhost:1313/jp/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
+                href="http://localhost:1313/fr/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
+                href="http://localhost:1313/jp/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
+                href="http://localhost:1313/en/cv/"
                 />
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/news/2026-02-07/</loc>
+    <loc>http://localhost:1313/en/cv/details/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/cv/details/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jp/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/cv/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/jp/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/fr/cv/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/cv/details/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jp/cv/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/jp/cv/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/news/2026-02-07/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/news/</loc>
+    <loc>http://localhost:1313/fr/news/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/</loc>
+    <loc>http://localhost:1313/fr/team/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/team/"
+                href="http://localhost:1313/fr/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/fr/team/"
+                href="http://localhost:1313/fr/team/"
                 />
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/doucet-adele/</loc>
+    <loc>http://localhost:1313/fr/team/doucet-adele/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/kapiolani-teagai/</loc>
+    <loc>http://localhost:1313/fr/team/kapiolani-teagai/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/atsushi-nakao/</loc>
+    <loc>http://localhost:1313/fr/team/atsushi-nakao/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/asnar-manuel/</loc>
+    <loc>http://localhost:1313/fr/team/asnar-manuel/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/konishi-kensuke/</loc>
+    <loc>http://localhost:1313/fr/team/konishi-kensuke/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/team/belahi-thomas/</loc>
+    <loc>http://localhost:1313/fr/team/belahi-thomas/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/en/cv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
-                />
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/en/cv/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/seismobassoon/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/categories/"
+                href="http://localhost:1313/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/seismobassoon/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/en/</loc>
+    <loc>http://localhost:1313/fr/education/</loc>
   </url><url>
-    <loc>http://localhost:1313/seismobassoon/jp/</loc>
-  </url><url>
-    <loc>http://localhost:1313/seismobassoon/fr/education/</loc>
-  </url><url>
-    <loc>http://localhost:1313/seismobassoon/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/tags/"
+                href="http://localhost:1313/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/seismobassoon/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/seismobassoon/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/seismobassoon/jp/cv/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/en/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/seismobassoon/fr/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/seismobassoon/jp/cv/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Moi on Nobuaki Fuji</title>
-    <link>http://localhost:1313/seismobassoon/fr/cv/</link>
+    <link>http://localhost:1313/fr/cv/</link>
     <description>Recent content in Moi on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 16 Feb 2026 14:37:51 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/seismobassoon/fr/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitæ</title>
-      <link>http://localhost:1313/seismobassoon/fr/cv/details/</link>
+      <link>http://localhost:1313/fr/cv/details/</link>
       <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
-      <guid>http://localhost:1313/seismobassoon/fr/cv/details/</guid>
-      <description>&lt;p&gt;
-&lt;img src=&#34;http://localhost:1313/seismobassoon/images/parcours.png&#34; alt=&#34;Parcours&#34; loading=&#34;lazy&#34;&gt;
-
-Je suis né à Hyōgo le 26 novembre 1982 et j&amp;rsquo;ai vécu le séisme de Kobé en 1995 (mais ce n&amp;rsquo;est pas la raison pour laquelle je suis devenu sismologue !).&lt;/p&gt;
+      <guid>http://localhost:1313/fr/cv/details/</guid>
+      <description>&lt;p&gt;Je suis né à Hyōgo le 26 novembre 1982 et j&amp;rsquo;ai vécu le séisme de Kobé en 1995 (mais ce n&amp;rsquo;est pas la raison pour laquelle je suis devenu sismologue !).&lt;/p&gt;
 &lt;p&gt;J&amp;rsquo;ai commencé mes études à l&amp;rsquo;université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.&lt;/p&gt;
 &lt;p&gt;J&amp;rsquo;ai soutenu &lt;a href=&#34;https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642&#34;&gt;ma thèse en 2010&lt;/a&gt; sur le développement de méthodes d&amp;rsquo;inversion des formes d&amp;rsquo;ondes sismiques pour contraindre la structure élastique et anélastique, sous la direction de Robert J. Geller à l&amp;rsquo;université de Tokyo.&lt;/p&gt;</description>
     </item>
