@@ -3,8 +3,6 @@ title: "Publications et communications"
 date: 2025-01-01
 draft: false
 toc: true
-breadcrumbs: false
-
 ---
 
 # Publications dans des revues à comité de lecture (rang A)

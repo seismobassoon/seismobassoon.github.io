@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/jp/cv/details/</loc>
+    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/"
+                />
+  </url><url>
     <loc>http://localhost:1313/jp/</loc>
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
     <xhtml:link
@@ -25,35 +43,12 @@
                 href="http://localhost:1313/jp/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/cv/details/</loc>
-    <lastmod>2026-02-16T14:37:51+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/cv/details/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/cv/details/"
-                />
-  </url><url>
     <loc>http://localhost:1313/jp/cv/</loc>
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/fr/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/jp/cv/"
+                href="http://localhost:1313/cv/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -64,6 +59,42 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/cv/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/cv/details/cv_long/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/cv_long/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/details/cv_long/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/cv_long/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/cv/details/publications/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/details/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/publications/"
                 />
   </url><url>
     <loc>http://localhost:1313/jp/categories/</loc>

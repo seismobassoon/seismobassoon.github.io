@@ -10,75 +10,75 @@ breadcrumbs: false
 
 # Curriculum Vitæ
 
-## Notice individuelle
+## Individual notice
 
-- **Nom, Prénom** : Fuji, Nobuaki  
-- **Date de naissance** : 26 novembre 1982  
-- **Nationalité** : Japonaise (naturalisation française en cours)  
-- **Lieu de naissance** : Hyogo, Japon  
-- **Situation actuelle** :  
-  Maître de conférences, Université Paris Cité  
-  Institut de Physique du Globe de Paris  
-  Membre junior, Institut Universitaire de France  
+- **Name, first name** : Fuji, Nobuaki  
+- **Birthday** : November 26th 1982  
+- **Nationality** : Japanese (acquisition of French nationality on the way)  
+- **Birthplace** : Hyogo, Japan  
+- **Current position** :  
+  Associate professor at Institut de physique du globe de Paris, Université Paris Cité  
+  Junior member at Institut universitaire de France  
 
-- **Adresse professionnelle** :  
-  Bureau 328, Équipe de Sismologie  
-  Université Paris Cité  
-  Institut de Physique du Globe de Paris (CNRS)  
+- **Professional address** :  
+  Bureau 328, Seismology team 
+  Institut de physique du globe de Paris,
+  Université Paris Cité 
+  
   1 rue Jussieu  
   75238 Paris Cedex 05  
 
 
-- **Courriel** :  
+- **email** :  
   nobuaki_at_ipgp.fr  
   
 
-- **Page IPGP** :  
+- **IPGP page** :  
   https://www.ipgp.fr/annuaire/nobuaki/
 
-- **Page IUF** :  
+- **IUF page** :  
   https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html  
 
-- **Encadrements** :  
+- **Supervision** :  
   5 postdocs  
   14 doctorants (dont 6 avec convention)  
   24 stagiaires  
 
 - **Publications** :  
-  35 articles de rang A  
-  13 proceedings de rang A  
-  17 articles de vulgarisation  
-  Indice h : 20  
+  35 peer-reviewed papers
+  13 peer-reviewed proceedings  
+  17 outreach articles
+  H-index : 20  
 
 ---
 
-# Emploi et formation
+# Appointments and formation
 
 ## 2022–2027  
-**Membre junior**, Institut Universitaire de France
+**Junior member**, Institut universitaire de France
 
 ---
 
 ## 2022  
 ### Habilitation à diriger des recherches (HDR)  
-Université Paris Cité – Institut de Physique du Globe de Paris  
+Université Paris Cité – Institut de physique du globe de Paris  
 
-- **Titre** :  
-  *Sismologie small-data — d'une roche centimétrique à Mars*  
-- **Soutenue le** : 28 mars 2022  
+- **Title** :  
+  *Small data seismology — from a centimetric rock sample to Mars*  
+- **Defended on** : March 28th 2022  
 
 ### Jury
-- Jean-Paul Montagner (Président)
-- Éléonore Stutzmann (Rapporteuse interne)
-- Frederik Simons (Princeton University)
-- Karin Sigloch (CNRS, Géoazur)
-- Hitoshi Kawakatsu (University of Tokyo / Academia Sinica)
-- Saskia Goes (Imperial College London)
-- Alexandre Fournier (Université de Paris)
+- Jean-Paul Montagner (President, IPGP)
+- Éléonore Stutzmann (Reporter, IPGP)
+- Frederik Simons (Reporter, Princeton University)
+- Karin Sigloch (Reporter, CNRS, Géoazur)
+- Hitoshi Kawakatsu (Examinator, University of Tokyo / Academia Sinica)
+- Saskia Goes (Examinator, Imperial College London)
+- Alexandre Fournier (Invited, Université de Paris)
 
 ---
 
-## 2012–présent  
+## 2012–present  
 **Maître de conférences**  
 Institut de Physique du Globe de Paris  
 Université Paris Cité – UMR 7154

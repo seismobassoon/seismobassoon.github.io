@@ -6,88 +6,46 @@
     <description>Recent content on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 14:37:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curriculum Vitæ</title>
-      <link>http://localhost:1313/en/cv/details/</link>
-      <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
-      <guid>http://localhost:1313/en/cv/details/</guid>
-      <description>&lt;p&gt;I was born in Hyogo, one Friday, November 26th, 1982 and I experienced the Kobe earthquake when I was 12 years old.
-However, instead of making me decide to become a seismologist, I just learned that the earthquake prediction is impossible
-and that the media and the government had been emphasising the potential danger of only the &amp;ldquo;big one&amp;rdquo; in Tokyo region but not elsewhere,
-while it is natural to have catastrophic earthquakes whenever and wherever in Japan.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>履歴書</title>
-      <link>http://localhost:1313/jp/cv/details/</link>
-      <pubDate>Mon, 16 Feb 2026 14:37:51 +0100</pubDate>
-      <guid>http://localhost:1313/jp/cv/details/</guid>
-      <description>&lt;p&gt;1982年11月26日兵庫県尼崎市生まれで、12歳で兵庫県南部地震被災し、
-地震予知の不可能さを身をもって知る。決してこの経験が地震学者への道に繋がったわけではない。
-2001年に東京大学入学もオーケストラにのめり、ファゴットの練習に励む日々。
-国際ダブルリード協会名誉会員の菅原眸先生に師事、2022年に逝去されるまで
-家族のように可愛がって貰う。
-2010年に非弾性パラメータ推定のための波形インバージョン手法の開発で、
-博士号をゲラーロバート研究室で &lt;a href=&#34;https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642&#34;&gt;取得&lt;/a&gt;
-する。&lt;/p&gt;
-&lt;p&gt;ポスドクは2010年から2012年までトゥールーズのシュヴローセバスチャンの
-もとで波形の偏微分係数計算の最適化を行い、2012年に&lt;a href=&#34;https://www.ipgp.fr&#34;&gt;パリ地球物理研究所&lt;/a&gt;の
-准教授に着任。2022年に &lt;a href=&#34;https://hal.science/tel-05081045&#34;&gt;教授資格(HDR)&lt;/a&gt;を取得、さらに
-&lt;a href=&#34;https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html&#34;&gt;フランス大学学士会&lt;/a&gt;
-会員となる。2025年より地震学研究グループ長を務める。&lt;/p&gt;
-
-&lt;img src=&#34;http://localhost:1313/images/parcours.png&#34; alt=&#34;Parcours&#34; loading=&#34;lazy&#34;&gt;</description>
-    </item>
-    <item>
-      <title>La nouvelle vidéo du PhiloGaïa est en ligne !</title>
-      <link>http://localhost:1313/fr/news/2026-02-07/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/news/2026-02-07/</guid>
-      <description>&lt;p&gt;La vidéo du concert dans le cadre du workshop CLEEDI 2025 à Tarascon-sur-Ariège est en ligne !&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JCsNx9VqJTw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;</description>
-    </item>
-    <item>
       <title>CV long</title>
-      <link>http://localhost:1313/fr/cv/details/cv_long/</link>
+      <link>http://localhost:1313/cv/details/cv_long/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/cv/details/cv_long/</guid>
+      <guid>http://localhost:1313/cv/details/cv_long/</guid>
       <description>&lt;h1 id=&#34;curriculum-vitæ&#34;&gt;Curriculum Vitæ&lt;/h1&gt;
-&lt;h2 id=&#34;notice-individuelle&#34;&gt;Notice individuelle&lt;/h2&gt;
+&lt;h2 id=&#34;individual-notice&#34;&gt;Individual notice&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nom, Prénom&lt;/strong&gt; : Fuji, Nobuaki&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Name, first name&lt;/strong&gt; : Fuji, Nobuaki&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Date de naissance&lt;/strong&gt; : 26 novembre 1982&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Birthday&lt;/strong&gt; : November 26th 1982&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nationalité&lt;/strong&gt; : Japonaise (naturalisation française en cours)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nationality&lt;/strong&gt; : Japanese (acquisition of French nationality on the way)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Lieu de naissance&lt;/strong&gt; : Hyogo, Japon&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Birthplace&lt;/strong&gt; : Hyogo, Japan&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Situation actuelle&lt;/strong&gt; :&lt;br&gt;
-Maître de conférences, Université Paris Cité&lt;br&gt;
-Institut de Physique du Globe de Paris&lt;br&gt;
-Membre junior, Institut Universitaire de France&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Current position&lt;/strong&gt; :&lt;br&gt;
+Associate professor at Institut de physique du globe de Paris, Université Paris Cité&lt;br&gt;
+Junior member at Institut universitaire de France&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Adresse professionnelle&lt;/strong&gt; :&lt;br&gt;
-Bureau 328, Équipe de Sismologie&lt;br&gt;
-Université Paris Cité&lt;br&gt;
-Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
-1 rue Jussieu&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Professional address&lt;/strong&gt; :&lt;br&gt;
+Bureau 328, Seismology team
+Institut de physique du globe de Paris,
+Université Paris Cité&lt;/p&gt;
+&lt;p&gt;1 rue Jussieu&lt;br&gt;
 75238 Paris Cedex 05&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications et communications</title>
-      <link>http://localhost:1313/fr/cv/details/publications/</link>
+      <link>http://localhost:1313/cv/details/publications/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/cv/details/publications/</guid>
+      <guid>http://localhost:1313/cv/details/publications/</guid>
       <description>&lt;h1 id=&#34;publications-dans-des-revues-à-comité-de-lecture-rang-a&#34;&gt;Publications dans des revues à comité de lecture (rang A)&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;(Les doctorants et postdoctorants encadrés sont indiqués par “supervision”. Les collaborations par “collaboration”.)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -100,54 +58,6 @@ Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
 &lt;p&gt;Fuji, N., 2024&lt;br&gt;
 The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese).&lt;br&gt;
 &lt;em&gt;The Review of High Pressure Science and Technology&lt;/em&gt;, 33(3), 158–167.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doucet Adèle</title>
-      <link>http://localhost:1313/fr/team/doucet-adele/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/doucet-adele/</guid>
-      <description>&lt;p&gt;04/2022-08/2022, M2R, encadrée par Yosuke Aoki (ERI) et moi-même, puis thèse depuis 10/2023 encadrée par Léonard Seydoux, Jean-Philippe Métaxian, Yosuke Aoki (ERI) et moi-même&lt;/p&gt;
-&lt;p&gt;Adèle m&amp;rsquo;avait parlé de son ambition de réaliser sa recherche au Japon toute l&amp;rsquo;année 2021 pendant le covid, ce qui était presque surréaliste. Avec Yosuke à l&amp;rsquo;ERI, nous avons commencé à construire un projet autour de la surveillance sismique d&amp;rsquo;un volcan dormant : le mont Fuji. Adèle n&amp;rsquo;a rien lâché et a enfin réussi à obtenir son visa et a commencé son stage à Tokyo en avril 2022.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teagai Kapiolani</title>
-      <link>http://localhost:1313/fr/team/kapiolani-teagai/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/kapiolani-teagai/</guid>
-      <description>&lt;p&gt;Doctorante 12/21-09/2025 encadrée par John Armitage, Christophe Andermann, Niel Hovius et moi-même.&lt;/p&gt;
-&lt;p&gt;Kapiolani est arrivée à Paris en 2021 après son M2 en hydrologie. Nous avons simulé le changement saisonnier de la vitesse apparente des ondes sismiques à partir de la modélisation du transport de l&amp;rsquo;eau.
-Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream team.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nakao Atsushi</title>
-      <link>http://localhost:1313/fr/team/atsushi-nakao/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/atsushi-nakao/</guid>
-      <description>Atténuation sismique et lien avec la viscosité géodynamique.</description>
-    </item>
-    <item>
-      <title>Asnar, Manuel</title>
-      <link>http://localhost:1313/fr/team/asnar-manuel/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/asnar-manuel/</guid>
-      <description>&lt;p&gt;06/2020-12/2020, M2, École nationale supérieure de techniques avancées (ENSTA Paris), encadré par moi-même.&lt;/p&gt;
-&lt;p&gt;Il a travaillé pour le développement d’une nouvelle méthodologie de calcul des sismogrammes synthétiques à l’aide de la série Born appliquée aux harmonies sphériques. Un article de référence sur cette théorie a été publié avec un petit exemple pour les ondes scalaires (SH) il y a déjà 20 ans, mais le code n’avait jamais été développé ni pour les ondes vectorielles (P-SV) ni à la manière user-friendly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kensuke Konishi</title>
-      <link>http://localhost:1313/fr/team/konishi-kensuke/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/konishi-kensuke/</guid>
-      <description>Inversion des formes d’ondes et collaboration franco-taïwanaise.</description>
-    </item>
-    <item>
-      <title>Belahi Thomas</title>
-      <link>http://localhost:1313/fr/team/belahi-thomas/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/belahi-thomas/</guid>
-      <description>&lt;p&gt;10/2012–04/2017, thèse, encadré par moi-même et Satish Singh (IPGP).&lt;/p&gt;
-&lt;p&gt;Thomas commença sa thèse en même temps que moi à l&amp;rsquo;IPGP, i.e. il est mon premier étudiant « officiel ». Venant de l&amp;rsquo;école nationale supérieure des mines de Nancy et M2 en IDEA league (ETH Zürich, RWTH Aachen, TU Delft), il était déjà ingénieur et avait de très solides bases en codage.&lt;/p&gt;
-&lt;p&gt;Le sujet était le développement d&amp;rsquo;une méthodologie d&amp;rsquo;inverser des formes d&amp;rsquo;ondes pour la structure élastique et anélastique en domaine temporel. Bien qu&amp;rsquo;il y existât quelques codes développés par d&amp;rsquo;anciens thésards, il n&amp;rsquo;était pas évident pour nous de les synthétiser pour commencer le projet, étant donné une grande disparité des codes existants.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

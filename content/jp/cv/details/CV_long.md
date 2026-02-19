@@ -3,9 +3,7 @@ title: "CV long"
 date: 2026-02-01
 draft: false
 toc: true
-
-breadcrumbs: false
-
+showBreadCrumbs: true
 ---
 
 # Curriculum Vitæ

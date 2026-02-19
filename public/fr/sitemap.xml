@@ -32,6 +32,11 @@
     <lastmod>2026-02-16T14:37:51+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/cv/details/"
                 />
@@ -46,17 +51,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/fr/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/jp/cv/"
+                href="http://localhost:1313/cv/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,22 +72,42 @@
   </url><url>
     <loc>http://localhost:1313/fr/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/cv/details/publications/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/team/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fr/team/"
+                href="http://localhost:1313/cv/details/cv_long/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/cv_long/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/team/"
+                href="http://localhost:1313/fr/cv/details/cv_long/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/cv/details/publications/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/cv/details/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/cv/details/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/cv/details/publications/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/team/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/team/doucet-adele/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
