@@ -1,7 +1,7 @@
 +++
 title = "Meschede, Matthias"
 current_role = "PhD"
-status = "alumini"
+status = "alumni"
 date = "2011-09-01"
 draft = false
 +++

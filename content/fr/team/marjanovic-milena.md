@@ -1,7 +1,7 @@
 +++
 title = "Marjanović, Milena"
 current_role = "Master"
-status = "alumini"
+status = "alumni"
 date = "2014-09-01"
 draft = false
 +++

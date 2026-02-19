@@ -1,7 +1,7 @@
 +++
 title = "Teagai, Kapiolani"
 current_role = "PhD"
-status = "alumini"
+status = "alumni"
 date = "2021-12-01"
 draft = false
 +++

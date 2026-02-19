@@ -1,7 +1,7 @@
 +++
 title = "Villanueva-Robles, Fernando"
 current_role = "PhD*"
-status = "alumini"
+status = "alumni"
 date = "2014-01-01"
 draft = false
 +++

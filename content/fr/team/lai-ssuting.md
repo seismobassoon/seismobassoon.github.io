@@ -1,7 +1,7 @@
 +++
 title = "Lai, Ssu-Ting"
 current_role = "PhD*"
-status = "alumini"
+status = "alumni"
 date = "2018-02-01"
 draft = false
 +++

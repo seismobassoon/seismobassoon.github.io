@@ -2,7 +2,7 @@
 +++
 title = "Yuan, Shihao"
 current_role = "PhD*"
-status = "alumini"
+status = "alumni"
 date = "2014-10-01"
 draft = false
 +++

@@ -53,6 +53,27 @@ Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
 75238 Paris Cedex 05&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Salomé, Estelle</title>
+      <link>http://localhost:1313/fr/team/salome-estelle/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/salome-estelle/</guid>
+      <description>&lt;p&gt;06/2025-08/2025, deuxième année à l&amp;rsquo;École nationale supérieure de géologie, Nancy, encadrée par Véronique Van Elewyck et moi-même. Estelle a adapté Neurthino.jl dans ma nouvelle plateforme flexOPT.jl pour rendre possible le calcul des oscillogrammes de neutrino pour des modèles 2D/3D hétérogènes de la Terre.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Salomé, Estelle</title>
+      <link>http://localhost:1313/fr/team/zhu-qiwen/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/zhu-qiwen/</guid>
+      <description>&lt;p&gt;Qiwen Zhu∗ 11/2023-présent : 50% avec Li Zhao à U&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hua, Haiyuan</title>
+      <link>http://localhost:1313/fr/team/hua-haiyuan/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/hua-haiyuan/</guid>
+      <description>&lt;p&gt;02/2025-08/2025, M2R, encadré par Taichi Kawamura et moi-même pour explorer des méthodologies d&amp;rsquo;inversion pour des modèles de la structure 1D de la lune à partir des données antennes. Haiyuan est embauché en tant qu&amp;rsquo;ingénieur-chercheur dans une boîte pétrolière en Chine.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Publications et communications</title>
       <link>http://localhost:1313/fr/cv/details/publications/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -69,6 +90,20 @@ Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
 &lt;p&gt;Fuji, N., 2024&lt;br&gt;
 The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese).&lt;br&gt;
 &lt;em&gt;The Review of High Pressure Science and Technology&lt;/em&gt;, 33(3), 158–167.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bawa, Neha</title>
+      <link>http://localhost:1313/fr/team/bawa-neha/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/bawa-neha/</guid>
+      <description>&lt;p&gt;02/2023-06/2023, M2, encadré par Ssu-Ting Lai et moi-même sur le calcul des dérivées Fréchet dans une roche cylindrique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Delaroque, Lorraine</title>
+      <link>http://localhost:1313/fr/team/delaroque-lorraine/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/delaroque-lorraine/</guid>
+      <description>&lt;p&gt;02/2023-06/2023, M2R. Lorraine est venue de l&amp;rsquo;université Grenoble Alpes et elle a développé un portail python pour télécharger des données et calculer des sismogrammes synthétiques à l&amp;rsquo;aide du dsmpy. Lorraine est actuellement en thèse avec Antoine Lucas et Taichi Kawamura en planétologie.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doucet, Adèle</title>
@@ -135,7 +170,7 @@ Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream 
       <link>http://localhost:1313/fr/team/lai-ssuting/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/lai-ssuting/</guid>
-      <description>&lt;p&gt;02/2018-06/2018 en M2 GPX encadrée par moi-même et Ikuo Katayama à l&amp;rsquo;Université de Hiroshima, puis 10/2018-04/2022  en thèse encadrée par moi-même, Alexandre Schubnel, Fabian Bonilla et Yann Capdeville. Ssu-Ting a rendu visite à l&amp;rsquo;IES, Academia Sinica, lors de mon séjour à Taïwan en 2017. Dès le début j&amp;rsquo;ai senti son énergie et sa passion. Elle est arrivée à l&amp;rsquo;IPGP en tant qu&amp;rsquo;étudiante GPX et je lui ai proposé un sujet sur l&amp;rsquo;imagerie \textit{time-lapse} de la déformation d&amp;rsquo;une roche. Le sujet m&amp;rsquo;est venu par hasard. Il s&amp;rsquo;agissait d&amp;rsquo;une conversation pendant le pot du workshop «&lt;del&gt;Geller Fest&lt;/del&gt;» qui avait lieu à Tokyo en juin 2017 pour fêter la retraite de mon mentor Bob : Ikuo m&amp;rsquo;a montré les formes d&amp;rsquo;ondes enregistrées avec un capteur de la roche lors de la déformation, en me disant « regarde-moi ça, elles sont vraiment belles, n&amp;rsquo;est-ce pas ? Je ne connais rien de la sismologie mais je pense que tu pourras modéliser ces formes d&amp;rsquo;ondes, ce qui va être complètement nouveau dans notre domaine ! » C&amp;rsquo;était un projet à risque élevé. Pourtant cela m&amp;rsquo;a beaucoup plus. Dans un premier temps, j&amp;rsquo;ai proposé de les modéliser à l&amp;rsquo;aide de mon code « OptimallyAccurate2D » afin de comprendre la physique essentielle. Après six mois du stage M2 avec Ssu-Ting, qui finissait par un article EAGE, nous avons décidé de continuer la modélisation à l&amp;rsquo;aide de la méthode des éléments spectraux. J&amp;rsquo;ai obtenu une bourse dans le cadre de MOPGA (Make Our Planet Great Again) pour financer cette thèse. Elle a soutenu sa thèse en tant que ma première thésarde officielle.
+      <description>&lt;p&gt;02/2018-06/2018 en M2 GPX encadrée par moi-même et Ikuo Katayama à l&amp;rsquo;Université de Hiroshima, puis 10/2018-04/2022  en thèse encadrée par moi-même, Alexandre Schubnel, Fabian Bonilla et Yann Capdeville. Ssu-Ting a rendu visite à l&amp;rsquo;IES, Academia Sinica, lors de mon séjour à Taïwan en 2017. Dès le début j&amp;rsquo;ai senti son énergie et sa passion. Elle est arrivée à l&amp;rsquo;IPGP en tant qu&amp;rsquo;étudiante GPX et je lui ai proposé un sujet sur l&amp;rsquo;imagerie &lt;em&gt;time-lapse&lt;/em&gt; de la déformation d&amp;rsquo;une roche. Le sujet m&amp;rsquo;est venu par hasard. Il s&amp;rsquo;agissait d&amp;rsquo;une conversation pendant le pot du workshop « Geller Fest » qui avait lieu à Tokyo en juin 2017 pour fêter la retraite de mon mentor Bob : Ikuo m&amp;rsquo;a montré les formes d&amp;rsquo;ondes enregistrées avec un capteur de la roche lors de la déformation, en me disant « regarde-moi ça, elles sont vraiment belles, n&amp;rsquo;est-ce pas ? Je ne connais rien de la sismologie mais je pense que tu pourras modéliser ces formes d&amp;rsquo;ondes, ce qui va être complètement nouveau dans notre domaine ! » C&amp;rsquo;était un projet à risque élevé. Pourtant cela m&amp;rsquo;a beaucoup plus. Dans un premier temps, j&amp;rsquo;ai proposé de les modéliser à l&amp;rsquo;aide de mon code « OptimallyAccurate2D » afin de comprendre la physique essentielle. Après six mois du stage M2 avec Ssu-Ting, qui finissait par un article EAGE, nous avons décidé de continuer la modélisation à l&amp;rsquo;aide de la méthode des éléments spectraux. J&amp;rsquo;ai obtenu une bourse dans le cadre de MOPGA (Make Our Planet Great Again) pour financer cette thèse. Elle a soutenu sa thèse en tant que ma première thésarde officielle.
 Elle a fait son postdoc à GFZ Potsdam et actuellement chargée de recherche à l&amp;rsquo;université Gustav Eiffel depuis le mois de décembre 2025.
 De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
     </item>

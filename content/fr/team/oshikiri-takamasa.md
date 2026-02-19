@@ -1,7 +1,7 @@
 +++
 title = "Oshikiri, Takamasa"
 current_role = "Master"
-status = "alumini"
+status = "alumni"
 date = "2014-06-01"
 draft = false
 +++

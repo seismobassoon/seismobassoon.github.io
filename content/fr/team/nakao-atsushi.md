@@ -1,7 +1,7 @@
 +++
 title = "Nakao, Atsushi"
 current_role = "Postdoc"
-status = "alumini"
+status = "alumni"
 date = 2021-04-01T00:00:00
 summary = "Atténuation sismique et lien avec la viscosité géodynamique."
 draft = false

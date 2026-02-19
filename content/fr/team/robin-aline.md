@@ -1,7 +1,7 @@
 +++
 title = "Robin, Aline"
 current_role = "PhD"
-status = "alumini"
+status = "alumni"
 date = "2016-10-01"
 draft = false
 +++

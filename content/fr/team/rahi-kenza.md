@@ -1,7 +1,7 @@
 +++
 title = "Rahi, Kenza"
 current_role = "Master"
-status = "alumini"
+status = "alumni"
 date = "2016-06-01"
 draft = false
 +++

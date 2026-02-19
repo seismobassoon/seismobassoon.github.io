@@ -2,7 +2,7 @@
 +++
 title = "Xiao, Zhu"
 current_role = "PhD"
-status = "alumini"
+status = "alumni"
 date = "2018-08-01"
 draft = false
 +++
