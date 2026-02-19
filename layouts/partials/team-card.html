@@ -10,9 +10,9 @@
     {{ end }}
 
 
-        <p class="team-summary">
-        {{ .Summary }}
-        </p>
+      
+        <p class="team-summary">{{ .Summary | plainify }}</p>
+        
 
     <div class="team-more-wrapper">
     <a class="team-more" href="{{ .RelPermalink }}">

@@ -4,8 +4,11 @@ draft = false
 title = "Curriculum Vitæ"
 +++
 
+I was born in Hyogo, one Friday, November 26th, 1982 and I experienced the Kobe earthquake when I was 12 years old. 
+However, instead of making me decide to become a seismologist, I just learned that the earthquake prediction is impossible
+and that the media and the government had been emphasising the potential danger of only the "big one" in Tokyo region but not elsewhere, 
+while it is natural to have catastrophic earthquakes whenever and wherever in Japan.
 
-Je suis né à Hyōgo le 26 novembre 1982 et j'ai vécu le séisme de Kobé en 1995 (mais ce n'est pas la raison pour laquelle je suis devenu sismologue !).
 
 J'ai commencé mes études à l'université de Tokyo en 2001, mais la majeure partie de mon temps en licence a été consacrée au travail du basson, sous la direction de Hitomi Sugawara.
 

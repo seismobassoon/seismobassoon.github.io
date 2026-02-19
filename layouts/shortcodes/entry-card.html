@@ -1,0 +1,20 @@
+{{- $rel := .Get 0 -}} {{/* ex: "cv/details.md" */}}
+
+{{/* 1) Essaye d'abord le chemin explicite dans la langue courante */}}
+{{- $t := site.GetPage (printf "%s/%s" $.Page.Lang $rel) -}}
+
+{{/* 2) Fallback: si pas trouvé, tente sans préfixe (langue par défaut) */}}
+{{- if not $t -}}
+  {{- $t = site.GetPage $rel -}}
+{{- end -}}
+
+{{- with $t -}}
+  <article class="post-entry entry-card-mini">
+    <header class="entry-header">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    </header>
+    <div class="entry-content">
+      <p class="entry-clamp">{{ .Summary | plainify }}</p>
+    </div>
+  </article>
+{{- end -}}
