@@ -9,7 +9,7 @@
     <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Doucet Adèle</title>
+      <title>Doucet, Adèle</title>
       <link>http://localhost:1313/fr/team/doucet-adele/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/doucet-adele/</guid>
@@ -17,7 +17,7 @@
 &lt;p&gt;Adèle m&amp;rsquo;avait parlé de son ambition de réaliser sa recherche au Japon toute l&amp;rsquo;année 2021 pendant le covid, ce qui était presque surréaliste. Avec Yosuke à l&amp;rsquo;ERI, nous avons commencé à construire un projet autour de la surveillance sismique d&amp;rsquo;un volcan dormant : le mont Fuji. Adèle n&amp;rsquo;a rien lâché et a enfin réussi à obtenir son visa et a commencé son stage à Tokyo en avril 2022.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Teagai Kapiolani</title>
+      <title>Teagai, Kapiolani</title>
       <link>http://localhost:1313/fr/team/kapiolani-teagai/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/kapiolani-teagai/</guid>
@@ -26,10 +26,10 @@
 Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream team.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nakao Atsushi</title>
-      <link>http://localhost:1313/fr/team/atsushi-nakao/</link>
+      <title>Nakao, Atsushi</title>
+      <link>http://localhost:1313/fr/team/nakao-atsushi/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/team/atsushi-nakao/</guid>
+      <guid>http://localhost:1313/fr/team/nakao-atsushi/</guid>
       <description>Atténuation sismique et lien avec la viscosité géodynamique.</description>
     </item>
     <item>
@@ -41,20 +41,204 @@ Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream 
 &lt;p&gt;Il a travaillé pour le développement d’une nouvelle méthodologie de calcul des sismogrammes synthétiques à l’aide de la série Born appliquée aux harmonies sphériques. Un article de référence sur cette théorie a été publié avec un petit exemple pour les ondes scalaires (SH) il y a déjà 20 ans, mais le code n’avait jamais été développé ni pour les ondes vectorielles (P-SV) ni à la manière user-friendly.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kensuke Konishi</title>
+      <title>Saläun, Charlotte</title>
+      <link>http://localhost:1313/fr/team/salaun-charlotte/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/salaun-charlotte/</guid>
+      <description>&lt;p&gt;06/2020-07/2020, troisième année à l&amp;rsquo;École nationale supérieure de géologie, Nancy. Elle est arrivée en plein milieu de la crise sanitaire et nous ne nous sommes vus que quelques fois en présentiel. Or, nous avons travaillé, avec mes collègues Kurama Okubo et Eiji Yamada, en communiquant chaque jour et nous avons analysé des données des bruits urbains avant et pendant les confinements mondiaux en les comparant avec les données fournies par Google afin de trouver le lien entre la distance entre le sismomètre et le centre ville. Le stage s&amp;rsquo;est vraiment bien passé. Malheureusement un article a été publié dans la revue Science (Lecocq et al. 2020) et nous devons axer notre interprétation sur l&amp;rsquo;économie pour soumettre un article différent sur ce même sujet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chauvet, Roxane</title>
+      <link>http://localhost:1313/fr/team/chauvet-roxane/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/chauvet-roxane/</guid>
+      <description>&lt;p&gt;06/2019-07/2019, L3 Cursus master ingénierie en génie géologique et civil (CMIgéoc) à l’Université de Bordeaux. Roxane était très enthousiaste pendant ce petit stage où nous avons amélioré la boîte à outils pour inverser des données sur le projet InSight. Je lui ai fourni un jeu de données synthétiques calculés pour des modèles de Mars, afin de localiser des séismes. Nous nous sommes rendus compte qu&amp;rsquo;il faut utiliser l&amp;rsquo;inverse de la matrice Hessian pour stabiliser la solution. Roxane et moi avons tout écrit en Python et ces outils sont encore utilisés pour les travaux dirigés du cours « Problème Inverse ». Ces outils ont été ensuite intégré dans mon code « MarsMTInversion » en fortran qui est le moteur de la thèse d&amp;rsquo;Alice Jacob. Roxane s&amp;rsquo;intégra au Master à l&amp;rsquo;IPGP suite à ce stage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xiao, Zhu</title>
+      <link>http://localhost:1313/fr/team/xiao-zhu/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/xiao-zhu/</guid>
+      <description>&lt;p&gt;08/2018-06/2019, en thèse, partiellement encadré par Yuan Gao de l&amp;rsquo;administration des tremblements de terre de la Chine (CEA) et Takashi Iidaka de l&amp;rsquo;ERI, Université de Tokyo. Zhu a passé quelques mois à l&amp;rsquo;ERI pendant l&amp;rsquo;été 2018 chez Takashi en même temps que moi et il a voulu explorer le manteau supérieur sous le plateau tibétain. Nous nous sommes vus deux fois par semaines pour discuter le problème inverse et le fameux rasoir d&amp;rsquo;Occam. Il est très doué pour visualiser les résultats et nous avons pu avancer ce projet à une vitesse impressionnante. Nous avons publié un article sur cette imagerie à l&amp;rsquo;aide de l&amp;rsquo;inversion des formes d&amp;rsquo;ondes. Zhu est actuellement postdoc en Chine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dill, Jane</title>
+      <link>http://localhost:1313/fr/team/dill-jane/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/dill-jane/</guid>
+      <description>&lt;p&gt;06/2018-11/2018, M2, École nationale supérieure des arts décoratifs en arts plastiques, encadrée par Napoli Davide et moi-même. Jennifer voulait réaliser un mémoire et un atelier autour du thème « Ligne, Onde et Mouvement &amp;hellip; matières premières de création » dont le premier chapitre est intitulé « Au cœur de la Terre » où elle a cherché à faire écouter des mouvements sismologiques et visualiser les formes d&amp;rsquo;ondes en direct à l&amp;rsquo;aide des géophones. Nous avons beaucoup discuté de comment relier l&amp;rsquo;art et la science en général et collaboré pour monter l&amp;rsquo;atelier. J&amp;rsquo;ai fini par jouer du basson pour faire vibrer les géophones pendant sa soutenance. Cela n&amp;rsquo;arrive pas souvent que j&amp;rsquo;encadre un étudiant en art plastique mais la première phrase de son mémoire était un petit cadeau pour moi : « Cette installation est le fruit d&amp;rsquo;une rencontre, entre une artiste abstraite et un scientifique mélomane. » Elle a obtenu une mention très bien.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lai, Ssu-Ting</title>
+      <link>http://localhost:1313/fr/team/lai-ssuting/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/lai-ssuting/</guid>
+      <description>&lt;p&gt;02/2018-06/2018 en M2 GPX encadrée par moi-même et Ikuo Katayama à l&amp;rsquo;Université de Hiroshima, puis 10/2018-04/2022  en thèse encadrée par moi-même, Alexandre Schubnel, Fabian Bonilla et Yann Capdeville. Ssu-Ting a rendu visite à l&amp;rsquo;IES, Academia Sinica, lors de mon séjour à Taïwan en 2017. Dès le début j&amp;rsquo;ai senti son énergie et sa passion. Elle est arrivée à l&amp;rsquo;IPGP en tant qu&amp;rsquo;étudiante GPX et je lui ai proposé un sujet sur l&amp;rsquo;imagerie \textit{time-lapse} de la déformation d&amp;rsquo;une roche. Le sujet m&amp;rsquo;est venu par hasard. Il s&amp;rsquo;agissait d&amp;rsquo;une conversation pendant le pot du workshop «&lt;del&gt;Geller Fest&lt;/del&gt;» qui avait lieu à Tokyo en juin 2017 pour fêter la retraite de mon mentor Bob : Ikuo m&amp;rsquo;a montré les formes d&amp;rsquo;ondes enregistrées avec un capteur de la roche lors de la déformation, en me disant « regarde-moi ça, elles sont vraiment belles, n&amp;rsquo;est-ce pas ? Je ne connais rien de la sismologie mais je pense que tu pourras modéliser ces formes d&amp;rsquo;ondes, ce qui va être complètement nouveau dans notre domaine ! » C&amp;rsquo;était un projet à risque élevé. Pourtant cela m&amp;rsquo;a beaucoup plus. Dans un premier temps, j&amp;rsquo;ai proposé de les modéliser à l&amp;rsquo;aide de mon code « OptimallyAccurate2D » afin de comprendre la physique essentielle. Après six mois du stage M2 avec Ssu-Ting, qui finissait par un article EAGE, nous avons décidé de continuer la modélisation à l&amp;rsquo;aide de la méthode des éléments spectraux. J&amp;rsquo;ai obtenu une bourse dans le cadre de MOPGA (Make Our Planet Great Again) pour financer cette thèse. Elle a soutenu sa thèse en tant que ma première thésarde officielle.
+Elle a fait son postdoc à GFZ Potsdam et actuellement chargée de recherche à l&amp;rsquo;université Gustav Eiffel depuis le mois de décembre 2025.
+De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loubet, Antonin</title>
+      <link>http://localhost:1313/fr/team/loubet-antonin/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/loubet-antonin/</guid>
+      <description>&lt;p&gt;02/2018-06/2018, M2R encadré par Philippe Lognonné et moi-même. Antonin a contribué au calcul des sismogrammes synthétiques pour les modèles de Mars en utilisant Direct Solution Method (DSM). Il est actuellement cadre de la fonction publique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jacob, Alice</title>
+      <link>http://localhost:1313/fr/team/jacob-alice/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/jacob-alice/</guid>
+      <description>&lt;p&gt;03/2017-09/2017, M2R, UPMC, encadrée par Philippe Lognonné et moi-même, puis un autre M2R à l&amp;rsquo;IPGP, 02/2018-06/2018, encadrée par Clément Perrin, Antoine Lucas, Sébastien Rodriguez, Philippe Lognonné et moi-même, puis 10/2018-04/2022 en thèse par Matthieu Plasman, Clément Perrin, Philippe Lognonné, Zongbo Xu, Antoine Lucas, Sébastien Rodriguez et moi-même. Alice est passionnée par la planétologie. Avant l&amp;rsquo;atterrissage d&amp;rsquo;InSight, nous avons calculé les sismogrammes synthétiques à hautes fréquences à l&amp;rsquo;aide de Direct Solution Method (DSM) avec plusieurs scénarios géologiques de Mars, en prédisant la complexité en cas de présence d&amp;rsquo;une couche de régolithe sur la surface de la planète rouge. Pendant la thèse d&amp;rsquo;Alice, j&amp;rsquo;ai écrit un code « MarsMTInversion », qui utilise la base des données de fonctions Green calculée par « DSM Kernel Suite », pour localiser et estimer le mécanisme au foyer des séismes enregistrés sur Mars avec une seule station. Ce code est le moteur de la thèse d&amp;rsquo;Alice. Alice a ensuite regardé avec beaucoup d&amp;rsquo;attention les données sismologiques en regardant à la fois le contenu fréquentiel et l&amp;rsquo;absence des ondes de surface et interprété ses résultats avec son analyse géologique à l&amp;rsquo;aide de la topographie de la feuille Cerbeus Fossae.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robin, Aline</title>
+      <link>http://localhost:1313/fr/team/robin-aline/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/robin-aline/</guid>
+      <description>&lt;p&gt;10/2016-02/2021, en thèse, encadrée par Satish Singh. Elle a dû accélérer le calcul de la direction du gradient lors de l&amp;rsquo;inversion des formes d&amp;rsquo;ondes et elle est venue vers moi pour formaliser le théorème de représentation de ce cas spécifique. Aline a animé mon cours de sismologie et activement participé à l&amp;rsquo;écriture du polycopié ouvert à tous les étudiants. Elle travaille à OPeRA (Organisme Pétrolier de Recherche Appliquée), organisme de recherche en imagerie sismique pour l&amp;rsquo;industrie pétrolière, issu d&amp;rsquo;un partenariat entre l&amp;rsquo;ADERA, TOTAL et l&amp;rsquo;UPPA (Université de Pau et des Pays de l&amp;rsquo;Adour).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jang, Hyoihn</title>
+      <link>http://localhost:1313/fr/team/jang-hyoihn/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/jang-hyoihn/</guid>
+      <description>&lt;p&gt;07/2016-08/2016, M2R, Université de Séoul, encadrée par YoungHee Kim et moi-même. Suite au workshop bi-national que j&amp;rsquo;ai organisé avec Sang-Mook Lee, nous avons identifié quelques axes de recherche dont un sur l&amp;rsquo;imagerie sismique du manteau au-dessous de la plaque Caroline. Le défi était de trouver un moyen robust pour imager la zone d&amp;rsquo;intérêt, puisqu&amp;rsquo;il n&amp;rsquo;y a ni séismes importants, ni stations sismologiques (la plaque est complètement couverte par le Pacifique). Je lui ai proposé de regarder les temps d&amp;rsquo;arrivées différentiels entre la phase S qui n&amp;rsquo;échantillonne pas la zone et la phase SS qui la reflète. Hyoihn était extrêmement efficace pendant son court séjour à Paris, ce qui nous a permis de présenter la première image à l&amp;rsquo;AGU 2016. Nous avions continué à travailler ensemble pour affiner l&amp;rsquo;image et avancer sur l&amp;rsquo;interprétation : malheureusement cela a pris beaucoup plus de temps que prévu mais nous avons enfin pu publier le premier article là-dessus. Hyoihn travaille actuellement dans une compagnie informatique en Corée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rahi, Kenza</title>
+      <link>http://localhost:1313/fr/team/rahi-kenza/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/rahi-kenza/</guid>
+      <description>&lt;p&gt;06/2019-07/2019, L2, encadrée par moi-même. Kenza est une étudiante très enthousiaste. Elle a voulu faire ce stage avec moi, même si un stage en L2 n&amp;rsquo;est pas quelque chose de commun. Elle a travaillé avec Roxane sur « MarsMTInversion ».&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Franken, Thijs</title>
+      <link>http://localhost:1313/fr/team/franken-thijs/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/franken-thijs/</guid>
+      <description>&lt;p&gt;02/2016-09/2016, M2R, encadré par moi-même, puis en thèse 10/2016-12/2019, encadré par John Armitage, Alexandre Fournier et moi-même. Il est arrivé en tant que stagiaire de l&amp;rsquo;Université d&amp;rsquo;Utrecht à mon laboratoire au plein milieu du développement du code «&lt;del&gt;OptimallyAccurate2D&lt;/del&gt;» \autocite[e.g.][]{Geller_1998,Fuji_2016}. Bien que la base de la théorie fût établie, il n&amp;rsquo;était écrit nulle part comment dériver des coefficients. Avec Thijs, nous avons retravaillé sur la formulation. Ensuite, Thijs a commencé sa thèse sur le filtrage sismologique des modèles géodynamiques avec John et Alex. Il a passé un an à modéliser le transport du melt au-dessous des points-chauds, puis il a observé la propagation des ondes dans ces modèles géodynamiquement cohérents. À la fin de sa thèse, nous avons pu comparer ces données synthétiques avec les données observées à la Réunion (une seule station), nous avons pu indiquer une haute extraction de la fusion partielle au-dessous de la région. Comme c&amp;rsquo;est le sujet qui me tient à cœur, cette étude est le point de départ pour mes travaux à l&amp;rsquo;avenir. Thijs vient de commencer à travailler chez Fugro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Santty Dalinaud, Guy</title>
+      <link>http://localhost:1313/fr/team/santty-guy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/santty-guy/</guid>
+      <description>&lt;p&gt;01/2016-06/2016, M2R GPX, encadré par Hervé Chauris et moi-même. Le stage avait pour but de quantifier l&amp;rsquo;effet des erreurs d&amp;rsquo;opérateurs directes sur les images finales des inversions des formes d&amp;rsquo;ondes. Guy n&amp;rsquo;étant pas assez présent au laboratoire, le projet n&amp;rsquo;avait pas bien progressé. Or, j&amp;rsquo;ai travaillé sur ce sujet plus tard et ai fait une présentation à l&amp;rsquo;EGU en 2018.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cuvilliez, Clémence</title>
+      <link>http://localhost:1313/fr/team/cuvilliez-clemence/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/cuvilliez-clemence/</guid>
+      <description>&lt;p&gt;07/2015-09/2015, troisième année à l&amp;rsquo;École nationale supérieure de géologie, Nancy. En arrivant juste après le stage d&amp;rsquo;Oleg, Clémence a repris son code de l&amp;rsquo;opérateur optimal en différence finie. Elle a nettoyé le code et rédigé le proceeding EAGE avec moi pendant le stage. Étant guitariste, Matthias, Clémence et moi-même avons fait des petits concerts dans la rue parisienne. Elle est devenue géophysicienne à TotalEnergies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jiang, Hao</title>
+      <link>http://localhost:1313/fr/team/jiang-hao/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/jiang-hao/</guid>
+      <description>&lt;p&gt;01/2015-06/2015, M2R, encadré par Hervé Chauris et moi-même. Très motivé et qualifié en physique, Hao a travaillé sur la migration sismique \textit{time-lapse}. Ces résultats ont été utiles pour comprendre les problématiques, notamment dans le cadre de l&amp;rsquo;inversion des formes d&amp;rsquo;ondes localisée que Shihao Yuan et moi-même avons développé au cours du temps. Hao a continué à étudier le sujet en cas de présence d&amp;rsquo;une couche très atténuante avec Hervé et a soutenu en 2019. Il travaille pour le CGG actuellement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ovcharenko, Oleg</title>
+      <link>http://localhost:1313/fr/team/ovcharenko-oleg/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/ovcharenko-oleg/</guid>
+      <description>&lt;p&gt;01/2015-06/2015, M2R GPX, encadré par Roland Martin et moi-même. Nous avons développé un code de différence finie « OptimallyAccurate2D » avec des discontinuités qui ne coincident pas avec les grilles. Cette étude est publiée un an plus tard et le code est toujours disponible sur mon Github. Oleg a eu la meilleure note pendant sa soutenance de Master. Il a ensuite commencé sa thèse à KAUST puis il est actuellement data scientist chez ExxonMobil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tannoury, Claude</title>
+      <link>http://localhost:1313/fr/team/tannoury-claude/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/tannoury-claude/</guid>
+      <description>&lt;p&gt;01/2015-06/2015, M2R, encadrée par Eléonore Stutzmann, Jean-Paul Montagner et moi-même. Nous avons voulu extraire des fonctions de Green à l&amp;rsquo;aide de la corrélation croisée des bruits sismiques enregistrés au Groenland. Claude étant une étudiante sérieuse, elle a beaucoup travaillé avec Éléonore mais le temps s&amp;rsquo;est écoulé et nous n&amp;rsquo;avons pas pu modéliser des sismogrammes synthétiques. Par contre, nous avons beaucoup échangé pendant son stage et elle a approfondi sa compréhension de la sismologie théorique. Après sa thèse en physique à Rennes, elle est actuellement enseignante à l&amp;rsquo;Efrei Paris, la Grande école du numérique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yuan, Shihao</title>
+      <link>http://localhost:1313/fr/team/yuan-shihao/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/yuan-shihao/</guid>
+      <description>&lt;p&gt;10/2014-04/2018 en thèse encadré par Satish Singh et moi-même. Je connaissais Shihao depuis son M2 à l&amp;rsquo;IPGP. Il s&amp;rsquo;est intégré dans l&amp;rsquo;équipe de géosciences marines et a commencé à développer la méthode de l&amp;rsquo;inversion des formes d&amp;rsquo;ondes localisée \textit{time-lapse}. Nous avons consacré un an entier sur la (re)formalisation du théorème de représentation en cas d&amp;rsquo;une petite perturbation, qui pourrait finalement être interprété comme une théorie de perturbation. Même si j&amp;rsquo;avais des expériences dans ce genre de théorie, c&amp;rsquo;était avec Shihao que j&amp;rsquo;avais pu théoriquement connecter de nombreuses techniques existantes en sismologie théorique et numérique (l&amp;rsquo;annexe de notre premier article est toujours une de mes œuvres dont je suis fier). Avec Dmitry et Satish, nous avons pu avancer sur la méthodologie et j&amp;rsquo;envisage d&amp;rsquo;utiliser le code que nous avons concocté pour imager les chambres magmatiques avec Milena dès son arrivée à l&amp;rsquo;IPGP en septembre 2021. Puisque Shihao a toujours été intéressé par la sismologie rotationelle, il a fait sno postdoc chez Heiner Igel à Munich, en participant à plusieurs projets autour de cette nouvelle technologie en sismologie. Actuellement, il est devenu professeur (CPJ) à l&amp;rsquo;université Gustav Eiffel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Konishi, Kensuke</title>
       <link>http://localhost:1313/fr/team/konishi-kensuke/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/konishi-kensuke/</guid>
-      <description>Inversion des formes d’ondes et collaboration franco-taïwanaise.</description>
+      <description>&lt;p&gt;09/2014-07/2020, postdoc, encadré par moi-même avec Frédéric Deschamps à l&amp;rsquo;Institute of Earth Sciences, Academia Sinica, Taipei, Taiwan. Kensuke est arrivé au laboratoire de Robert (Bob) J. Geller à l&amp;rsquo;Université de Tokyo en 2006 en tant que stagiaire de L4 un an plus tard que moi. Nous avons travaillé étroitement ensemble depuis toujours, jusqu&amp;rsquo;à 2020 où il décida de quitter la recherche. Il a soutenu sa thèse à Tokyo en 2013 et est parti au laboratoire de Sang-Mook Lee à l&amp;rsquo;Université de Séoul pour un an. Étant extrêmement compétant en informatique, Kensuke m&amp;rsquo;a beaucoup aidé à affiner mes codes, notamment mes codes d&amp;rsquo;inversions de formes d&amp;rsquo;ondes. Tous ces outils numériques que j&amp;rsquo;avais initialement développés lors de ma thèse ont été nettoyés lors de sa thèse. Ils sont toujours utilisés par des étudiants du laboratoire de Bob Geller, et du celui de Kawai Kenji, ultérieurement.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Belahi Thomas</title>
+      <title>Marjanović, Milena</title>
+      <link>http://localhost:1313/fr/team/marjanovic-milena/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/marjanovic-milena/</guid>
+      <description>&lt;p&gt;09/2014-06/2020, postdoc, encadrée par Satish Singh et moi-même. Milena avait fini sa thèse à l&amp;rsquo;université Columbia en 2013 et était à Toulouse pour son année sabbatique. Grâce à Satish Singh et Michel Rabinowicz de l&amp;rsquo;institut de recherche en astrophysique et planétologie (IRAP), Toulouse, j&amp;rsquo;avais eu la chance de discuter avec elle. Nous nous sommes mis d&amp;rsquo;accord que je l&amp;rsquo;invite avec mon bonus qualité de recherche (BQR) pour des chercheurs entrants, puis elle a obtenu la bourse post-doctorale Marie-Curie avec Satish Singh et moi-même. Nous avons travaillé entre 2014 et 2017 sur le projet de l&amp;rsquo;inversion des formes d&amp;rsquo;onde 2D de la dorsale est-Pacifique. Nous avons démontré que la tomographie de fréquences finies était suffisante et robuste pour imager l&amp;rsquo;existence de la chambre magmatique alors qu&amp;rsquo;il fallait détailler le comportement de la circulation hydro-thermique à l&amp;rsquo;aide de l&amp;rsquo;inversion des formes d&amp;rsquo;ondes. Ce que nous oublions avec nos esprits de physiciens, surtout en géosciences, c&amp;rsquo;est le rasoir d&amp;rsquo;Occam. Durant nos études, nous avons obtenu des modèles très complexes après l&amp;rsquo;inversion des formes d&amp;rsquo;ondes à hautes fréquences et nous avons beaucoup réfléchi sur ce problème lors de l&amp;rsquo;interprétation. Nous avons publié un article là-dessus et nous voulons recommencer le projet en intégrant la méthode d&amp;rsquo;inversion localisée des formes d&amp;rsquo;ondes, développée dans mon laboratoire avec Shihao Yuan au cours de sa thèse et son postdoc. En avril 2021, Milena est actuellement chercheuse de recherche au centre national de la recherche scientifique à l&amp;rsquo;IPGP.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oshikiri, Takamasa</title>
+      <link>http://localhost:1313/fr/team/oshikiri-takamasa/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/oshikiri-takamasa/</guid>
+      <description>&lt;p&gt;06/2014-02/2015, L4, Université d’Osaka, encadré par Hidetoshi Shimodaira et moi-même. Lors du huitième symposium franco-japonais JFFoS, j&amp;rsquo;ai eu la chance de rencontrer Hidetoshi, célèbre statisticien, qui m&amp;rsquo;a proposé d&amp;rsquo;encadrer un stage de L4 (au Japon la licence se déroule sur quatre ans). Nous avons regardé la matrice d&amp;rsquo;Hessian utilisée pour l&amp;rsquo;inversion des formes d&amp;rsquo;ondes avec Takamasa, afin de chercher une meilleure façon de préconditionner l&amp;rsquo;inversion. D&amp;rsquo;un point de vue d&amp;rsquo;un statisticien, le rang de la matrice est extrêmement faible en sismologie, ce qui instabilise le problème inverse. Même si ce n&amp;rsquo;était pas une nouvelle observation, ce rapport est inoubliable puisque j&amp;rsquo;ai commencé à faire beaucoup plus attention quand je propose d&amp;rsquo;inverser des données sismologiques.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Villanueva-Robles, Fernando</title>
+      <link>http://localhost:1313/fr/team/villanuava-fernando/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/villanuava-fernando/</guid>
+      <description>&lt;p&gt;01/2014-06/2014, M2R GPX, 10/2014-08/2015, début de thèse financée par CGG Mexico, encadré par Nikolaï Shapiro et moi-même. Le sujet avait pour but de proposer une méthodologie d&amp;rsquo;extrapolation des champs d&amp;rsquo;ondes à partir des données marines avec des sources actives. Avec sa dynamique, Fernando a pu publié deux articles EAGE avec nous sur ce projet en un an. Cela a fait une très bonne base pour la thèse de Shihao car j&amp;rsquo;avais beaucoup appris sur les théorèmes de représentation. Pendant la crise économique dans son entreprise, il a dû malheureusement changer de sujet de thèse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El Sanharawi, Moustapha</title>
+      <link>http://localhost:1313/fr/team/el-sanhawari-moustapha/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/el-sanhawari-moustapha/</guid>
+      <description>&lt;p&gt;11/2013-01/2014, Post-master, encadré par Satish Singh et moi-même. Venant de Telecom Paris, Moustapha a nettoyé le code de l&amp;rsquo;extrapolation de champs d&amp;rsquo;ondes sismiques dans un milieu acoustique. En appliquant cet outil aux données de Sumatra, je me suis rendu compte de la limite de la méthodologie, qui m&amp;rsquo;a ensuite amené à développer le code d&amp;rsquo;extrapolation à l&amp;rsquo;aide des fonctions Green complètes avec Shihao Yuan. Moustapha est aujourd&amp;rsquo;hui consultant informatique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jaegler, Hugo</title>
+      <link>http://localhost:1313/fr/team/jaegler-hugo/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/jaegler-hugo/</guid>
+      <description>&lt;p&gt;06/2013-07/2013, L3, EOST Strasbourg. Malgré la courte durée du stage, Hugo m&amp;rsquo;a beaucoup impressionné. Venant de l&amp;rsquo;EOST, il a voulu m&amp;rsquo;aider à terminer mon code « DSM Kernel Suite ». Il a ajouté des outils utiles en python pour faciliter la visualisation, qui sont toujours utilisés même aujourd&amp;rsquo;hui. Hugo est actuellement ingénieur-chercheur à l&amp;rsquo;institut de radioprotection et de sûreté nucléaire, dans un labo de radiochimie et de chimie analytique.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Juhel, Kévin</title>
+      <link>http://localhost:1313/fr/team/juhel-kevin/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/juhel-kevin/</guid>
+      <description>&lt;p&gt;03/2013-06/2013, M1, Université Pierre-Marie Curie, encadré par Lapo Boschi, Laëtitia Le Pourhiet et moi-même à l&amp;rsquo;UPMC. Venant du département de physique, il a travaillé sur le problème de la résolution des ondes de surface. Nous avons testé l&amp;rsquo;interférométrie sismique à partir des données synthétiques. Ensuite, il a fait sa thèse avec Jean-Paul Montagner et Martin Vallée sur les signaux précoces de perturbation du champ de gravité terrestre liés à de multiples séismes. Il est postdoc à Nantes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Egorova, Angelina</title>
+      <link>http://localhost:1313/fr/team/egorova-angelina/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/egorova-angelina/</guid>
+      <description>&lt;p&gt;01/2013-06/2013, M2R, encadrée par Satish Singh et moi-même. Angelina était dans la première promotion de GPX (Master 2 en géophysique d&amp;rsquo;exploration) et donc elle était officiellement ma première stagiaire de M2. Le projet avait pour but d&amp;rsquo;explorer la structure interne de la zone de fracture sous la ride 90$^\circ$~est. Nous avons malheureusement été contraints d&amp;rsquo;abandonner ce stage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Belahi, Thomas</title>
       <link>http://localhost:1313/fr/team/belahi-thomas/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/belahi-thomas/</guid>
       <description>&lt;p&gt;10/2012–04/2017, thèse, encadré par moi-même et Satish Singh (IPGP).&lt;/p&gt;
 &lt;p&gt;Thomas commença sa thèse en même temps que moi à l&amp;rsquo;IPGP, i.e. il est mon premier étudiant « officiel ». Venant de l&amp;rsquo;école nationale supérieure des mines de Nancy et M2 en IDEA league (ETH Zürich, RWTH Aachen, TU Delft), il était déjà ingénieur et avait de très solides bases en codage.&lt;/p&gt;
 &lt;p&gt;Le sujet était le développement d&amp;rsquo;une méthodologie d&amp;rsquo;inverser des formes d&amp;rsquo;ondes pour la structure élastique et anélastique en domaine temporel. Bien qu&amp;rsquo;il y existât quelques codes développés par d&amp;rsquo;anciens thésards, il n&amp;rsquo;était pas évident pour nous de les synthétiser pour commencer le projet, étant donné une grande disparité des codes existants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meschede, Matthias</title>
+      <link>http://localhost:1313/fr/team/meschede-mathias/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/meschede-mathias/</guid>
+      <description>&lt;p&gt;11/2011-06/2015, en thèse, encadré par Barbara Romanowicz, 07/2015-12/2017, postdoc, encadré par Éléonore Stutzmann. Je n&amp;rsquo;ai jamais été officiellement son encadrant de thèse mais j&amp;rsquo;ai travaillé avec moi sur le sixième chapitre de sa thèse sur l&amp;rsquo;approximation Born et l&amp;rsquo;influence de la diffusion sur les données sismologiques. Cette expérimentation est devenue un des axes de la thèse de Ssu-Ting et Matthias co-signe le deuxième article que nous préparons. Afin d&amp;rsquo;examiner les effets des hétérogénéités aléatoires sur les formes d&amp;rsquo;ondes dans le cadre de la sismologie globale, Matthias a beaucoup contribué à l&amp;rsquo;amélioration de mon code « DSM Kernel Suite ». Il ne faut pas oublier sa contribution à la vie des chercheurs et étudiants de l&amp;rsquo;institut. Il a organisé des ateliers et des cours de langue française pour soutenir la santé mentale, notamment des étudiants. Il était le premier membre de l&amp;rsquo;orchestre de l&amp;rsquo;IPGP (actuel PhiloGaïa Orchestra) dont je suis à l&amp;rsquo;innitiative. Nous avons aussi écrit ensemble un article sur ce sujet. Il travaille en tant que manager dans une compagnie informatique basée sur Paris (Tweag). Avec Milena et John, il a organisé un hackathon en géophysique au sein de l&amp;rsquo;IPGP (2019 pour la première fois).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Borisov, Dmitry</title>
+      <link>http://localhost:1313/fr/team/borisov-dmitry/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/borisov-dmitry/</guid>
+      <description>&lt;p&gt;11/2010-11/2014 en thèse, encadré par Satish Singh de l&amp;rsquo;IPGP. Dimitry était déjà à la fin de sa deuxième année quand je suis arrivé à l&amp;rsquo;IPGP et il était en train de finaliser son projet sur l&amp;rsquo;injection de champs d&amp;rsquo;ondes afin de développer une méthodologie pour inverser les formes d&amp;rsquo;ondes pour une structure localisée dite « box waveform inversion ». Puisque j&amp;rsquo;étais en train de travailler sur un problème similaire pour le cas global, il était naturel pour moi de collaborer avec lui sur l&amp;rsquo;établissement de la théorie et le développement du code. L&amp;rsquo;extrapolation de champs d&amp;rsquo;ondes n&amp;rsquo;est pas aussi directe que l&amp;rsquo;on s&amp;rsquo;imagine dans certains cas, surtout quand l&amp;rsquo;on ne peut pas exercer l&amp;rsquo;intégral de surface entière à cause de la configuration géométrique des réseaux sismiques. Nous avons donc réécrit les formules et pu publier le premier article en utilisant des opérateurs élastiques \mbox{3D}, ce qui allait ensuite être la base pour la thèse de Shihao Yuan, mon deuxième thésard officiel. Dmitry est chercheur-professeur assistant à Kansas Geological Survey. Avec Dmitry, j&amp;rsquo;envisage de proposer un projet sismique-archéologique « iDASSITA » en utilisant des données de la fibre optique.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

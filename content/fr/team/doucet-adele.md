@@ -1,5 +1,5 @@
 +++
-title = "Doucet Adèle"
+title = "Doucet, Adèle"
 current_role = "PhD"
 status = "active"
 date = "2022-04-01"
