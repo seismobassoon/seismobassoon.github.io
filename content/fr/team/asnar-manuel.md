@@ -1,6 +1,6 @@
 +++
 title = "Asnar, Manuel"
-current_role = "Master"
+current_role = "M2"
 status = "alumni"
 date = "2020-06-01"
 draft = false

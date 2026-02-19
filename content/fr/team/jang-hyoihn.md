@@ -1,6 +1,6 @@
 +++
 title = "Jang, Hyoihn"
-current_role = "Master"
+current_role = "M2"
 status = "alumni"
 date = "2016-07-01"
 draft = false

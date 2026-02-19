@@ -1,6 +1,6 @@
 +++
 title = "Salomé, Estelle"
-current_role = "Master"
+current_role = "E2"
 status = "alumni"
 date = "2025-06-01"
 draft = false

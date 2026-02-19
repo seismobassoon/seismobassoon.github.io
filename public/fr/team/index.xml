@@ -6,8 +6,15 @@
     <description>Recent content in Équipe on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Riche, Floriane</title>
+      <link>http://localhost:1313/fr/team/riche-floriane/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/riche-floriane/</guid>
+      <description>&lt;p&gt;11/2025-04/2026, L2, un stage sur la revue des études sur le mont Fuji. Elle a le courage de se plonger dans les publications de domaines variés : géochimie, volcanologie, pétrologie pour faire la synthèse.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Salomé, Estelle</title>
       <link>http://localhost:1313/fr/team/salome-estelle/</link>
@@ -28,7 +35,7 @@
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/mohammadi-hesaneh/</guid>
       <description>&lt;p&gt;02/2025-présent, encadrée par Stéphanie Durand et moi-même, sur la tomographie localisée du Mont Fuji.
-Comme Adèle nous a montré, mont Fuji est un volcan dormant qui n&amp;rsquo;attirait pas assez d&amp;rsquo;attention et on ne le connaît pas assez. Dans le cadre de la thèse de Hesaneh, on développe la méthode d&amp;rsquo;imagerie sismique localisée sur la nouvelle plateforme flexOPT.jl et à partir du modèle obtenu on aimerait imager la migration du fluide.&lt;/p&gt;</description>
+Comme Adèle nous a montré, mont Fuji est un volcan dormant qui n&amp;rsquo;attirait pas assez d&amp;rsquo;attention et on ne le connaît pas assez. Dans le cadre de la thèse de Hesaneh, très motivée, on développe la méthode d&amp;rsquo;imagerie sismique localisée sur la nouvelle plateforme flexOPT.jl et à partir du modèle obtenu on aimerait imager la migration du fluide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drique, Lorette</title>
@@ -271,7 +278,7 @@ De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
       <link>http://localhost:1313/fr/team/jaegler-hugo/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/team/jaegler-hugo/</guid>
-      <description>&lt;p&gt;06/2013-07/2013, L3, EOST Strasbourg. Malgré la courte durée du stage, Hugo m&amp;rsquo;a beaucoup impressionné. Venant de l&amp;rsquo;EOST, il a voulu m&amp;rsquo;aider à terminer mon code « DSM Kernel Suite ». Il a ajouté des outils utiles en python pour faciliter la visualisation, qui sont toujours utilisés même aujourd&amp;rsquo;hui. Hugo est actuellement ingénieur-chercheur à l&amp;rsquo;institut de radioprotection et de sûreté nucléaire, dans un labo de radiochimie et de chimie analytique.&lt;/p&gt;</description>
+      <description>&lt;p&gt;06/2013-07/2013, trosième année, EOST Strasbourg. Malgré la courte durée du stage, Hugo m&amp;rsquo;a beaucoup impressionné. Venant de l&amp;rsquo;EOST, il a voulu m&amp;rsquo;aider à terminer mon code « DSM Kernel Suite ». Il a ajouté des outils utiles en python pour faciliter la visualisation, qui sont toujours utilisés même aujourd&amp;rsquo;hui. Hugo est actuellement ingénieur-chercheur à l&amp;rsquo;institut de radioprotection et de sûreté nucléaire, dans un labo de radiochimie et de chimie analytique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Juhel, Kévin</title>

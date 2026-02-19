@@ -1,6 +1,6 @@
 +++
 title = "Juhel, Kévin"
-current_role = "Master"
+current_role = "M1"
 status = "alumni"
 date = "2013-03-01"
 draft = false

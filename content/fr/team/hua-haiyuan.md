@@ -1,6 +1,6 @@
 +++
 title = "Hua, Haiyuan"
-current_role = "Master"
+current_role = "M2"
 status = "alumni"
 date = "2025-02-01"
 draft = false

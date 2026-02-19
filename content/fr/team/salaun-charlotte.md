@@ -1,6 +1,6 @@
 +++
 title = "Saläun, Charlotte"
-current_role = "Master"
+current_role = "E3"
 status = "alumni"
 date = "2020-06-01"
 draft = false

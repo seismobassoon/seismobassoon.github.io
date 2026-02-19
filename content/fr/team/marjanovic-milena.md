@@ -1,6 +1,6 @@
 +++
 title = "Marjanović, Milena"
-current_role = "Master"
+current_role = "Postdoc"
 status = "alumni"
 date = "2014-09-01"
 draft = false

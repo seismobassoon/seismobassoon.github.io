@@ -1,6 +1,6 @@
 +++
 title = "El Sanharawi, Moustapha"
-current_role = "Master"
+current_role = "M2"
 status = "alumni"
 date = "2013-11-01"
 draft = false

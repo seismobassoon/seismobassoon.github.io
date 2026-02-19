@@ -1,6 +1,6 @@
 +++
 title = "Chauvet, Roxane"
-current_role = "Master"
+current_role = "L3"
 status = "alumni"
 date = "2019-06-01"
 draft = false

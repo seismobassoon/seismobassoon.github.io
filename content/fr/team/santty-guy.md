@@ -1,6 +1,6 @@
 +++
 title = "Santty Dalinaud, Guy"
-current_role = "Master"
+current_role = "M2"
 status = "alumni"
 date = "2016-01-01"
 draft = false
