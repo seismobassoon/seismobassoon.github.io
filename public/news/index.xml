@@ -9,16 +9,33 @@
     <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>フィロガイアのコンサートのビデオをアップしました</title>
+      <title>A new PhiloGaïa video online!</title>
       <link>http://localhost:1313/news/2026-02-07/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/news/2026-02-07/</guid>
-      <description>&lt;p&gt;2025年9月に企画したCLEEDIワークショップのコンサート（トゥールーズのキャピトル管弦楽団の弦楽器奏者に演奏していただきました）が
-アップされました。私の新曲がいくつかあります。よろしくお願いします。
+      <description>&lt;p&gt;A full video of the outreach concert during the CLEEDI 2025 at Tarascon-sur-Ariège is online!&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JCsNx9VqJTw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;/p&gt;</description>
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>A new PhiloGaïa video online!</title>
+      <link>http://localhost:1313/news/2026-02-15/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2026-02-15/</guid>
+      <description>&lt;p&gt;A full video of the outreach concert during the CLEEDI 2025 at Tarascon-sur-Ariège is online!&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JCsNx9VqJTw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>The seismology group of IPGP at Chambon-la-forêt</title>
+      <link>http://localhost:1313/news/20/2026-02-13/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/20/2026-02-13/</guid>
+      <description>&lt;p&gt;We enjoyed the rain and IPGP observatory, working on our codes and field.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/images/IMG_2440.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;</description>
     </item>
   </channel>
 </rss>

@@ -79,6 +79,27 @@
                 href="http://localhost:1313/cv/details/"
                 />
   </url><url>
+    <loc>http://localhost:1313/news/2026-02-07/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/news/2026-02-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/news/2026-02-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/news/2026-02-07/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/news/2026-02-15/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -97,23 +118,8 @@
                 href="http://localhost:1313/news/"
                 />
   </url><url>
-    <loc>http://localhost:1313/news/2026-02-07/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/news/2026-02-07/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/news/2026-02-07/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/news/2026-02-07/"
-                />
+    <loc>http://localhost:1313/news/20/2026-02-13/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>

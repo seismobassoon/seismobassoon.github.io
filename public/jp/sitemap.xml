@@ -79,6 +79,24 @@
                 href="http://localhost:1313/jp/cv/"
                 />
   </url><url>
+    <loc>http://localhost:1313/jp/news/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/news/"
+                />
+  </url><url>
     <loc>http://localhost:1313/jp/news/2026-02-07/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -97,22 +115,17 @@
                 href="http://localhost:1313/jp/news/2026-02-07/"
                 />
   </url><url>
-    <loc>http://localhost:1313/jp/news/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/news/"
-                />
+    <loc>http://localhost:1313/jp/news/2026-02-13/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/news/"
+                href="http://localhost:1313/fr/news/2026-02-13/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://localhost:1313/jp/news/"
+                href="http://localhost:1313/jp/news/2026-02-13/"
                 />
   </url><url>
     <loc>http://localhost:1313/jp/cv/details/cv_long/</loc>

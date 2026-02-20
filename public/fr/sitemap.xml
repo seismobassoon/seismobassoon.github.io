@@ -115,6 +115,19 @@
                 href="http://localhost:1313/fr/news/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/news/2026-02-13/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/news/2026-02-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/news/2026-02-13/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
