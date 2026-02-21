@@ -169,8 +169,83 @@ disablePathToLower = false
 
 
   [languages.de]
-    weight = 4
-    languageName = "Deutsch"
-    contentDir = "content/de"
-    [languages.de.params]
-      langBadge = "DE"
+  weight = 3
+  languageName = "Deutsch"
+  contentDir = "content/de"
+  [languages.de.params]
+    langBadge = "DE"
+
+  [[languages.de.menu.main]]
+      name = "📢"
+      pre = "Aktuelles"
+      url = "news/"
+      weight = 1
+
+  [[languages.de.menu.main]]
+      name = "👤"
+      pre = "Über mich"
+      url = "cv/"
+      weight = 2
+
+  [[languages.de.menu.main]]
+      name = "👥"
+      pre = "Team"
+      url = "team/"
+      weight = 3
+
+  [[languages.de.menu.main]]
+      name = "🧠"
+      pre = "Forschung"
+      url = "research/"
+      weight = 4
+
+  [[languages.de.menu.main]]
+      name = "🏫"
+      pre = "Lehre"
+      url = "education/"
+      weight = 5
+
+  [[languages.de.menu.main]]
+      name = "🎹"
+      pre = "Philogaia"
+      url = "geomusic/"
+      weight = 6
+
+   
+    
+  [languages.no]
+    weight = 5
+    languageName = "Bokmål"
+    contentDir = "content/no"
+    [languages.no.params]
+      langBadge = "NO"
+    [[languages.no.menu.main]]
+        name = "📢"
+        pre = "Nyheter"
+        url = "news/"
+        weight = 1
+    [[languages.no.menu.main]]
+        name = "👤"
+        pre = "Meg"
+        url = "cv/"
+        weight = 2
+    [[languages.no.menu.main]]
+        name = "👥"
+        pre = "Gruppe"
+        url = "team/"
+        weight = 3
+    [[languages.no.menu.main]]
+        name = "🧠"
+        pre = "Forskning"
+        url = "research/"
+        weight = 4
+    [[languages.no.menu.main]]
+        name = "🏫"
+        pre = "Undervisning"
+        url = "education/"
+        weight = 5
+    [[languages.no.menu.main]]
+        name = "🎹"
+        pre = "PhiloGaïa"
+        url = "geomusic/"
+        weight = 6

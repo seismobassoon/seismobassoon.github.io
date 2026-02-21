@@ -21,6 +21,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/"
                 />
@@ -57,6 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/cv/"
                 />
@@ -72,6 +82,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/cv/details/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -129,6 +144,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/cv/details/cv_long/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/cv/details/cv_long/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -237,6 +257,11 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/cv/details/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/cv/details/publications/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -936,13 +961,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                hreflang="no"
+                href="http://localhost:1313/no/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -950,34 +980,7 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/cv/geomusic/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/geomusic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/geomusic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/geomusic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/cv/geomusic/"
-                />
-  </url><url>
     <loc>http://localhost:1313/geomusic/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/cv/geomusic/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -1019,13 +1022,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                hreflang="no"
+                href="http://localhost:1313/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Curriculum Vitæ on Nobuaki Fuji</title>
+    <link>http://localhost:1313/no/cv/details/</link>
+    <description>Recent content in Curriculum Vitæ on Nobuaki Fuji</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>no</language>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/no/cv/details/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV long</title>
+      <link>http://localhost:1313/no/cv/details/cv_long/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/no/cv/details/cv_long/</guid>
+      <description>&lt;h1 id=&#34;curriculum-vitæ&#34;&gt;Curriculum Vitæ&lt;/h1&gt;
+&lt;h2 id=&#34;individual-notice&#34;&gt;Individual notice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Name, first name&lt;/strong&gt; : Fuji, Nobuaki&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Birthday&lt;/strong&gt; : November 26th 1982&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nationality&lt;/strong&gt; : Japanese (acquisition of French nationality on the way)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Birthplace&lt;/strong&gt; : Hyogo, Japan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Current position&lt;/strong&gt; :&lt;br&gt;
+Associate professor at Institut de physique du globe de Paris, Université Paris Cité&lt;br&gt;
+Junior member at Institut universitaire de France&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Professional address&lt;/strong&gt; :&lt;br&gt;
+Bureau 328, Seismology team
+Institut de physique du globe de Paris,
+Université Paris Cité&lt;/p&gt;
+&lt;p&gt;1 rue Jussieu&lt;br&gt;
+75238 Paris Cedex 05&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications et communications</title>
+      <link>http://localhost:1313/no/cv/details/publications/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/no/cv/details/publications/</guid>
+      <description>&lt;h1 id=&#34;publications-dans-des-revues-à-comité-de-lecture-rang-a&#34;&gt;Publications dans des revues à comité de lecture (rang A)&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;(Les doctorants et postdoctorants encadrés sont indiqués par “supervision”. Les collaborations par “collaboration”.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;p&gt;Fuji, N., 2025&lt;br&gt;
+« Évolution(s) » vue(s) par un géophysicien.&lt;br&gt;
+&lt;em&gt;Évolution(s) - Science, art et littérature&lt;/em&gt; (Eds. Séginger, G. &amp;amp; Yvonnet, J.), 289–306.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;p&gt;Fuji, N., 2024&lt;br&gt;
+The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese).&lt;br&gt;
+&lt;em&gt;The Review of High Pressure Science and Technology&lt;/em&gt;, 33(3), 158–167.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

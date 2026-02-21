@@ -3,7 +3,7 @@ title = "Meg"
 translationKey = "about"
 draft = false
 +++
-
+(*NB: Som dere kan se, er det faktisk ChatGPT som har oversatt tekstene — men jeg kan faktisk lese litt norsk selv!*)
 
 Jeg heter Nobuaki Fuji. Jeg er seismobassonist, førsteamanuensis (HDR) og leder for seismologigruppen ved [IPGP](https://www.ipgp.fr), ved [Université Paris Cité](https://u-paris.fr),
 samt junior medlem av et professorat i vitenskapsformidling ved [IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
