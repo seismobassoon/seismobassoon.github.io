@@ -4,7 +4,7 @@ theme = "PaperMod"
 title = 'Nobuaki Fuji'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-
+enableRobotsTXT = true
 languageCode = 'en'
 
 disablePathToLower = false
