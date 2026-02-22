@@ -13,8 +13,7 @@ breadcrumbs: false
 ## Individual notice
 
 - **Name, first name** : Fuji, Nobuaki  
-- **Birthday** : November 26th 1982  
-- **Nationality** : Japanese (acquisition of French nationality on the way)  
+- **Birthday** : November 26th 1982    
 - **Birthplace** : Hyogo, Japan  
 - **Current position** :  
   Associate professor at Institut de physique du globe de Paris, Université Paris Cité  
