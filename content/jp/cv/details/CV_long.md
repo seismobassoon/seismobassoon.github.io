@@ -1,25 +1,23 @@
 ---
-title: "CV long"
+title: "来歴"
 date: 2026-02-01
 draft: false
 toc: true
 showBreadCrumbs: true
 ---
 
-# Curriculum Vitæ
+# 来歴
 
-## Notice individuelle
+## 基本情報
 
-- **Nom, Prénom** : Fuji, Nobuaki  
-- **Date de naissance** : 26 novembre 1982  
-- **Nationalité** : Japonaise (naturalisation française en cours)  
-- **Lieu de naissance** : Hyogo, Japon  
-- **Situation actuelle** :  
-  Maître de conférences, Université Paris Cité  
-  Institut de Physique du Globe de Paris  
-  Membre junior, Institut Universitaire de France  
+- **姓名** : 冨士延章 
+- **誕生日** : 1982年11月26日  
+- **出生地** : 兵庫県尼崎市 
+- **役職** :  
+  パリシテ大学パリ地球物理研究所准教授  
+  フランス大学学士会ジュニア会員  
 
-- **Adresse professionnelle** :  
+- **住所** :  
   Bureau 328, Équipe de Sismologie  
   Université Paris Cité  
   Institut de Physique du Globe de Paris (CNRS)  
@@ -27,30 +25,30 @@ showBreadCrumbs: true
   75238 Paris Cedex 05  
 
 
-- **Courriel** :  
+- **メールアドレス** :  
   nobuaki_at_ipgp.fr  
   
 
-- **Page IPGP** :  
+- **IPGP 個人ページ** :  
   https://www.ipgp.fr/annuaire/nobuaki/
 
-- **Page IUF** :  
+- **IUF 個人ページ** :  
   https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html  
 
-- **Encadrements** :  
-  5 postdocs  
-  14 doctorants (dont 6 avec convention)  
-  24 stagiaires  
+- **学生指導歴** :  
+  5 ポスドク 
+  14 博士課程 
+  24 修士課程およびインターンシップ
 
-- **Publications** :  
-  35 articles de rang A  
-  13 proceedings de rang A  
-  17 articles de vulgarisation  
-  Indice h : 20  
+- **業績** :  
+  35 査読つき論文 
+  13 査読つきプロシーディング
+  17 サイエンスコミュニケーション  
+  hインデックス　: 20  
 
 ---
 
-# Emploi et formation
+# 略歴
 
 ## 2022–2027  
 **Membre junior**, Institut Universitaire de France
