@@ -10,12 +10,15 @@ languageCode = 'en'
 
 disablePathToLower = false
 
+
 [params]
     displayFullLangName = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
     ShowPostNavLinks = false
     googleSiteVerification = "YxiAZLMcK1ogVJx0r_32wyQ2IGTOVBJBA9tbF-y0piY"
+    [params.analytics.google]
+          SiteVerificationTag = "YxiAZLMcK1ogVJx0r_32wyQ2IGTOVBJBA9tbF-y0piY"
 
     [params.assets]
         customCSS = ["css/custom.css"]
