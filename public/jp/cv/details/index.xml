@@ -9,38 +9,65 @@
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/jp/cv/details/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CV long</title>
+      <title>来歴</title>
       <link>http://localhost:1313/jp/cv/details/cv_long/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jp/cv/details/cv_long/</guid>
-      <description>&lt;h1 id=&#34;curriculum-vitæ&#34;&gt;Curriculum Vitæ&lt;/h1&gt;
-&lt;h2 id=&#34;notice-individuelle&#34;&gt;Notice individuelle&lt;/h2&gt;
+      <description>&lt;h1 id=&#34;来歴&#34;&gt;来歴&lt;/h1&gt;
+&lt;h2 id=&#34;基本情報&#34;&gt;基本情報&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nom, Prénom&lt;/strong&gt; : Fuji, Nobuaki&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;姓名&lt;/strong&gt; : 冨士延章&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Date de naissance&lt;/strong&gt; : 26 novembre 1982&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;誕生日&lt;/strong&gt; : 1982年11月26日&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Nationalité&lt;/strong&gt; : Japonaise (naturalisation française en cours)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;出生地&lt;/strong&gt; : 兵庫県尼崎市&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Lieu de naissance&lt;/strong&gt; : Hyogo, Japon&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;役職&lt;/strong&gt; :&lt;br&gt;
+パリシテ大学パリ地球物理研究所准教授&lt;br&gt;
+フランス大学学士会ジュニア会員&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Situation actuelle&lt;/strong&gt; :&lt;br&gt;
-Maître de conférences, Université Paris Cité&lt;br&gt;
-Institut de Physique du Globe de Paris&lt;br&gt;
-Membre junior, Institut Universitaire de France&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Adresse professionnelle&lt;/strong&gt; :&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;住所&lt;/strong&gt; :&lt;br&gt;
 Bureau 328, Équipe de Sismologie&lt;br&gt;
 Université Paris Cité&lt;br&gt;
 Institut de Physique du Globe de Paris (CNRS)&lt;br&gt;
 1 rue Jussieu&lt;br&gt;
-75238 Paris Cedex 05&lt;/p&gt;</description>
+75238 Paris Cedex 05&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;メールアドレス&lt;/strong&gt; :&lt;br&gt;
+nobuaki_at_ipgp.fr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IPGP 個人ページ&lt;/strong&gt; :&lt;br&gt;
+&lt;a href=&#34;https://www.ipgp.fr/annuaire/nobuaki/&#34;&gt;https://www.ipgp.fr/annuaire/nobuaki/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IUF 個人ページ&lt;/strong&gt; :&lt;br&gt;
+&lt;a href=&#34;https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html&#34;&gt;https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;学生指導歴&lt;/strong&gt; :&lt;br&gt;
+5 ポスドク
+14 博士課程
+24 修士課程およびインターンシップ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;業績&lt;/strong&gt; :&lt;br&gt;
+35 査読つき論文
+13 査読つきプロシーディング
+17 サイエンスコミュニケーション&lt;br&gt;
+hインデックス　: 20&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;略歴&#34;&gt;略歴&lt;/h1&gt;
+&lt;h2 id=&#34;20222027&#34;&gt;2022–2027&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Membre junior&lt;/strong&gt;, Institut Universitaire de France&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications et communications</title>
