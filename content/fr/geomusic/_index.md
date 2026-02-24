@@ -9,7 +9,7 @@ translationKey = "geomusic"
 # Concert : Ariège dans la lune
 {{< youtube JCsNx9VqJTw >}}
 
-
+{{< collapse title="info sur mes nouveaux morceaux" >}}
 ## Ariège hydratée (N. Fuji, 2025)
 Ce morceau, inspiré par l’idée de Laëtitia Le Pourhiet et dédié à Leslie Richmond, sur le thème de « Arièjo, moun païs » de Sabas Maury, évoque les eaux autour de l’Ariège à travers le temps et l’espace.
 
@@ -24,13 +24,18 @@ L’origine de la Lune reste mystérieuse. Parmi les hypothèses, l’une des pl
 Réalisé en 1902 par Georges Méliès, ce film est considéré comme le premier film de science-fiction de l’histoire du cinéma. Après un voyage spatial, des savants y rencontrent des extraterrestres à l’intérieur d’une Lune bien particulière. D’une durée exceptionnelle pour l’époque, ce tout premier
 Grâce à l’arrière-petite-fille du réalisateur, Anne-Marie Malthête-Quévrain, secrétaire générale de la Cinémathèque Méliès, j'ai pu projeté la version restaurée lors de la création.
 
+{{</collapse>}}
 
+# Enigma of the Evolution of the Earth (Nobuaki Fuji, 2023)
 
 {{< youtube hT1VAtIpzcc >}}
 
 
-## Enigma of the Evolution of the Earth (Nobuaki Fuji, 2023)
+{{< collapse title="info sur le morceau" >}}
 Dans cette pièce, j’aborde l’un des buts ultimes des sciences de la Terre : d’où venons-nous ? Comme nul ne peut pénétrer jusqu’au centre de notre planète, nous analysons les données sismologiques pour en imager l’état interne actuel. L’évolution de la Terre solide – convection du manteau, subduction des plaques – résulte à la fois de l’apport de toutes les disciplines scientifiques et de notre imagination. Nous allons explorer deux superpanaches (LLVPs) à la base du manteau, qui pourraient être liés à la formation de notre satellite, la Lune. La musique se déploie en sept mouvements : I. Énigme – II. Panache mantellique – III. Subduction puis convection – IV. Fusion partielle – V. Volcans – VI. Super Terre – VII. Énigme
+{{</collapse>}}
+
+
 
 {{< youtube pNwKjXhjaaY >}}
 
