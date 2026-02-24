@@ -1022,13 +1022,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                hreflang="jp"
+                href="http://localhost:1313/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/tags/"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
