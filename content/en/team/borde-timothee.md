@@ -6,6 +6,5 @@ date = "2026-02-01"
 draft = false
 +++
 
-02/2026-06/2026, M2, encadré par 
-Léonard Seydoux, Lise Retailleu et moi-même
-sur la caractérisation automatique des signaux continus du Mont Fuji.
+02/2026-06/2026, M2, supervised by 
+Léonard Seydoux, Lise Retailleu and me myself on the characterisation of continous data of Mount Fuji.
