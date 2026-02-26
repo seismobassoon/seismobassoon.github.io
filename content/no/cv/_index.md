@@ -16,7 +16,7 @@ samt junior medlem av et professorat i vitenskapsformidling ved [IUF](https://ww
 
 Jeg er seismolog med spesialisering i seismisk avbildning av Jordens indre og andre terrestriske planeter. Jeg utvikler teoretiske rammeverk og numeriske metoder for modellering og inversjon av (geo)fysiske data, blant annet seismogrammer og nøytrino-oscillogrammer.
 
-*Det vesentlige er usynlig.* Å rekonstruere historien til Jordens og planetenes indre på grunnlag av de ytterst begrensede geofysiske og geokjemiske dataene vi har tilgang til i dag, er en krevende oppgave. Det forutsetter kontinuerlige – og til tider krevende – bevegelser mellom teori og observasjoner.
+*Det vesentlige er usynlig for øyet.* Å rekonstruere historien til Jordens og planetenes indre på grunnlag av de ytterst begrensede geofysiske og geokjemiske dataene vi har tilgang til i dag, er en krevende oppgave. Det forutsetter kontinuerlige – og til tider krevende – bevegelser mellom teori og observasjoner.
 
 For å styrke dialogen mellom ulike disipliner og legge til rette for kvantitativ utveksling av ideer, har jeg sammen med kolleger etablert en ukelang hackathon kalt **CLEEDI**. Dette er en tverrfaglig, tverrgenerasjonell og biennal workshop som arrangeres i Ariège i Pyreneene. Her fremmer vi også dialog med allmennheten gjennom ulike former for vitenskapsformidling.
 
