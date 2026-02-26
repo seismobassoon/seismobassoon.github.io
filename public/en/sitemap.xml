@@ -62,6 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/cv/"
                 />
@@ -961,13 +966,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                hreflang="jp"
+                href="http://localhost:1313/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/categories/"
+                hreflang="de"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"

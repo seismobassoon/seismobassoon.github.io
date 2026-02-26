@@ -6,8 +6,17 @@
     <description>Recent content in Équipe on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Borde, Timothée</title>
+      <link>http://localhost:1313/fr/team/borde-timothee/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/team/borde-timothee/</guid>
+      <description>&lt;p&gt;02/2026-06/2026, M2, encadré par
+Léonard Seydoux, Lise Retailleu et moi-même
+sur la caractérisation automatique des signaux continus du Mont Fuji.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Riche, Floriane</title>
       <link>http://localhost:1313/fr/team/riche-floriane/</link>

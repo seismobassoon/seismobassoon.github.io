@@ -44,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/cv/"
                 />
