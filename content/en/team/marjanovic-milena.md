@@ -1,0 +1,9 @@
++++
+title = "Marjanović, Milena"
+current_role = "Postdoc"
+status = "alumni"
+date = "2014-09-01"
+draft = false
++++
+
+09/2014-06/2020, postdoc, encadrée par Satish Singh et moi-même. Milena avait fini sa thèse à l'université Columbia en 2013 et était à Toulouse pour son année sabbatique. Grâce à Satish Singh et Michel Rabinowicz de l'institut de recherche en astrophysique et planétologie (IRAP), Toulouse, j'avais eu la chance de discuter avec elle. Nous nous sommes mis d'accord que je l'invite avec mon bonus qualité de recherche (BQR) pour des chercheurs entrants, puis elle a obtenu la bourse post-doctorale Marie-Curie avec Satish Singh et moi-même. Nous avons travaillé entre 2014 et 2017 sur le projet de l'inversion des formes d'onde 2D de la dorsale est-Pacifique. Nous avons démontré que la tomographie de fréquences finies était suffisante et robuste pour imager l'existence de la chambre magmatique alors qu'il fallait détailler le comportement de la circulation hydro-thermique à l'aide de l'inversion des formes d'ondes. Ce que nous oublions avec nos esprits de physiciens, surtout en géosciences, c'est le rasoir d'Occam. Durant nos études, nous avons obtenu des modèles très complexes après l'inversion des formes d'ondes à hautes fréquences et nous avons beaucoup réfléchi sur ce problème lors de l'interprétation. Nous avons publié un article là-dessus et nous voulons recommencer le projet en intégrant la méthode d'inversion localisée des formes d'ondes, développée dans mon laboratoire avec Shihao Yuan au cours de sa thèse et son postdoc. En avril 2021, Milena est actuellement chercheuse de recherche au centre national de la recherche scientifique à l'IPGP.
