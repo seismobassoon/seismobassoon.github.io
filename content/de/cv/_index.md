@@ -31,4 +31,11 @@ Ich bin ziemlich sicher, dass man in einem solchen Rahmen beginnt, Daten und Cod
 
 {{< img "images/schema_box.png" "Tomo" >}}
 
+## PhiloGaïa Orchestra: Komposition klassischer Musik
+
+Ich bin Fagottist und Komponist.
+Inspiriert von Bildern und Videos, die meine Kolleginnen und Kollegen und ich im wissenschaftlichen Kontext erstellen, komponiere ich klassische Musik. Dieses Projekt trägt den Namen PhiloGaïa Orchestra.
+
+Manchmal habe ich sogar das Gefühl, dass ausführliche pädagogische Erklärungen überflüssig werden, wenn die Öffentlichkeit von der Schönheit der Daten und Modelle, begleitet von Musik, angezogen wird.
+
 {{< youtube JCsNx9VqJTw >}}
