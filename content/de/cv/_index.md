@@ -1,5 +1,5 @@
 +++
-title = "für mich"
+title = "über mich"
 translationKey = "about"
 draft = false
 +++
