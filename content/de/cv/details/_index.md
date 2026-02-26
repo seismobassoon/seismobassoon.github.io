@@ -5,10 +5,12 @@ title = "Curriculum Vitæ"
 +++
 
 
-Ich wurde am 26. November 1982 in Amagasaki, Hyogo, Japan geboren. Es gabt die Erdbeben von Kobe in 1995 aber die nur Dinge, die ich verstehen könnte, war dass wir müssen die Seismologen über das Fernsehen niemals glauben, weil jeden Fall sie über nur das „big one“ in der Nähe von Tokyo, als ob es keine Gefahr in André Regionen gäbe, auch wenn wir sagen könnten, dass es zu naiv war. 
+Ich wurde am 26. November 1982 in Amagasaki, Präfektur Hyōgo, Japan, geboren.
 
-Mit dem Traum, in die Hauptstadt zu gehen, entschied ich mich für die Universität von Tokio, wo ich meine gesamten neun Studienjahre verbrachte und habe eine These unter die Supervision von Robert J. Geller in 2010 dissertiert.
+1995 ereignete sich das Erdbeben von Kobe. Das Einzige, was ich damals verstand, war, dass man den Seismologen im Fernsehen offenbar nicht einfach glauben sollte: Sie sprachen fast ausschließlich vom „Big One“ in der Region Tokio – als gäbe es anderswo keine Gefahr. Im Rückblick mag diese Reaktion naiv gewesen sein, doch sie hat mich geprägt.
 
-Von Cassoulet angezogen, zog ich für meine Postdoc-Stelle nach Toulouse und arbeitete dort mit Sébastien Chevrot zusammen. 
+Mit dem Traum, in die Hauptstadt zu gehen, entschied ich mich für ein Studium an der Universität Tokio. Dort verbrachte ich insgesamt neun Jahre und promovierte 2010 unter der Betreuung von Robert J. Geller.
 
-Ich wurde 2012 zum Dozent in [l'Institut de physique du globe de Paris](https://www.ipgp.fr) ernannt. Ich war Responsable von internationale Master (GPX und IMSES) 
+Vom Cassoulet angezogen, zog ich für meine Postdoc-Stelle nach Toulouse, wo ich mit Sébastien Chevrot zusammenarbeitete.
+
+2012 wurde ich zum Dozenten am Institut de physique du globe de Paris (IPGP) ernannt. Dort war ich verantwortlich für die internationalen Masterstudiengänge GPX und IMSES. Im Jahr 2022 habilitierte ich mich.
