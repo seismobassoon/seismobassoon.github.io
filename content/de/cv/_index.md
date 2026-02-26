@@ -8,8 +8,9 @@ draft = false
 Ich heiße Nobuaki Fuji (und ich glaube, dass dies nicht das erste Mal ist, dass ich meine persönliche Seite auf Deutsch schreibe – aber es gibt immer noch keinen wirklichen Fortschritt!).
 
 Ich bin Seismofagottist, Dozent (Habilitation)
-und Leiter der Seismologiegruppe am IPGP an der Université Paris Cité￼.
-Außerdem bin ich Junior-Mitglied der Professur für Wissenschaftskommunikation am IUF￼.
+und Leiter der Seismologiegruppe am [IPGP](http://www.ipgp.fr) an der [Université Paris Cité](http://www.u-paris.fr).
+Außerdem bin ich Junior-Mitglied der Professur für Wissenschaftskommunikation am  [IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html).
+
 {{< entry-card "cv/details" >}}
 
 {{< img "images/moi.png" "Ich" >}}
