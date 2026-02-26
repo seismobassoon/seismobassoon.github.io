@@ -15,18 +15,20 @@ Außerdem bin ich Junior-Mitglied der Professur für Wissenschaftskommunikation 
 
 {{< img "images/moi.png" "Ich" >}}
 
-## Geodynamikk og seismologi: direkte og inverse problemstillinger
+## Geodynamik und Seismologie: Direkte und inverse Probleme
 
-Jeg er seismolog med spesialisering i seismisk avbildning av Jordens indre og andre terrestriske planeter. Jeg utvikler teoretiske rammeverk og numeriske metoder for modellering og inversjon av (geo)fysiske data, blant annet seismogrammer og nøytrino-oscillogrammer.
+Ich bin Seismologe und beschäftige mich mit der Abbildung der inneren Struktur der Erde und anderer tellurischer Körper. Ich entwickle Theorien und numerische Methoden, um zwischen Modellen der Planetengeschichte und den Daten, die wir heute gewinnen können – etwa Seismogrammen oder Neutrino-Oszillationen – hin und her zu gehen.
 
-*Det vesentlige er usynlig.* Å rekonstruere historien til Jordens og planetenes indre på grunnlag av de ytterst begrensede geofysiske og geokjemiske dataene vi har tilgang til i dag, er en krevende oppgave. Det forutsetter kontinuerlige – og til tider krevende – bevegelser mellom teori og observasjoner.
+*„Das Wesentliche ist für die Augen unsichtbar.“*
+Die Idee, sehr kleine Datensätze zu invertieren, um die Geschichte eines Planeten einzugrenzen, erscheint zunächst völlig verrückt. Deshalb schlage ich vor, zunächst die synthetische Datenantwort gegebener geodynamischer Modelle zu untersuchen. So bekommt man ein Gefühl dafür, welche seismischen Attribute auf welche Teile eines geodynamischen Szenarios reagieren.
 
-For å styrke dialogen mellom ulike disipliner og legge til rette for kvantitativ utveksling av ideer, har jeg sammen med kolleger etablert en ukelang hackathon kalt **CLEEDI**. Dette er en tverrfaglig, tverrgenerasjonell og biennal workshop som arrangeres i Ariège i Pyreneene. Her fremmer vi også dialog med allmennheten gjennom ulike former for vitenskapsformidling.
+Eine Möglichkeit, diesen Traum zu verwirklichen, ist die Organisation des Hackathons **CLEEDI**, der alle zwei Jahre in der Ariège (Frankreich) stattfindet.
+
+Was macht man dort?
+Kein festes Programm. Man lädt Kolleginnen und Kollegen aus Europa oder anderen Teilen der Welt ein und arbeitet gemeinsam an offenen Fragen. Wenn es nicht zu hektisch zugeht, entsteht ein Freiraum, ein produktiver Zustand zwischen Konzentration und Langeweil, in dem neue Ideen entstehen.
+Ich bin ziemlich sicher, dass man in einem solchen Rahmen beginnt, Daten und Codes auszutauschen und schließlich gemeinsam eine wissenschaftliche Arbeit zu schreiben.
+
 
 {{< img "images/schema_box.png" "Tomo" >}}
 
-## PhiloGaïa Orchestra: komposisjon av klassisk musikk
-
-Jeg er fagottist og komponist. Jeg skriver klassisk musikk inspirert av geofysiske bilder og videoer, som fremføres i samspill med dem innenfor rammen av prosjektet PhiloGaïa Orchestra. Kunstnerisk formidling av vitenskap behøver ikke alltid ledsages av pedagogiske forklaringer.
- 
 {{< youtube JCsNx9VqJTw >}}
