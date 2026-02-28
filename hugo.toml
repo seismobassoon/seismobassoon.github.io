@@ -177,7 +177,7 @@ disablePathToLower = false
 
 
   [languages.de]
-  weight = 3
+  weight = 4
   languageName = "Deutsch"
   contentDir = "content/de"
   [languages.de.params]
