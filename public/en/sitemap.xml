@@ -90,6 +90,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/cv/details/"
                 />
@@ -138,6 +143,24 @@
                 href="http://localhost:1313/news/2026-02-13/"
                 />
   </url><url>
+    <loc>http://localhost:1313/team/borde-timothee/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/borde-timothee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/borde-timothee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/borde-timothee/"
+                />
+  </url><url>
     <loc>http://localhost:1313/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -161,6 +184,24 @@
                 href="http://localhost:1313/cv/details/cv_long/"
                 />
   </url><url>
+    <loc>http://localhost:1313/team/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/"
+                />
+  </url><url>
     <loc>http://localhost:1313/team/riche-floriane/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -177,24 +218,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/team/riche-floriane/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/team/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/team/"
                 />
   </url><url>
     <loc>http://localhost:1313/team/salome-estelle/</loc>
@@ -985,6 +1008,10 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/publications/outreach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/sciences/</loc>
+  </url><url>
     <loc>http://localhost:1313/geomusic/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1018,6 +1045,8 @@
                 hreflang="en"
                 href="http://localhost:1313/education/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link

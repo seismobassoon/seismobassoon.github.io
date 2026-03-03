@@ -62,6 +62,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/cv/details/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/cv/details/"
                 />
@@ -148,6 +153,42 @@
                 href="http://localhost:1313/jp/news/2026-02-13/"
                 />
   </url><url>
+    <loc>http://localhost:1313/jp/team/borde-timothee/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/borde-timothee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/borde-timothee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/borde-timothee/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/team/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/team/"
+                />
+  </url><url>
     <loc>http://localhost:1313/jp/cv/details/cv_long/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -187,24 +228,6 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/team/riche-floriane/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/jp/team/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://localhost:1313/jp/team/"
                 />
   </url><url>
     <loc>http://localhost:1313/jp/team/salome-estelle/</loc>

@@ -54,11 +54,8 @@ disablePathToLower = false
         
         
         
-    [[menu.main]]
-        name = "🎓"
-        pre = "Publications"
-        pageRef = "/en/publications"
-        weight = 5
+
+        
 
 [languages]
 
@@ -90,6 +87,11 @@ disablePathToLower = false
         pre = "Research"
         url = "research/"
         weight = 4
+    [[languages.en.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
     [[languages.en.menu.main]]
         name = "🏫"
         pre = "Education"
@@ -128,6 +130,11 @@ disablePathToLower = false
         pre = "recherche"
         url = "research/"
         weight = 4
+    [[languages.fr.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
         
     [[languages.fr.menu.main]]
         name = "🏫"
@@ -172,6 +179,11 @@ disablePathToLower = false
         url = "research/"
         weight = 4
     [[languages.jp.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+    [[languages.jp.menu.main]]
         name = "🏫"
         pre = "教育"
         url = "education/"
@@ -215,6 +227,12 @@ disablePathToLower = false
       pre = "Forschung"
       url = "research/"
       weight = 4
+
+   [[languages.de.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
 
   [[languages.de.menu.main]]
       name = "🏫"

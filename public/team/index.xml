@@ -6,8 +6,16 @@
     <description>Recent content in Team on Nobuaki Fuji</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Borde, Timothée</title>
+      <link>http://localhost:1313/team/borde-timothee/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/borde-timothee/</guid>
+      <description>&lt;p&gt;02/2026-06/2026, M2, supervised by
+Léonard Seydoux, Lise Retailleu and me myself on the characterisation of continous data of Mount Fuji.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Riche, Floriane</title>
       <link>http://localhost:1313/team/riche-floriane/</link>
@@ -60,7 +68,7 @@ des données du mont Fuji à un moment donné.&lt;/p&gt;</description>
       <link>http://localhost:1313/team/bawa-neha/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team/bawa-neha/</guid>
-      <description>&lt;p&gt;02/2023-06/2023, M2, encadré par Ssu-Ting Lai et moi-même sur le calcul des dérivées Fréchet dans une roche cylindrique.&lt;/p&gt;</description>
+      <description>&lt;p&gt;02/2023-06/2023, M2, supervised with Ssu-Ting Lai. The project was to extension of our code of Fréchet derivatives for a cylidrical sample for S-wave velocity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Delaroque, Lorraine</title>
@@ -114,8 +122,10 @@ Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream 
       <link>http://localhost:1313/team/asnar-manuel/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team/asnar-manuel/</guid>
-      <description>&lt;p&gt;06/2020-12/2020, M2, École nationale supérieure de techniques avancées (ENSTA Paris), encadré par moi-même.&lt;/p&gt;
-&lt;p&gt;Il a travaillé pour le développement d’une nouvelle méthodologie de calcul des sismogrammes synthétiques à l’aide de la série Born appliquée aux harmonies sphériques. Un article de référence sur cette théorie a été publié avec un petit exemple pour les ondes scalaires (SH) il y a déjà 20 ans, mais le code n’avait jamais été développé ni pour les ondes vectorielles (P-SV) ni à la manière user-friendly.&lt;/p&gt;</description>
+      <description>&lt;p&gt;06/2020-12/2020, M2, École nationale supérieure de techniques avancées (ENSTA Paris).&lt;/p&gt;
+&lt;p&gt;During the covid, he was revisiting the high-order Born series for spherical harmonics to explore the possibility of extending the DSM1D software for a 3D globe model.
+Diving into the (nasty) mathematics and my (spaghetti) code, he was able to show properly the limitations of the methodology, which is now one of my motivations to reform flexOPT.jl.
+He is now a PhD student in GFZ Potsdam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Saläun, Charlotte</title>
@@ -129,7 +139,8 @@ Grâce à Kapiolani, j&amp;rsquo;ai pu faire un terrain au Népal avec la dream 
       <link>http://localhost:1313/team/chauvet-roxane/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team/chauvet-roxane/</guid>
-      <description>&lt;p&gt;06/2019-07/2019, L3 Cursus master ingénierie en génie géologique et civil (CMIgéoc) à l’Université de Bordeaux. Roxane était très enthousiaste pendant ce petit stage où nous avons amélioré la boîte à outils pour inverser des données sur le projet InSight. Je lui ai fourni un jeu de données synthétiques calculés pour des modèles de Mars, afin de localiser des séismes. Nous nous sommes rendus compte qu&amp;rsquo;il faut utiliser l&amp;rsquo;inverse de la matrice Hessian pour stabiliser la solution. Roxane et moi avons tout écrit en Python et ces outils sont encore utilisés pour les travaux dirigés du cours « Problème Inverse ». Ces outils ont été ensuite intégré dans mon code « MarsMTInversion » en fortran qui est le moteur de la thèse d&amp;rsquo;Alice Jacob. Roxane s&amp;rsquo;intégra au Master à l&amp;rsquo;IPGP suite à ce stage.&lt;/p&gt;</description>
+      <description>&lt;p&gt;06/2019-07/2019, L3, Geological Engineering (CMIgéoc) from University of Bordeaux.&lt;/p&gt;
+&lt;p&gt;Roxane était très enthousiaste pendant ce petit stage où nous avons amélioré la boîte à outils pour inverser des données sur le projet InSight. Je lui ai fourni un jeu de données synthétiques calculés pour des modèles de Mars, afin de localiser des séismes. Nous nous sommes rendus compte qu&amp;rsquo;il faut utiliser l&amp;rsquo;inverse de la matrice Hessian pour stabiliser la solution. Roxane et moi avons tout écrit en Python et ces outils sont encore utilisés pour les travaux dirigés du cours « Problème Inverse ». Ces outils ont été ensuite intégré dans mon code « MarsMTInversion » en fortran qui est le moteur de la thèse d&amp;rsquo;Alice Jacob. Roxane s&amp;rsquo;intégra au Master à l&amp;rsquo;IPGP suite à ce stage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xiao, Zhu</title>
@@ -299,9 +310,8 @@ De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
       <link>http://localhost:1313/team/belahi-thomas/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team/belahi-thomas/</guid>
-      <description>&lt;p&gt;10/2012–04/2017, thèse, encadré par moi-même et Satish Singh (IPGP).&lt;/p&gt;
-&lt;p&gt;Thomas commença sa thèse en même temps que moi à l&amp;rsquo;IPGP, i.e. il est mon premier étudiant « officiel ». Venant de l&amp;rsquo;école nationale supérieure des mines de Nancy et M2 en IDEA league (ETH Zürich, RWTH Aachen, TU Delft), il était déjà ingénieur et avait de très solides bases en codage.&lt;/p&gt;
-&lt;p&gt;Le sujet était le développement d&amp;rsquo;une méthodologie d&amp;rsquo;inverser des formes d&amp;rsquo;ondes pour la structure élastique et anélastique en domaine temporel. Bien qu&amp;rsquo;il y existât quelques codes développés par d&amp;rsquo;anciens thésards, il n&amp;rsquo;était pas évident pour nous de les synthétiser pour commencer le projet, étant donné une grande disparité des codes existants.&lt;/p&gt;</description>
+      <description>&lt;p&gt;10/2012–04/2017, PhD, supervised by Satish Singh and me.&lt;/p&gt;
+&lt;p&gt;My very first PhD student working on the viscoelastic waveform inversion. We even spent one week in Ariège one summer, which I could call as the precursor of CLEEDI workshops. Very curious about everything, he was the one, together with Matthias Meschede, to bring Github culture to IPGP. When I look back now and recall of him suggesting to work in Julia, of which I am now enthousiastic. Thomas is now working as a data science consultant in Paris.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meschede, Matthias</title>
@@ -315,7 +325,7 @@ De plus, elle était flûtiste du PhiloGaïa Orchestra.&lt;/p&gt;</description>
       <link>http://localhost:1313/team/borisov-dmitry/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team/borisov-dmitry/</guid>
-      <description>&lt;p&gt;11/2010-11/2014 en thèse, encadré par Satish Singh de l&amp;rsquo;IPGP. Dimitry était déjà à la fin de sa deuxième année quand je suis arrivé à l&amp;rsquo;IPGP et il était en train de finaliser son projet sur l&amp;rsquo;injection de champs d&amp;rsquo;ondes afin de développer une méthodologie pour inverser les formes d&amp;rsquo;ondes pour une structure localisée dite « box waveform inversion ». Puisque j&amp;rsquo;étais en train de travailler sur un problème similaire pour le cas global, il était naturel pour moi de collaborer avec lui sur l&amp;rsquo;établissement de la théorie et le développement du code. L&amp;rsquo;extrapolation de champs d&amp;rsquo;ondes n&amp;rsquo;est pas aussi directe que l&amp;rsquo;on s&amp;rsquo;imagine dans certains cas, surtout quand l&amp;rsquo;on ne peut pas exercer l&amp;rsquo;intégral de surface entière à cause de la configuration géométrique des réseaux sismiques. Nous avons donc réécrit les formules et pu publier le premier article en utilisant des opérateurs élastiques \mbox{3D}, ce qui allait ensuite être la base pour la thèse de Shihao Yuan, mon deuxième thésard officiel. Dmitry est chercheur-professeur assistant à Kansas Geological Survey. Avec Dmitry, j&amp;rsquo;envisage de proposer un projet sismique-archéologique « iDASSITA » en utilisant des données de la fibre optique.&lt;/p&gt;</description>
+      <description>&lt;p&gt;11/2010-11/2014, PhD, supervised by Satish Singh. I arrived at IPGP when he was at the end of the second year and he was working for the wavefield injection method in Cartesian box. Since it was one of my postdoc projects in Toulouse, it was natural to work with him and Dmitry helped the first year Shihao&amp;rsquo;s PhD thesis later on. He is now a research professor at Kansas Geological Survey.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
