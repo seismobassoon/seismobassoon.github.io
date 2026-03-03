@@ -83,15 +83,20 @@ disablePathToLower = false
         url = "research/"
         weight = 4
     [[languages.en.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        url = "publications/"
+        weight = 5
+    [[languages.en.menu.main]]
         name = "🏫"
         pre = "Education"
         url = "education/"
-        weight = 5
+        weight = 6
     [[languages.en.menu.main]]
         name = "🎹"
         pre = "PhiloGaïa"
         url = "geomusic/"
-        weight = 6
+        weight = 7
 
         
   [languages.fr]
