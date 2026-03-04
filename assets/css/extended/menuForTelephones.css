@@ -1,15 +1,8 @@
-/* Par défaut: on cache le TEXTE partout (donc mobile OK même en "site ordinateur") */
-#menu .menu-text {
-  display: none !important;
-  margin-left: 0.35rem;
-}
+/* Mobile par défaut : emoji seul */
+#menu .menu-text { display: none; margin-left: .35rem; }
+#menu .menu-emoji { display: inline; }
 
-/* Par défaut on laisse les emojis visibles */
-#menu .menu-emoji {
-  display: inline !important;
-}
-
-/* On affiche le texte uniquement sur desktop "souris" + écran large */
-@media (min-width: 1024px) and (hover: hover) and (pointer: fine) {
-  #menu .menu-text { display: inline !important; }
+/* Dès que le viewport est "large" (desktop site ou vrai desktop) : emoji + texte */
+@media (min-width: 900px) {
+  #menu .menu-text { display: inline; }
 }
