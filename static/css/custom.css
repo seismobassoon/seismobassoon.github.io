@@ -1,9 +1,11 @@
-/* Desktop: emoji + texte */
-.menu-text {
-  margin-left: 0.35rem;
+#menu .menu-text { margin-left: 0.35rem; }
+
+/* Mobile (largeur) */
+@media (max-width: 768px) {
+  #menu .menu-text { display: none !important; }
 }
 
-/* Mobile: emoji seul */
-@media (max-width: 768px) {
-  .menu-text { display: none !important; }
+/* Mobile (capteur tactile), même si Safari affiche "site desktop" */
+@media (hover: none) and (pointer: coarse) {
+  #menu .menu-text { display: none !important; }
 }
