@@ -120,31 +120,51 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
   - DOI: https://doi.org/10.1093/gji/ggx118  
   - PDF (legal): *(add your link)*
 
-- Konishi, K., **Fuji, N.**, & Deschamps, F. (2017). Elastic and anelastic structure… Western Pacific. *Geophysical Journal International*, 208, 1290–1304.  
+- Konishi, K., **Fuji, N.**, & Deschamps, F. (2017). Elastic and anelastic structure of the lowermost mantle beneath
+the Western Pacific from waveform inversion. *Geophysical Journal International*, 208, 1290–1304.  
   - DOI: https://doi.org/10.1093/gji/ggw450  
-  - PDF (legal): *(add your link)*
+  - [PDF](/papers/2016KFD.pdf)
+
+## 2016
+- Belahi, T., **Fuji, N.**, Singh, S. (2016). Viscoelastic Full Waveform Inversion of Sea Bottom Long Offset Seismic Data in Presence of Attenuation. *EAGE abstract*
+  - [PDF](/papers/2016BSF.pdf)
+
+- **Fuji, N.**, Ovcharenko, O., Martin, R., & Cuvilliez, C. (2016). Simple and Accurate Operators Based on Taylor Expansion for 2D Elastic Seismogram Calculation under Geological Discontinuities with Regular Cartesian Grids. *EAGE abstract*
+   - [PDF](/papers/2016FOMC.pdf)
+
+- Marjanović, M, **Fuji, N.**, Singh, S. & Belahi, T. (2016). Imaging Hydrothermal Circulation Paths along the East Pacific Rise Using Elastic Wave-equation Based Inversion Technique. *EAGE abstract*
+   -[PDF](/papers/2016MFSB.pdf)
+
+- Yuan, S., **Fuji, N.**, Borisov, D., Singh, S. (2016). Localised Time-lapse 3D Elastic Full Waveform Inversion Using Finite-difference Injection and Wavefield Extrapolation. *EAGE abstract*
+   -[PDF](/papers/2016YFBS.pdf)
 
 ## 2015
 
-- Borisov, D., Singh, S., & **Fuji, N.** (2015). An efficient method of 3D elastic full waveform inversion… *Geophysical Journal International*, 202, 1908–1922.  
-  - DOI: *(add if any)*  
-  - PDF (legal): *(add your link)*
+- Villanueva-Robles, F., **Fuji, N.**, Shapiro, N., & Singh, S. (2015). Near-offset Trace Reconstruction from Sparse Ocean Bottom Seismometer Data Using Seismic Interferometry. *EAGE abstract*
+   - [PDF](/papers/2015VFSS.pdf)
+
+- Borisov, D., Singh, S., & **Fuji, N.** (2015). An efficient method of 3-D elastic full waveform inversion using a finite-difference injection method for time-lapse imaging. *Geophysical Journal International*, 202, 1908–1922.  
+  - DOI: https://doi.org/10.1093/gji/ggv268￿
+  - [PDF](/papers/2015BFS_borisov.pdf)
+
+- Belahi, T., **Fuji, N.**, & Singh, S. (2015) Elastic Versus Viscoelastic Full Waveform Inversion of Near-offset and Wide-angle Data in the Presence of Attenuation, *EAGE abstract*
+  - [PDF](/papers/2015BFS_belahi.pdf)
 
 ## 2014
 
-- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2014). Waveform inversion for localized 3-D seismic velocity structure… *Geophysical Journal International*, 199, 1245–1267.  
-  - DOI: *(add if any)*  
-  - PDF (legal): *(add your link)*
+- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2014). Waveform inversion for localized three-dimensional seismic velocity structure in the lowermost mantle beneath the Western Pacific. *Geophysical Journal International*, 199, 1245–1267.  
+  - DOI: https://doi.org/10.1093/gji/ggu288
+  - [PDF](/papers/2014KKGF_konishi.pdf)
 
-- Kawai, K., Konishi, K., Geller, R.J., & **Fuji, N.** (2014). Methods for inversion of body-wave waveforms… *Geophysical Journal International*.  
+- Kawai, K., Konishi, K., Geller, R.J., & **Fuji, N.** (2014). Methods for inversion of body-wave waveforms for localized three-dimensional seismic structure and an application to D'' structure beneath Central America. *Geophysical Journal International*.  
   - DOI: https://doi.org/10.1093/gji/ggt520  
-  - PDF (legal): *(add your link)*
+   - [PDF](/papers/2014KKGF_kawai.pdf)
 
 ## 2013
 
 - Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2013). A hybrid method to compute short-period synthetic seismograms of teleseismic body waves in a 3-D regional model. *Geophysical Journal International*, 192, 230–247.  
-  - DOI: *(add if any)*  
-  - PDF (legal): *(add your link)*
+  - DOI: https://doi:10.1093/gji/ggs006
+  - [PDF](/papers/2013MCKF.pdf)
 
 ## 2012
 
@@ -159,13 +179,13 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 ## 2011
 
 - Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2011). A hybrid technique for 3-D modelling of high frequency teleseismic body waves in the Earth, *EAGE abstract*
--[PDF](/papers/2011MCKF.pdf)
+    - [PDF](/papers/2011MCKF.pdf)
 
 ## 2010
 
 - **Fuji, N.** (2010). A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific. 
 *PhD thesis* University of Tokyo.
--[PDF](/papers/2010PhDThesis.pdf)
+    - [PDF](/papers/2010PhDThesis.pdf)
 
 - **Fuji, N.**, Kawai, K., & Geller, R.J. (2010). A methodology for inversion of broadband seismic waveforms for elastic and anelastic structure and its application to the mantle transition zone beneath the
 northwestern Pacific. *Physics of the Earth and Planetary Interiors*, 180, 118–137.  

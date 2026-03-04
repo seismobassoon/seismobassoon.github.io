@@ -1018,6 +1018,23 @@
                 href="http://localhost:1313/jp/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/jp/publications/sciences/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/sciences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/sciences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/sciences/"
+                />
+  </url><url>
     <loc>http://localhost:1313/jp/geomusic/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1052,6 +1069,23 @@
                 href="http://localhost:1313/jp/education/"
                 />
   </url><url>
+    <loc>http://localhost:1313/jp/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/"
+                />
+  </url><url>
     <loc>http://localhost:1313/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1077,6 +1111,23 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://localhost:1313/jp/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/jp/publications/outreach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/outreach/"
                 />
   </url>
 </urlset>

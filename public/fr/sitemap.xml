@@ -1018,6 +1018,40 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/publications/outreach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/outreach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/outreach/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publications/sciences/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/sciences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/sciences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/sciences/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/geomusic/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1050,6 +1084,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/education/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://localhost:1313/jp/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/publications/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
