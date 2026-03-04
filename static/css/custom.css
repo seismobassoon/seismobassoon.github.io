@@ -1,11 +1,10 @@
-#menu .menu-text { margin-left: 0.35rem; }
-
-/* Mobile (largeur) */
-@media (max-width: 768px) {
-  #menu .menu-text { display: none !important; }
+/* Par défaut: on cache le texte (donc mobile OK même en "site ordinateur") */
+#menu .menu-text {
+  display: none !important;
+  margin-left: 0.35rem;
 }
 
-/* Mobile (capteur tactile), même si Safari affiche "site desktop" */
-@media (hover: none) and (pointer: coarse) {
-  #menu .menu-text { display: none !important; }
+/* On l'affiche uniquement sur desktop "souris" + écran large */
+@media (min-width: 1024px) and (hover: hover) and (pointer: fine) {
+  #menu .menu-text { display: inline !important; }
 }
