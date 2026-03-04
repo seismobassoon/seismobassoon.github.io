@@ -5,5 +5,5 @@
 
 /* Mobile: emoji seul */
 @media (max-width: 768px) {
-  .menu-text { display: none; }
+  .menu-text { display: none !important; }
 }
