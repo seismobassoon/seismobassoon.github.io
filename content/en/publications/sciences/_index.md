@@ -17,7 +17,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 ## 2025
 
 - **Fuji, N.** (2025). «Évolution(s)» vue(s) par un géophysicien. *Évolution(s) - Science, art et littérature* (Eds. Séginger, G. & Yvonnet, J.), 289–306.  
-  - DOI: *(add if any)*  
+  - DOI: https://doi.org/10.3917/edmat.segin.2025.01.0289
   - PDF (legal): *(add your link)*
 
 ## 2024
@@ -142,26 +142,35 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 ## 2013
 
-- Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2013). A hybrid technique for 3D modelling of high frequency teleseismic body waves… *Geophysical Journal International*, 192, 230–247.  
+- Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2013). A hybrid method to compute short-period synthetic seismograms of teleseismic body waves in a 3-D regional model. *Geophysical Journal International*, 192, 230–247.  
   - DOI: *(add if any)*  
   - PDF (legal): *(add your link)*
 
 ## 2012
 
-- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2012). Waveform inversion of broad-band body-wave data… *Geophysical Journal International*, 191, 305–316.  
-  - DOI: *(add if any)*  
-  - PDF (legal): *(add your link)*
+- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2012). Waveform inversion of broad-band body wave data for the S-velocity structure in the lowermost mantle beneath the Indian subcontinent and Tibetan Plateau.  *Geophysical Journal International*, 191, 305–316.  
+  - DOI: https://doi.org/10.1111/j.1365-246X.2012.05614.x
+  - [PDF](/papers/2012KKGF.pdf)
 
-- **Fuji, N.**, Chevrot, S., Zhao, L., Geller, R.J., & Kawai, K. (2012). Partial derivatives of high-frequency compressional body waves… *Geophysical Journal International*, 190, 522–540.  
-  - DOI: *(add if any)*  
-  - PDF (legal): *(add your link)*
+- **Fuji, N.**, Chevrot, S., Zhao, L., Geller, R.J., & Kawai, K. (2012). Finite-frequency structural sensitivities of short-period compressional body waves. *Geophysical Journal International*, 190, 522–540.  
+  - DOI: https://doi.org/10.1111/j.1365-246X.2012.05495.x
+  - [PDF](/papers/2012FCZGK.pdf)
+
+## 2011
+
+- Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2011). A hybrid technique for 3-D modelling of high frequency teleseismic body waves in the Earth, *EAGE abstract*
+-[PDF](/papers/2011MCKF.pdf)
 
 ## 2010
+
+- **Fuji, N.** (2010). A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific. 
+*PhD thesis* University of Tokyo.
+-[PDF](/papers/2010PhDThesis.pdf)
 
 - **Fuji, N.**, Kawai, K., & Geller, R.J. (2010). A methodology for inversion of broadband seismic waveforms for elastic and anelastic structure and its application to the mantle transition zone beneath the
 northwestern Pacific. *Physics of the Earth and Planetary Interiors*, 180, 118–137.  
   - DOI: https://doi.org/10.1016/j.pepi.2009.10.004 
-  - [PDF (final manuscript)](/papers/2010FKG_proof.pdf)
+  - [PDF](/papers/2010FKG_proof.pdf)
 
 - Kawai, K., Geller, R.J., & **Fuji, N.** (2010). Waveform inversion for S-wave structure in the lowermost mantle beneath the Arctic: Implications for mineralogy and chemical composition. 
 *Geophysical Research Letters*, 37, L16301.  
