@@ -12,8 +12,7 @@ languageCode = 'en'
 
 
 disablePathToLower = false
-[params.assets]
-  customCSS = ["css/custom.css"]
+
 
 [params]
     displayFullLangName = false
