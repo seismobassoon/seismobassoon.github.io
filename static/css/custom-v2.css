@@ -1,10 +1,15 @@
-/* Par défaut: on cache le texte (donc mobile OK même en "site ordinateur") */
-#menu .menu-emoji {
+/* Par défaut: on cache le TEXTE partout (donc mobile OK même en "site ordinateur") */
+#menu .menu-text {
   display: none !important;
   margin-left: 0.35rem;
 }
 
-/* On l'affiche uniquement sur desktop "souris" + écran large */
+/* Par défaut on laisse les emojis visibles */
+#menu .menu-emoji {
+  display: inline !important;
+}
+
+/* On affiche le texte uniquement sur desktop "souris" + écran large */
 @media (min-width: 1024px) and (hover: hover) and (pointer: fine) {
   #menu .menu-text { display: inline !important; }
 }
