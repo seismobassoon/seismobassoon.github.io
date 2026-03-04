@@ -1,0 +1,9 @@
+/* Desktop: emoji + texte */
+.menu-text {
+  margin-left: 0.35rem;
+}
+
+/* Mobile: emoji seul */
+@media (max-width: 768px) {
+  .menu-text { display: none; }
+}
