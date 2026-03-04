@@ -1,5 +1,5 @@
 /* Par défaut: on cache le texte (donc mobile OK même en "site ordinateur") */
-#menu .menu-text {
+#menu .menu-emoji {
   display: none !important;
   margin-left: 0.35rem;
 }
