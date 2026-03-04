@@ -1,0 +1,15 @@
++++
+title = "Konishi, Kensuke"
+current_role = "Postdoc"
+status = "alumni"
+date = 2014-09-01T00:00:00
+draft = false
+
+[[positions]]
+role = "Postdoc"
+start = "2014-09"
+end = "2020-08"
++++
+09/2014-07/2020, postdoc, encadré par moi-même avec Frédéric Deschamps à l'Institute of Earth Sciences, Academia Sinica, Taipei, Taiwan. Kensuke est arrivé au laboratoire de Robert (Bob) J. Geller à l'Université de Tokyo en 2006 en tant que stagiaire de L4 un an plus tard que moi. Nous avons travaillé étroitement ensemble depuis toujours, jusqu'à 2020 où il décida de quitter la recherche. Il a soutenu sa thèse à Tokyo en 2013 et est parti au laboratoire de Sang-Mook Lee à l'Université de Séoul pour un an. Étant extrêmement compétant en informatique, Kensuke m'a beaucoup aidé à affiner mes codes, notamment mes codes d'inversions de formes d'ondes. Tous ces outils numériques que j'avais initialement développés lors de ma thèse ont été nettoyés lors de sa thèse. Ils sont toujours utilisés par des étudiants du laboratoire de Bob Geller, et du celui de Kawai Kenji, ultérieurement. 
+
+Kensuke me contacta lorsqu'il a voulu partir de Séoul au printemps 2014. Étant en train de discuter avec Frédéric Deschamps (IES, Academia Sinica) qui me visita à Paris sur un nouveau projet en commun, sur une possibilité de réconcilier la géophysique et la sismologie (ce qui m'intéresse depuis le début de ma carrière), je lui demandai s'il irait l'embaucher et le co-encadrer avec moi pour quelques années. Sa réponse fut un grand « oui ». C'était le début de notre collaboration franco-taïwanaise qui dure encore. Avec Kensuke et Frédéric, nous avons d'abord appliqué ma méthodologie d'inverser des formes d'ondes simultanément pour l'élasticité et l'anélasticité pour imager la base du manteau sous la plaque Caroline. Nous avons publié trois articles sur ce sujet et il avait participé à un autre projet avec Kei Hasegawa, un postdoc chez Li Zhao à l'IES, Academia Sinica. Il s'agissait d'une étude qui optimisait des opérateurs des éléments spectraux sans augmenter le coût de calcul. Il est venu à l'IPGP deux fois pour de longues durées : i) décembre 2014 pour implémenter mon code pour inverser l'atténuation en Java (financé par Academia Sinica) ; puis ii) mai-juin 2018 pour créer le protocole d'un nouveau code de Direct Solution Method (DSM) pour une planète 3D, à l'aide des harmonies sphériques (financé par IPGP). Nous devions terminer ce projet pendant sa troisième visite au printemps 2020 (j'avais obtenu un mois de chercheur invité). Or, la crise sanitaire nous a empêchés de le faire, le code est toujours en cours de développement, malgré quelques contributions de la part de Manuel Asnar pour six mois en 2020. Kensuke est rentré au Japon en août 2020 pour commencer son nouveau poste en tant qu'ingénieur informatique.

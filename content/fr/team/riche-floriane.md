@@ -1,5 +1,5 @@
 +++
-title = "Riche, Floriane"
+title = "Riché, Floriane"
 current_role = "L2"
 status = "active"
 date = "2025-11-01"

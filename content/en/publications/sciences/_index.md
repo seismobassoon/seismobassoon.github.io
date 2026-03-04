@@ -144,7 +144,7 @@ the Western Pacific from waveform inversion. *Geophysical Journal International*
    - [PDF](/papers/2015VFSS.pdf)
 
 - Borisov, D., Singh, S., & **Fuji, N.** (2015). An efficient method of 3-D elastic full waveform inversion using a finite-difference injection method for time-lapse imaging. *Geophysical Journal International*, 202, 1908–1922.  
-  - DOI: https://doi.org/10.1093/gji/ggv268￿
+  - DOI: https://doi.org/10.1093/gji/ggv268
   - [PDF](/papers/2015BFS_borisov.pdf)
 
 - Belahi, T., **Fuji, N.**, & Singh, S. (2015) Elastic Versus Viscoelastic Full Waveform Inversion of Near-offset and Wide-angle Data in the Presence of Attenuation, *EAGE abstract*
