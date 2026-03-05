@@ -24,7 +24,7 @@ disablePathToLower = false
           SiteVerificationTag = "YxiAZLMcK1ogVJx0r_32wyQ2IGTOVBJBA9tbF-y0piY"
 
     [params.assets]
-        customCSS = ["css/custom.css"]
+        customCSS = ["css/custom-v2.css"]
 
     [params.profileMode]
         enabled = true
