@@ -13,6 +13,7 @@ draft = false
 - [2020 Hibiki for my orchestra in Univ. Tokyo (in Japanese)](/papers/2020musiconfinee.pdf)
 - [2019 Pirate (in French)](/papers/2019_Fuji_pirate.pdf)
 - [2017 Mahler 6 (in French)](/papers/2017_Fuji_coge_Mahler6.pdf)
+- [2017 International Double Reed Society journal](/papers/2017FM.pdf)
 - [2015 Zisin (in Japanese)](/papers/2015_Fuji_Zisin_newsletter.pdf)
 - [2011 Hibiki for my orchestra in Univ. Tokyo (in Japanese)](/papers/2011_Fuji_todaioke.pdf)
 - [2009 Brahms 4 (in Japanese)](/papers/2009brahms_shoukai.pdf)

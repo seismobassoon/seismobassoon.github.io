@@ -112,13 +112,13 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 ## 2017
 
-- Marjanović, M., **Fuji, N.**, Singh, S., Belahi, T., & Escartin, J. (2017). Seismic signatures of hydrothermal pathways… East Pacific Rise. *Journal of Geophysical Research: Solid Earth*.  
+- Marjanović, M., **Fuji, N.**, Singh, S., Belahi, T., & Escartin, J. (2017). Seismic Signatures of Hydrothermal Pathways Along the East Pacic Rise Between 9°160 and 9°560N. *Journal of Geophysical Research: Solid Earth*.  
   - DOI: https://doi.org/10.1002/2017JB015004  
-  - PDF (legal): *(add your link)*
+  - [PDF](/papers/2017MFSBE.pdf)
 
-- Yuan, S., **Fuji, N.**, & Singh, S. (2017). Localized time-lapse elastic waveform inversion… *Geophysical Journal International*, 209, 1699–1717.  
+- Yuan, S., **Fuji, N.**, & Singh, S. (2017). Localized time-lapse elastic waveform inversion using wavefield injection and extrapolation: 2-D parametric studies. *Geophysical Journal International*, 209, 1699–1717.  
   - DOI: https://doi.org/10.1093/gji/ggx118  
-  - PDF (legal): *(add your link)*
+  - [PDF](/papers/2017YFSB.pdf)
 
 - Konishi, K., **Fuji, N.**, & Deschamps, F. (2017). Elastic and anelastic structure of the lowermost mantle beneath
 the Western Pacific from waveform inversion. *Geophysical Journal International*, 208, 1290–1304.  
@@ -133,10 +133,10 @@ the Western Pacific from waveform inversion. *Geophysical Journal International*
    - [PDF](/papers/2016FOMC.pdf)
 
 - Marjanović, M, **Fuji, N.**, Singh, S. & Belahi, T. (2016). Imaging Hydrothermal Circulation Paths along the East Pacific Rise Using Elastic Wave-equation Based Inversion Technique. *EAGE abstract*
-   -[PDF](/papers/2016MFSB.pdf)
+   - [PDF](/papers/2016MFSB.pdf)
 
 - Yuan, S., **Fuji, N.**, Borisov, D., Singh, S. (2016). Localised Time-lapse 3D Elastic Full Waveform Inversion Using Finite-difference Injection and Wavefield Extrapolation. *EAGE abstract*
-   -[PDF](/papers/2016YFBS.pdf)
+   - [PDF](/papers/2016YFBS.pdf)
 
 ## 2015
 
