@@ -7,8 +7,8 @@ draft = false
 我叫 **冨士延章（Nobuaki Fuji）**，是一位「地震低音管演奏家」（seismobassoonist），同時也是
 [IPGP](https://www.ipgp.fr) 與 [UPC](https://u-paris.fr) 的副教授，並擔任地震學研究團隊負責人，
 同時也是 [IUF](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) 科學傳播講座的青年成員。
+{{< entry-card "cv/details" >}} 
 
-{{< entry-card "cv/details" >}}
 {{< img "images/moi.png" "Moi" >}}
 
 ## 地球動力學與地震學：正問題與反問題
