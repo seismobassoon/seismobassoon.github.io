@@ -1,9 +1,9 @@
 +++
-title = "Projet de recherche"
+title = "Recherche"
 draft = false
 +++
 
-Recherche : de la tomographie globale et régionale – réconciliation des échelles grâce aux contraintes minéralogiques, pétrologiques et géodynamiques avec la même plateforme `flexOPT.jl`
+de la tomographie globale et régionale – réconciliation des échelles grâce aux contraintes minéralogiques, pétrologiques et géodynamiques avec la même plateforme `flexOPT.jl`
 
 {{< collapse title="Introduction générale" >}}
 
