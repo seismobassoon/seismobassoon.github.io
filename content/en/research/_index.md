@@ -6,7 +6,7 @@ draft = false
 from the global and regional tomography to scale reconcilation using mineralogic, petrologic and geodynamic constraints via a unique platform `flexOPT.jl`
 
 
-{{< collapse title="Introduction générale" >}}
+{{< collapse title="General introduction" >}}
 
 The aim of my research is to better understand the evolution of the interior of telluric bodies, by extracting maximum information from (geo)physical observations, particularly seismic waveforms.
 
@@ -31,7 +31,7 @@ Some example of applications of box tomography at different scales:
 
 {{< collapse title="Financements obtenus" >}}
 
-Tous les financements obtenus pour réaliser mes recherches sont détaillés dans la section consacrée aux financements. Deux tiers de ma thèse ont été financés par la JSPS (Société japonaise pour la promotion de la Science). Au Japon, jusqu’au début des années 2010, les doctorants ne bénéficiaient pas systématiquement d’un financement doctoral. J’ai donc dû rédiger mon propre projet de recherche, centré sur le développement de l’inversion des formes d’ondes pour l’élasticité et l’anélasticité, ce qui m’a permis d’acquérir dès cette époque un recul critique sur la rédaction de projets scientifiques.
+Deux tiers de ma thèse ont été financés par la JSPS (Société japonaise pour la promotion de la Science). Au Japon, jusqu’au début des années 2010, les doctorants ne bénéficiaient pas systématiquement d’un financement doctoral. J’ai donc dû rédiger mon propre projet de recherche, centré sur le développement de l’inversion des formes d’ondes pour l’élasticité et l’anélasticité, ce qui m’a permis d’acquérir dès cette époque un recul critique sur la rédaction de projets scientifiques.
 
 Entre 2012 et 2017, j’ai été collaborateur et responsable principal de l’enseignement au sein du consortium GPX, dédié à l’exploration géophysique. Ce consortium a favorisé la recherche et la formation, en lien entre les universités et l’industrie. Mes travaux théoriques sur l’inversion localisée des formes d’ondes et le développement fondamental du calcul de sismogrammes synthétiques ont posé les bases de ma nouvelle méthode actuelle : les *opérateurs optimaux pour les équations aux dérivées partielles arbitraires*.
 
