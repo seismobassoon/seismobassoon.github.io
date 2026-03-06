@@ -3,7 +3,7 @@ title = "Recherche"
 draft = false
 +++
 
-de la tomographie globale et régionale – réconciliation des échelles grâce aux contraintes minéralogiques, pétrologiques et géodynamiques avec la même plateforme `flexOPT.jl`
+de la tomographie globale et régionale à la réconciliation des échelles grâce aux contraintes minéralogiques, pétrologiques et géodynamiques avec la plateforme unique `flexOPT.jl`
 
 {{< collapse title="Introduction générale" >}}
 
@@ -13,11 +13,11 @@ Au fil du temps, j’ai développé des méthodes numériques et théoriques pou
 
 L’une de mes contributions majeures est le développement de la méthode dite de *box-tomographie* à plusieurs échelles, qui permet d’imager une région localisée (ou « boîte ») à partir de formes d’ondes sismiques échantillonnant non seulement l’intérieur de cette région, mais aussi son environnement externe.
 
-Dans cette section, je présente tout d’abord les financements qui ont permis la réalisation de mes recherches. J’illustre ensuite une série de travaux d’imagerie élastique et anélastique que j’ai menés sur la micro-dynamique sous la plaque Caroline, en collaboration avec des géodynamiciens et des pétrologues. Par la suite, je formulerai des questions portant sur les méthodes, les résultats et les interprétations. Je détaille ensuite la boîte à outils théoriques et numériques que j’ai développée au fil du temps pour répondre à des problématiques scientifiques variées. Enfin, je décris le projet de recherche que je souhaite porter avec mes partenaires actuels et futurs.
+Je présente tout d’abord les financements qui ont permis la réalisation de mes recherches. J’illustre ensuite une série de travaux d’imagerie élastique et anélastique que j’ai menés sur la micro-dynamique sous la plaque Caroline, en collaboration avec des géodynamiciens et des pétrologues. Par la suite, je formulerai des questions portant sur les méthodes, les résultats et les interprétations. Je détaille ensuite la boîte à outils théoriques et numériques que j’ai développée au fil du temps pour répondre à des problématiques scientifiques variées. Enfin, je décris le projet de recherche que je souhaite porter avec mes partenaires actuels et futurs.
 
 ![Schéma box-tomographie](/images/schema_box.png)
 
-*Figure suggérée — `schema_box.png`*  
+*
 Quelques exemples d’applications de la « box-tomographie » à différentes échelles :
 (a) en sismologie globale, utilisation de séismes télésismiques pour imager des régions localisées ;  
 (b) sous la plaque Caroline, inversion des formes d’onde pour `Vs` et `Qs` en 1D et 3D ;  
@@ -25,7 +25,7 @@ Quelques exemples d’applications de la « box-tomographie » à différentes �
 (d) ouverture vers l’imagerie par neutrinos ;  
 (e) contrainte sur la remontée de fusion partielle sous La Réunion ;  
 (f) imagerie 3D `Vp`, `Vs` et densité sous le plateau Tibétain, avec ouverture récente vers le mont Fuji.
-
+*
 {{< /collapse >}}
 
 {{< collapse title="Financements obtenus" >}}
