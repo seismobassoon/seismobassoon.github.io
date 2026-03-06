@@ -274,6 +274,13 @@ disablePathToLower = false
         pre = "Forskning"
         url = "research/"
         weight = 4
+
+        [[languages.no.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+
     [[languages.no.menu.main]]
         name = "🏫"
         pre = "Undervisning"
@@ -284,3 +291,50 @@ disablePathToLower = false
         pre = "PhiloGaïa"
         url = "geomusic/"
         weight = 7
+
+        
+
+ [languages.cn]
+    weight = 6
+    languageName = "中國話"
+    contentDir = "content/cn"
+    [languages.cn.params]
+      langBadge = "拼"
+    [[languages.cn.menu.main]]
+        name = "📢"
+        pre = "新聞"
+        url = "news/"
+        weight = 1
+    [[languages.cn.menu.main]]
+        name = "👤"
+        pre = "我是誰"
+        url = "cv/"
+        weight = 2
+    [[languages.cn.menu.main]]
+        name = "👥"
+        pre = "研究團隊"
+        url = "team/"
+        weight = 3
+    [[languages.cn.menu.main]]
+        name = "🧠"
+        pre = "研究"
+        url = "research/"
+        weight = 4
+
+        [[languages.cn.menu.main]]
+        name = "🎓"
+        pre = "出版品"
+        pageRef = "publications/"
+        weight = 5
+
+    [[languages.cn.menu.main]]
+        name = "🏫"
+        pre = "教育"
+        url = "education/"
+        weight = 6
+    [[languages.cn.menu.main]]
+        name = "🎹"
+        pre = "地球音樂"
+        url = "geomusic/"
+        weight = 7
+
