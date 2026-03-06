@@ -14,7 +14,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 ## Jump to year
 
-[2025](#y2025) · [2024](#y2024) · [2023](#y2023) · [2022](#y2022) · [2021](#y2021) · [2020](#y2020) · [2019](#y2019) · [2018](#y2018) · [2017](#y2017) · [2016](#y2016) · [2015](#y2015) · [2014](#y2014) · [2013](#y2013) · [2012](#y2012) · [2011](#y2011) · [2010](#y2010) · [2009](y2009) · [2007](#y2007)
+[2025](#y2025) · [2024](#y2024) · [2023](#y2023) · [2022](#y2022) · [2021](#y2021) · [2020](#y2020) · [2019](#y2019) · [2018](#y2018) · [2017](#y2017) · [2016](#y2016) · [2015](#y2015) · [2014](#y2014) · [2013](#y2013) · [2012](#y2012) · [2011](#y2011) · [2010](#y2010) · [2009](#y2009) · [2007](#y2007)
 
 ---
 
@@ -50,7 +50,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2022">2022</h2>
+<div id="y2022">2022</div>
 
 - Kawamura, T., Grott, M., Garcia, R., … **Fuji, N.**, … (2022). An autonomous lunar geophysical experiment package (ALGEP) for future space missions. *Experimental Astronomy*.  
   - DOI: https://doi.org/10.1007/s10686-022-09857-6  
@@ -66,7 +66,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2021">2021</h2>
+<div id="y2021">2021</div>
 
 - Lai, S., **Fuji, N.**, Katayama, I., Bonilla, F., & Capdeville, Y. (2021). Rock deformation monitoring using Monte Carlo waveform inversion. *Journal of Geophysical Research: Solid Earth*, 126, e2021JB021873.  
   - DOI: https://doi.org/10.1029/2021JB021873  
@@ -86,7 +86,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2020">2020</h2>
+<div id="y2020">2020</div>
 
 - Franken, K., Armitage, J.J., **Fuji, N.**, & Fournier, F. (2020). Seismic Wave‐Based Constraints on Geodynamical Processes… Réunion Island. *Geochemistry, Geophysics, Geosystems*, 21(5), e2019GC008815.  
   - DOI: https://doi.org/10.1029/2019GC008815  
@@ -106,7 +106,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2019">2019</h2>
+<div id="y2019">2019</div>
 
 - Deschamps, F., Konishi, K., **Fuji, N.**, & Cobden, L. (2019). Radial thermo-chemical structure… Pacific. *Earth and Planetary Science Letters*, 520, 153–163.  
   - DOI: *(add if any)*  
@@ -118,7 +118,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2018">2018</h2>
+<div id="y2018">2018</div>
 
 - Daubar, I., Lognonné, P., Teanby, N.A., … **Fuji, N.**, … (2018). Impact-seismic investigations of the InSight mission. *Space Science Reviews*, 214(8), 132.  
   - DOI: *(add if any)*  
@@ -130,7 +130,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2017">2017</h2>
+<div id="y2017">2017</div>
 
 - Marjanović, M., **Fuji, N.**, Singh, S., Belahi, T., & Escartin, J. (2017). Seismic Signatures of Hydrothermal Pathways Along the East Pacic Rise Between 9°160 and 9°560N. *Journal of Geophysical Research: Solid Earth*.  
   - DOI: https://doi.org/10.1002/2017JB015004  
@@ -146,7 +146,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2016">2016</h2>
+<div id="y2016">2016</div>
 
 - Belahi, T., **Fuji, N.**, Singh, S. (2016). Viscoelastic Full Waveform Inversion of Sea Bottom Long Offset Seismic Data in Presence of Attenuation. *EAGE abstract*  
   - [PDF](/papers/2016BSF.pdf)
@@ -162,7 +162,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2015">2015</h2>
+<div id="y2015">2015</div>
 
 - Villanueva-Robles, F., **Fuji, N.**, Shapiro, N., & Singh, S. (2015). Near-offset Trace Reconstruction from Sparse Ocean Bottom Seismometer Data Using Seismic Interferometry. *EAGE abstract*  
   - [PDF](/papers/2015VFSS.pdf)
@@ -176,7 +176,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2014">2014</h2>
+<div id="y2014">2014</div>
 
 - Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2014). Waveform inversion for localized three-dimensional seismic velocity structure in the lowermost mantle beneath the Western Pacific. *Geophysical Journal International*, 199, 1245–1267.  
   - DOI: https://doi.org/10.1093/gji/ggu288
@@ -188,7 +188,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2013">2013</h2>
+<div id="y2013">2013</div>
 
 - Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2013). A hybrid method to compute short-period synthetic seismograms of teleseismic body waves in a 3-D regional model. *Geophysical Journal International*, 192, 230–247.  
   - DOI: https://doi:10.1093/gji/ggs006
@@ -196,7 +196,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2012">2012</h2>
+<div id="y2012">2012</div>
 
 - Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2012). Waveform inversion of broad-band body wave data for the S-velocity structure in the lowermost mantle beneath the Indian subcontinent and Tibetan Plateau. *Geophysical Journal International*, 191, 305–316.  
   - DOI: https://doi.org/10.1111/j.1365-246X.2012.05614.x
@@ -208,14 +208,14 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2011">2011</h2>
+<div id="y2011">2011</div>
 
 - Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2011). A hybrid technique for 3-D modelling of high frequency teleseismic body waves in the Earth, *EAGE abstract*  
   - [PDF](/papers/2011MCKF.pdf)
 
 [↑ Back to top](#top)
 
-<h2 id="y2010">2010</h2>
+<div id="y2010">2010</div>
 
 - **Fuji, N.** (2010). A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific. *PhD thesis* University of Tokyo.  
   - [PDF](/papers/2010PhDThesis.pdf)
@@ -230,7 +230,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2009">2009</h2>
+<div id="y2009">2009</div>
 
 - Kawai, K., Sekine, S., **Fuji, N.**, & Geller, R.J. (2009). Waveform inversion for D" structure beneath northern Asia using Hi-net tiltmeter data. *Geophysical Research Letters*, 36, L039651.  
   - DOI: https://doi.org/10.1029/2009GL039651  
@@ -242,7 +242,7 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 [↑ Back to top](#top)
 
-<h2 id="y2007">2007</h2>
+<div id="y2007">2007</div>
 
 - Kawai, K., Geller, R.J., & **Fuji, N.** (2007). Dʺ beneath the Arctic from inversion of shear waveforms. *Geophysical Research Letters*, 34, L031517.  
   - DOI: https://doi.org/10.1029/2007GL031517  
