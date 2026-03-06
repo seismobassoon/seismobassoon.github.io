@@ -18,24 +18,24 @@ Where legally possible, I may provide an **author-accepted manuscript** or **pre
 
 ---
 
-<h2 id="y2025">2025</h2>
 
+<div id="y2025"></div>
 - **Fuji, N.** (2025). «Évolution(s)» vue(s) par un géophysicien. *Évolution(s) - Science, art et littérature* (Eds. Séginger, G. & Yvonnet, J.), 289–306.  
   - DOI: https://doi.org/10.3917/edmat.segin.2025.01.0289
   - PDF (legal): *(add your link)*
 
 [↑ Back to top](#top)
 
-<h2 id="y2024">2024</h2>
 
+<div id="y2024"></div>
 - **Fuji, N.** (2024). The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese). *The Review of High Pressure Science and Technology*, 33(3), 158–167.  
   - DOI: *(add if any)*  
   - PDF (legal): *(add your link)*
 
 [↑ Back to top](#top)
 
-<h2 id="y2023">2023</h2>
 
+<div id="y2023"></div>
 - **Fuji, N.**, Olive, J.-A., & Hernlund, J. (2023). Editorial: Collaborative Exploration of Earth's Deep Interiors (CLEEDI). *Frontiers in Earth Science*, 11, 1220375.  
   - DOI: https://doi.org/10.3389/feart.2023.1220375  
   - PDF (legal): *(add your link)*
