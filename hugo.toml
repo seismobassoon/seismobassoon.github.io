@@ -154,7 +154,11 @@ disablePathToLower = false
         pre = "philogaïa"
         url = "geomusic/"
         weight = 7
-    
+    [[languages.fr.menu.main]]
+        name = "✏️"
+        pre = "Compositions"
+        url = "compositions/"
+        weight = 8
 
 
 
@@ -201,7 +205,11 @@ disablePathToLower = false
         pre = "フィロガイア"
         url = "geomusic/"
         weight = 7
-
+    [[languages.jp.menu.main]]
+        name = "✏️"
+        pre = "Compositions"
+        url = "compositions/"
+        weight = 8
 
 
 
@@ -253,7 +261,11 @@ disablePathToLower = false
       pre = "Philogaia"
       url = "geomusic/"
       weight = 7
-
+[[languages.de.menu.main]]
+        name = "✏️"
+        pre = "Compositions"
+        url = "compositions/"
+        weight = 8
    
     
   [languages.no]
@@ -299,7 +311,11 @@ disablePathToLower = false
         pre = "PhiloGaïa"
         url = "geomusic/"
         weight = 7
-
+[[languages.no.menu.main]]
+        name = "✏️"
+        pre = "Compositions"
+        url = "compositions/"
+        weight = 8
         
 
  [languages.cn]
