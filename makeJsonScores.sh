@@ -4,13 +4,38 @@
 # 1️⃣ Paramètres
 # --------------------------
 localDropbox="/Users/nobuaki/Dropbox (IPGP)/shared_for_website"
-files_txt="files.txt"
+#files_txt="files.txt"
 json_out="data/dropbox.json"
 mkdir -p data
 
 # --------------------------
 # 2️⃣ Dictionnaire abbr -> name
 # --------------------------
+
+instrumentOrder=(
+vn v1 v2 v3 v4
+va va1 va2
+vc vc1 vc2
+db db1 db2
+bg
+fl fl1 fl2 pic xiao
+ob ob1 ob2 ca
+cl cl1 cl2 bcl
+altosx altosx1 altosx2 tensx barsx
+bn bn1 bn2 dbn
+hu
+hr hr1 hr2
+tp tp1 tp2
+tb tb1 tb2 btb tu
+dig
+timp
+perc
+pf
+hp
+uk
+poem
+)
+
 declare -A nameMap=(
   [vn]="Violin" [v1]="Violin I" [v2]="Violin II" [v3]="Violin III" [v4]="Violin IV"
   [va]="Viola" [va1]="Viola I" [va2]="Viola II"
@@ -31,11 +56,15 @@ declare -A nameMap=(
   [perc]="Percussion" [pf]="Piano" [hp]="Harp"
 )
 
+
+declare -A fileURL
+declare -A fileName
+declare -A foldersSeen
 # --------------------------
 # 3️⃣ Générer files.txt
 # --------------------------
-[ -f "$files_txt" ] && rm "$files_txt"
-> "$files_txt"
+#[ -f "$files_txt" ] && rm "$files_txt"
+#> "$files_txt"
 
 for f in "$localDropbox"/musicSheets/*/*.pdf "$localDropbox"/musicSheets/*/*/*.pdf; do
     relpath="${f#"$localDropbox/musicSheets/"}"
@@ -47,24 +76,41 @@ for f in "$localDropbox"/musicSheets/*/*.pdf "$localDropbox"/musicSheets/*/*/*.p
     abbr="${filename%.pdf}"
     name="${nameMap[$abbr]}"
     [[ -z "$name" ]] && name="$abbr"
+     key="$folder|$abbr"
 
-    echo "$folder|$url|$name" >> "$files_txt"
+    fileURL[$key]="$url"
+    fileName[$key]="$name"
+    foldersSeen[$folder]=1
+    #echo "$folder|$url|$name" >> "$files_txt"
 done
-echo "✅ files.txt généré !"
-
+#echo "✅ files.txt généré !"
+folders=("${!foldersSeen[@]}")
 # --------------------------
 # 4️⃣ Générer dropbox.json
 # --------------------------
 [ -f "$json_out" ] && rm "$json_out"
 echo '{}' > "$json_out"
+for folder in "${folders[@]}"; do
 
-while IFS="|" read -r folder url name; do
-    # créer objet { "url": "...", "name": "..." }
-    obj=$(jq -n --arg url "$url" --arg name "$name" '{url: $url, name: $name}')
-    # ajouter au tableau correspondant au folder
-    jq --arg folder "$folder" --argjson obj "$obj" \
-       'if .[$folder] then .[$folder] += [$obj] else .[$folder] = [$obj] end' \
-       "$json_out" > tmp.json && mv tmp.json "$json_out"
-done < "$files_txt"
+  for inst in "${instrumentOrder[@]}"; do
+
+    key="$folder|$inst"
+
+    if [[ -n "${fileURL[$key]}" ]]; then
+
+      url="${fileURL[$key]}"
+      name="${fileName[$key]}"
+
+      obj=$(jq -n --arg url "$url" --arg name "$name" '{url:$url,name:$name}')
+
+      jq --arg folder "$folder" --argjson obj "$obj" \
+         'if .[$folder] then .[$folder]+=[$obj] else .[$folder]=[$obj] end' \
+         "$json_out" > tmp.json && mv tmp.json "$json_out"
+
+    fi
+
+  done
+
+done
 
 echo "✅ dropbox.json généré !"
