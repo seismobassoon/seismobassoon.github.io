@@ -1,6 +1,5 @@
 name: Build and Deploy Hugo Site
 
-# Déclenche le workflow à chaque push sur main
 on:
   push:
     branches:
@@ -9,23 +8,21 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      # 1️⃣ Récupérer le dépôt
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Installer Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v4
         with:
-          hugo-version: '0.115.2' # adapte à ta version de Hugo
+          hugo-version: '0.115.2'
 
-      # 3️⃣ Compiler le site
       - name: Build Hugo site
         run: hugo --minify
 
-      # 4️⃣ Déployer sur GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
