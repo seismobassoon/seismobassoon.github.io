@@ -1,0 +1,18 @@
+.lang-switch {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.lang-link {
+  opacity: 0.7;
+  text-decoration: none;
+}
+
+.lang-link.active {
+  opacity: 1;
+  font-weight: 700;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+}

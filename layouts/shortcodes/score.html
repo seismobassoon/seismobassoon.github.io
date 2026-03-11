@@ -1,0 +1,21 @@
+{{/* Récupération des paramètres du shortcode */}}
+{{ $folder := .Get "folder" }}
+{{ $protected := .Get "protected" | default "false" }}
+
+{{/* Récupérer la liste des fichiers depuis data/dropbox.json */}}
+{{ $files := index site.Data.dropbox $folder }}
+
+{{ if $files }}
+  {{ range $files }}
+    {{ $url := .url }}
+    {{ $name := .name }}
+    
+    {{ if eq $protected "true" }}
+      <a class="score-btn protected" href="{{ $url }}">{{ $name }}</a>
+    {{ else }}
+      <a class="score-btn" href="{{ $url }}">{{ $name }}</a>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  <p>Aucun fichier disponible pour {{ $folder }}</p>
+{{ end }}

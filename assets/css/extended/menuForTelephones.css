@@ -1,0 +1,8 @@
+/* Mobile par défaut : emoji seul */
+#menu .menu-text { display: none; margin-left: .35rem; }
+#menu .menu-emoji { display: inline; }
+
+/* Dès que le viewport est "large" (desktop site ou vrai desktop) : emoji + texte */
+@media (min-width: 900px) {
+  #menu .menu-text { display: inline; }
+}

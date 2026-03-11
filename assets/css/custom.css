@@ -1,0 +1,70 @@
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.team-card {
+  padding: 1.8rem;
+  border-radius: 14px;
+  background: white;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease;
+  gap: 2.5rem;
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.team-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Rôle = couleur */
+.team-card.phd {
+  border-left: 6px solid #2b6cb0;
+}
+
+.team-card.postdoc {
+  border-left: 6px solid #dd6b20;
+}
+
+.team-card.master {
+  border-left: 6px solid #38a169;
+}
+
+.team-card.intern {
+  border-left: 6px solid #805ad5;
+}
+
+/* Alumni plus discret */
+.team-card.alumni {
+  opacity: 0.85;
+  background: #f7f7f7;
+}
+
+.team-card p {
+    margin-bottom: 1rem;   /* espace vertical interne */
+    line-height: 1.6;
+}
+
+.badge {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+
+/* Desktop: emoji + texte */
+.menu-text {
+  margin-left: 0.35rem;
+}
+
+/* Mobile: emoji seul */
+@media (max-width: 768px) {
+  .menu-text { display: none; }
+}

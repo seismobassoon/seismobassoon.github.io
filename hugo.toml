@@ -1,0 +1,553 @@
+baseURL = 'https://seismobassoon.github.io/'
+
+theme = "PaperMod"
+title = 'Nobuaki Fuji'
+  
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+languageCode = 'en'
+
+
+
+
+disablePathToLower = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[params]
+    displayFullLangName = false
+    ShowReadingTime = false
+    ShowBreadCrumbs = false
+    ShowPostNavLinks = false
+    googleSiteVerification = "YxiAZLMcK1ogVJx0r_32wyQ2IGTOVBJBA9tbF-y0piY"
+    [params.analytics.google]
+          SiteVerificationTag = "YxiAZLMcK1ogVJx0r_32wyQ2IGTOVBJBA9tbF-y0piY"
+
+    [params.assets]
+        customCSS = ["css/custom-v2.css"]
+
+    [params.profileMode]
+        enabled = true
+        title = "Nobuaki Fuji"
+        subtitle = "Geophysics • Art & Science"
+        imageUrl = "images/moi.png"
+        imageWidth = 180
+        imageHeight = 160
+    
+
+    [[params.socialIcons]]
+        name = "googlescholar"
+        url = "https://scholar.google.com/citations?user=EqiISYkAAAAJ"
+
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/nobuaki-fuji-82ba9520"
+
+    [[params.socialIcons]]
+        name = "youtube"
+        url = "https://www.youtube.com/@seismobassoon"
+
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/seismobassoon"
+        
+        
+        
+
+        
+
+[languages]
+
+  [languages.en]
+    weight = 1
+    languageName ="English"
+    languageCode = "en"
+    contentDir = "content/en"
+    [languages.en.params]
+      langBadge = "EN"
+      
+    [[languages.en.menu.main]]
+        name = "📢"
+        pre = "News"
+        url = "news/"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "👤"
+        pre = "About"
+        url = "cv/"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "👥"
+        pre = "Team"
+        url = "team/"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "🧠"
+        pre = "Research"
+        url = "research/"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "🏫"
+        pre = "Education"
+        url = "education/"
+        weight = 6
+    
+    [[languages.en.menu.main]]
+        name = "🎹"
+        pre = "PhiloGaïa"
+        url = "geomusic/"
+        weight = 7
+    [[languages.en.menu.main]]
+        name = "✏️"
+        pre = "Compositions"
+        url = "compositions/"
+        weight = 8
+        
+  [languages.fr]
+    weight = 2
+    languageName = "Français"
+    contentDir = "content/fr"
+    [languages.fr.params]
+      langBadge = "FR"
+    [[languages.fr.menu.main]]
+        name = "📢"
+        pre = "actu"
+        url = "news/"
+        weight = 1
+    [[languages.fr.menu.main]]
+        name = "👤"
+        pre = "moi"
+        url = "cv/"
+        weight = 2
+    [[languages.fr.menu.main]]
+        name = "👥"
+        pre = "équipe"
+        url = "team/"
+        weight = 3
+    [[languages.fr.menu.main]]
+        name = "🧠"
+        pre = "recherche"
+        url = "research/"
+        weight = 4
+    [[languages.fr.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+        
+    [[languages.fr.menu.main]]
+        name = "🏫"
+        pre = "enseignement"
+        url = "education/"
+        weight = 6
+    [[languages.fr.menu.main]]
+        name = "🎹"
+        pre = "philogaïa"
+        url = "geomusic/"
+        weight = 7
+    
+
+
+
+
+    
+  [languages.jp]
+    weight = 3
+    languageName = "日本語"
+    contentDir = "content/jp"
+    [languages.jp.params]
+      langBadge = "あ"
+    [[languages.jp.menu.main]]
+        name = "📢"
+        pre = "ニュース"
+        url = "news/"
+        weight = 1
+    [[languages.jp.menu.main]]
+        name = "👤"
+        pre = "私"
+        url = "cv/"
+        weight = 2
+    [[languages.jp.menu.main]]
+        name = "👥"
+        pre = "研究室"
+        url = "team/"
+        weight = 3
+    [[languages.jp.menu.main]]
+        name = "🧠"
+        pre = "研究"
+        url = "research/"
+        weight = 4
+    [[languages.jp.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+    [[languages.jp.menu.main]]
+        name = "🏫"
+        pre = "教育"
+        url = "education/"
+        weight = 6
+    [[languages.jp.menu.main]]
+        name = "🎹"
+        pre = "フィロガイア"
+        url = "geomusic/"
+        weight = 7
+
+
+
+
+  [languages.de]
+  weight = 4
+  languageName = "Deutsch"
+  contentDir = "content/de"
+  [languages.de.params]
+    langBadge = "DE"
+
+  [[languages.de.menu.main]]
+      name = "📢"
+      pre = "Aktuelles"
+      url = "news/"
+      weight = 1
+
+  [[languages.de.menu.main]]
+      name = "👤"
+      pre = "Über mich"
+      url = "cv/"
+      weight = 2
+
+  [[languages.de.menu.main]]
+      name = "👥"
+      pre = "Team"
+      url = "team/"
+      weight = 3
+
+  [[languages.de.menu.main]]
+      name = "🧠"
+      pre = "Forschung"
+      url = "research/"
+      weight = 4
+
+   [[languages.de.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+
+  [[languages.de.menu.main]]
+      name = "🏫"
+      pre = "Lehre"
+      url = "education/"
+      weight = 6
+
+  [[languages.de.menu.main]]
+      name = "🎹"
+      pre = "Philogaia"
+      url = "geomusic/"
+      weight = 7
+
+   
+    
+  [languages.no]
+    weight = 5
+    languageName = "Bokmål"
+    contentDir = "content/no"
+    [languages.no.params]
+      langBadge = "NO"
+    [[languages.no.menu.main]]
+        name = "📢"
+        pre = "Nyheter"
+        url = "news/"
+        weight = 1
+    [[languages.no.menu.main]]
+        name = "👤"
+        pre = "Meg"
+        url = "cv/"
+        weight = 2
+    [[languages.no.menu.main]]
+        name = "👥"
+        pre = "Gruppe"
+        url = "team/"
+        weight = 3
+    [[languages.no.menu.main]]
+        name = "🧠"
+        pre = "Forskning"
+        url = "research/"
+        weight = 4
+
+        [[languages.no.menu.main]]
+        name = "🎓"
+        pre = "Publications"
+        pageRef = "publications/"
+        weight = 5
+
+    [[languages.no.menu.main]]
+        name = "🏫"
+        pre = "Undervisning"
+        url = "education/"
+        weight = 6
+    [[languages.no.menu.main]]
+        name = "🎹"
+        pre = "PhiloGaïa"
+        url = "geomusic/"
+        weight = 7
+
+        
+
+ [languages.cn]
+    weight = 6
+    languageName = "中國話"
+    contentDir = "content/cn"
+    [languages.cn.params]
+      langBadge = "拼"
+    [[languages.cn.menu.main]]
+        name = "📢"
+        pre = "新聞"
+        url = "news/"
+        weight = 1
+    [[languages.cn.menu.main]]
+        name = "👤"
+        pre = "我是誰"
+        url = "cv/"
+        weight = 2
+    [[languages.cn.menu.main]]
+        name = "👥"
+        pre = "研究團隊"
+        url = "team/"
+        weight = 3
+    [[languages.cn.menu.main]]
+        name = "🧠"
+        pre = "研究"
+        url = "research/"
+        weight = 4
+
+        [[languages.cn.menu.main]]
+        name = "🎓"
+        pre = "出版品"
+        pageRef = "publications/"
+        weight = 5
+
+    [[languages.cn.menu.main]]
+        name = "🏫"
+        pre = "教育"
+        url = "education/"
+        weight = 6
+    [[languages.cn.menu.main]]
+        name = "🎹"
+        pre = "地球音樂"
+        url = "geomusic/"
+        weight = 7
+
+
+    [languages.pt]
+        weight = 7
+        languageName = "Português"
+        contentDir = "content/pt"
+
+        [languages.pt.params]
+            langBadge = "PT"
+
+        [[languages.pt.menu.main]]
+            name = "📢"
+            pre = "Notícias"
+            url = "news/"
+            weight = 1
+
+        [[languages.pt.menu.main]]
+            name = "👤"
+            pre = "Quem sou eu"
+            url = "cv/"
+            weight = 2
+
+        [[languages.pt.menu.main]]
+            name = "👥"
+            pre = "Equipa"
+            url = "team/"
+            weight = 3
+
+        [[languages.pt.menu.main]]
+            name = "🧠"
+            pre = "Investigação"
+            url = "research/"
+            weight = 4
+
+        [[languages.pt.menu.main]]
+            name = "🎓"
+            pre = "Publicações"
+            pageRef = "publications/"
+            weight = 5
+
+        [[languages.pt.menu.main]]
+            name = "🏫"
+            pre = "Ensino"
+            url = "education/"
+            weight = 6
+
+        [[languages.pt.menu.main]]
+            name = "🎹"
+            pre = "Geomúsica"
+            url = "geomusic/"
+            weight = 7
+
+
+    [languages.ru]
+        weight = 8
+        languageName = "Русский"
+        contentDir = "content/ru"
+
+        [languages.ru.params]
+            langBadge = "РУ"
+
+        [[languages.ru.menu.main]]
+            name = "📢"
+            pre = "Новости"
+            url = "news/"
+            weight = 1
+
+        [[languages.ru.menu.main]]
+            name = "👤"
+            pre = "Обо мне"
+            url = "cv/"
+            weight = 2
+
+        [[languages.ru.menu.main]]
+            name = "👥"
+            pre = "Команда"
+            url = "team/"
+            weight = 3
+
+        [[languages.ru.menu.main]]
+            name = "🧠"
+            pre = "Научные исследования"
+            url = "research/"
+            weight = 4
+
+        [[languages.ru.menu.main]]
+            name = "🎓"
+            pre = "Публикации"
+            pageRef = "publications/"
+            weight = 5
+
+        [[languages.ru.menu.main]]
+            name = "🏫"
+            pre = "Преподавание"
+            url = "education/"
+            weight = 6
+
+        [[languages.ru.menu.main]]
+            name = "🎹"
+            pre = "Геомузыка"
+            url = "geomusic/"
+            weight = 7
+
+
+
+
+    [languages.it]
+        weight = 9
+        languageName = "Italiano"
+        contentDir = "content/it"
+
+        [languages.it.params]
+            langBadge = "IT"
+
+        [[languages.it.menu.main]]
+            name = "📢"
+            pre = "Notizie"
+            url = "news/"
+            weight = 1
+
+        [[languages.it.menu.main]]
+            name = "👤"
+            pre = "Chi sono"
+            url = "cv/"
+            weight = 2
+
+        [[languages.it.menu.main]]
+            name = "👥"
+            pre = "Gruppo"
+            url = "team/"
+            weight = 3
+
+        [[languages.it.menu.main]]
+            name = "🧠"
+            pre = "Ricerca"
+            url = "research/"
+            weight = 4
+
+        [[languages.it.menu.main]]
+            name = "🎓"
+            pre = "Pubblicazioni"
+            pageRef = "publications/"
+            weight = 5
+
+        [[languages.it.menu.main]]
+            name = "🏫"
+            pre = "Didattica"
+            url = "education/"
+            weight = 6
+
+        [[languages.it.menu.main]]
+            name = "🎹"
+            pre = "Geomusica"
+            url = "geomusic/"
+            weight = 7
+
+
+    [languages.es]
+        weight = 10
+        languageName = "Español"
+        contentDir = "content/es"
+
+        [languages.es.params]
+            langBadge = "ES"
+
+        [[languages.es.menu.main]]
+            name = "📢"
+            pre = "Noticias"
+            url = "news/"
+            weight = 1
+
+        [[languages.es.menu.main]]
+            name = "👤"
+            pre = "Quién soy"
+            url = "cv/"
+            weight = 2
+
+        [[languages.es.menu.main]]
+            name = "👥"
+            pre = "Equipo"
+            url = "team/"
+            weight = 3
+
+        [[languages.es.menu.main]]
+            name = "🧠"
+            pre = "Investigación"
+            url = "research/"
+            weight = 4
+
+        [[languages.es.menu.main]]
+            name = "🎓"
+            pre = "Publicaciones"
+            pageRef = "publications/"
+            weight = 5
+
+        [[languages.es.menu.main]]
+            name = "🏫"
+            pre = "Docencia"
+            url = "education/"
+            weight = 6
+
+        [[languages.es.menu.main]]
+            name = "🎹"
+            pre = "Geomúsica"
+            url = "geomusic/"
+            weight = 7

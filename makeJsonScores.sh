@@ -1,0 +1,70 @@
+#!/bin/bash
+
+# --------------------------
+# 1️⃣ Paramètres
+# --------------------------
+localDropbox="/Users/nobuaki/Dropbox (IPGP)/shared_for_website"
+files_txt="files.txt"
+json_out="data/dropbox.json"
+mkdir -p data
+
+# --------------------------
+# 2️⃣ Dictionnaire abbr -> name
+# --------------------------
+declare -A nameMap=(
+  [vn]="Violin" [v1]="Violin I" [v2]="Violin II" [v3]="Violin III" [v4]="Violin IV"
+  [va]="Viola" [va1]="Viola I" [va2]="Viola II"
+  [vc]="Cello" [vc1]="Cello I" [vc2]="Cello II"
+  [db]="Double Bass" [db1]="Double Bass I" [db2]="Double Bass II"
+  [bg]="Bass Guitar"
+  [fl]="Flute" [fl1]="Flute I" [fl2]="Flute II" [pic]="Piccolo" [xiao]="Xiao"
+  [ob]="Oboe" [ob1]="Oboe I" [ob2]="Oboe II" [ca]="English Horn"
+  [cl]="Clarinet" [cl1]="Clarinet I" [cl2]="Clarinet II" [bcl]="Bass Clarinet"
+  [altosx]="Alto Sax" [altosx1]="Alto Sax I" [altosx2]="Alto Sax II"
+  [tensx]="Tenor Sax" [barsx]="Baritone Sax"
+  [bn]="Bassoon" [bn1]="Bassoon I" [bn2]="Bassoon II" [dbn]="Double Bassoon"
+  [hu]="Hulu"
+  [hr]="Horn" [hr1]="Horn I" [hr2]="Horn II"
+  [tp]="Trumpet" [tp1]="Trumpet I" [tp2]="Trumpet II"
+  [tb]="Trombone" [tb1]="Trombone I" [tb2]="Trombone II" [btb]="Bass Trombone" [tu]="Tuba"
+  [dig]="Didgeridoo" [timp]="Timpani" [uk]="Ukulele" [poem]="Poem"
+  [perc]="Percussion" [pf]="Piano" [hp]="Harp"
+)
+
+# --------------------------
+# 3️⃣ Générer files.txt
+# --------------------------
+[ -f "$files_txt" ] && rm "$files_txt"
+> "$files_txt"
+
+for f in "$localDropbox"/musicSheets/*/*.pdf "$localDropbox"/musicSheets/*/*/*.pdf; do
+    relpath="${f#"$localDropbox/musicSheets/"}"
+    folder=$(dirname "$relpath")
+    filename=$(basename "$f")
+    url="https://www.dropbox.com/home/nobuaki%20fuji/shared_for_website/musicSheets/$folder/$filename?dl=1"
+
+    # abbr et mapping
+    abbr="${filename%.pdf}"
+    name="${nameMap[$abbr]}"
+    [[ -z "$name" ]] && name="$abbr"
+
+    echo "$folder|$url|$name" >> "$files_txt"
+done
+echo "✅ files.txt généré !"
+
+# --------------------------
+# 4️⃣ Générer dropbox.json
+# --------------------------
+[ -f "$json_out" ] && rm "$json_out"
+echo '{}' > "$json_out"
+
+while IFS="|" read -r folder url name; do
+    # créer objet { "url": "...", "name": "..." }
+    obj=$(jq -n --arg url "$url" --arg name "$name" '{url: $url, name: $name}')
+    # ajouter au tableau correspondant au folder
+    jq --arg folder "$folder" --argjson obj "$obj" \
+       'if .[$folder] then .[$folder] += [$obj] else .[$folder] = [$obj] end' \
+       "$json_out" > tmp.json && mv tmp.json "$json_out"
+done < "$files_txt"
+
+echo "✅ dropbox.json généré !"
