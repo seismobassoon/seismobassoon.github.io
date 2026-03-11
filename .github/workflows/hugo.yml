@@ -8,22 +8,25 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
+      # récupérer le dépôt
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # installer Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v4
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.115.2'
+          hugo-version: '0.121.2'
+          extended: true
 
-      - name: Build Hugo site
+      # construire le site
+      - name: Build
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages
+      # déployer sur GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
