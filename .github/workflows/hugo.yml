@@ -1,0 +1,33 @@
+name: Build and Deploy Hugo Site
+
+# Déclenche le workflow à chaque push sur main
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Récupérer le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Installer Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.115.2' # adapte à ta version de Hugo
+
+      # 3️⃣ Compiler le site
+      - name: Build Hugo site
+        run: hugo --minify
+
+      # 4️⃣ Déployer sur GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
