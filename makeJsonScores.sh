@@ -13,6 +13,7 @@ mkdir -p data
 # --------------------------
 
 instrumentOrder=(
+    score
 vn v1 v2 v3 v4
 va va1 va2
 vc vc1 vc2
