@@ -1,5 +1,32 @@
 #!/bin/bash
 
+shopt -s nullglob
+
+#token 
+TOKEN="$DROPBOX_TOKEN"
+create_link () {
+
+  local path="$1"
+
+  RESPONSE=$(curl -s https://api.dropboxapi.com/2/sharing/list_shared_links \
+    --header "Authorization: Bearer $TOKEN" \
+    --header "Content-Type: application/json" \
+    --data "{\"path\":\"$path\",\"direct_only\":true}")
+
+  LINK=$(echo "$RESPONSE" | jq -r '.links[0].url // empty')
+
+  if [[ -z "$LINK" ]]; then
+      RESPONSE=$(curl -s https://api.dropboxapi.com/2/sharing/create_shared_link_with_settings \
+        --header "Authorization: Bearer $TOKEN" \
+        --header "Content-Type: application/json" \
+        --data "{\"path\":\"$path\"}")
+
+      LINK=$(echo "$RESPONSE" | jq -r '.url // empty')
+  fi
+
+  echo "$LINK" | sed 's/dl=0/raw=1/'
+}
+  
 # --------------------------
 # 1️⃣ Paramètres
 # --------------------------
@@ -71,8 +98,9 @@ for f in "$localDropbox"/musicSheets/*/*.pdf "$localDropbox"/musicSheets/*/*/*.p
     relpath="${f#"$localDropbox/musicSheets/"}"
     folder=$(dirname "$relpath")
     filename=$(basename "$f")
-    url="https://www.dropbox.com/home/nobuaki%20fuji/shared_for_website/musicSheets/$folder/$filename?dl=1"
-
+    #url="https://www.dropbox.com/home/nobuaki%20fuji/shared_for_website/musicSheets/$folder/$filename?raw=1"
+    dropboxPath="/shared_for_website/musicSheets/$folder/$filename"
+    url=$(create_link "$dropboxPath")
     # abbr et mapping
     abbr="${filename%.pdf}"
     name="${nameMap[$abbr]}"

@@ -18,6 +18,9 @@ draft = false
 1. 2023 - Enigma of the Evolution of the Earth
   {{< score folder="2023E3" protected="true" >}}
 
+1. 2022 - Nachtmusik
+  {{< score folder="2022quartett1" protected="true" >}}
+
 
 1. 2021 CLEEDI
     1. 2021 - Subduction for CLEEDI2021
