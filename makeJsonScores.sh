@@ -2,6 +2,8 @@
 
 shopt -s nullglob
 
+# faut définir DROPBOX_TOKEN sur https://www.dropbox.com/developers/apps/info/dwymt0pn6txjpn5#settings
+
 #token 
 TOKEN="$DROPBOX_TOKEN"
 create_link () {
@@ -93,25 +95,27 @@ declare -A foldersSeen
 # --------------------------
 #[ -f "$files_txt" ] && rm "$files_txt"
 #> "$files_txt"
+while IFS= read -r f; do
 
-for f in "$localDropbox"/musicSheets/*/*.pdf "$localDropbox"/musicSheets/*/*/*.pdf; do
     relpath="${f#"$localDropbox/musicSheets/"}"
     folder=$(dirname "$relpath")
     filename=$(basename "$f")
-    #url="https://www.dropbox.com/home/nobuaki%20fuji/shared_for_website/musicSheets/$folder/$filename?raw=1"
+
+    # ⚠️ chemin Dropbox API
     dropboxPath="/shared_for_website/musicSheets/$folder/$filename"
     url=$(create_link "$dropboxPath")
-    # abbr et mapping
+
     abbr="${filename%.pdf}"
     name="${nameMap[$abbr]}"
     [[ -z "$name" ]] && name="$abbr"
-     key="$folder|$abbr"
+
+    key="$folder|$abbr"
 
     fileURL[$key]="$url"
     fileName[$key]="$name"
     foldersSeen[$folder]=1
-    #echo "$folder|$url|$name" >> "$files_txt"
-done
+
+done < <(find "$localDropbox/musicSheets" -name "*.pdf")
 #echo "✅ files.txt généré !"
 folders=("${!foldersSeen[@]}")
 # --------------------------
