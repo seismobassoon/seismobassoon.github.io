@@ -14,10 +14,12 @@ draft = false
 1. 2024 — Clarinette dans la lune
   {{< score folder="2024Melies" protected="true" >}}
 
+1. 2024 - Sismologie : la musique de la terre pour Jean-Paul Montagner
+  {{< score folder="2024JPM" protected="true" >}}
 
 1. 2023 - Enigma of the Evolution of the Earth
   {{< score folder="2023E3" protected="true" >}}
-  
+
 1. 2022 - Nachtmusik
   {{< score folder="2022quartett1" protected="true" >}}
 
