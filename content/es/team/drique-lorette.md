@@ -5,8 +5,4 @@ status = "active"
 date = "2024-12-15"
 draft = false
 +++
-12/2024-présent, encadrée par Béatrice Puyssegur au CEA, Manon Dalaison
-à l’IPGP et moi-même sur la mitigation des erreurs d'images InSAR en cas de végétation.
-Lorette a fait son montage du projet et est venue pour me proposer à travailler là-dessus. 
-J'apprends le nouveau monde même si je reste 'monsieur HDR'. J'espère qu'on va pouvoir analyser
-des données du mont Fuji à un moment donné.
+12/2024–presente: Proyecto supervisado por Béatrice Puyssegur en el CEA, Manon Dalaison en el IPGP y por mí mismo, centrado en la mitigación de errores en imágenes InSAR en presencia de vegetación. Lorette elaboró su propio proyecto y vino a proponerme que trabajáramos juntos en él. Estoy descubriendo un nuevo campo, aunque sigo siendo «Monsieur HDR». Espero que, en algún momento, podamos analizar datos del monte Fuji.
