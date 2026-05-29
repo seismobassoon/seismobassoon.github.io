@@ -1,7 +1,7 @@
 +++
 title = "Riché, Floriane （リッシュ　フロリアンヌ）"
 current_role = "L2"
-status = "active"
+status = "alumni"
 date = "2025-11-01"
 draft = false
 +++
