@@ -7,7 +7,7 @@ translationKey = "volcans-concert-2026"
 
 **La vie privée des volcans** — une expérience scientifique et musicale, présentée dans le cadre de **CLEEDI 2026**.
 
-{{< img "images/affiche-volcans-2026.jpg" "Affiche du concert — La vie privée des volcans, 10 novembre 2026">}}
+{{< img "images/flyer_concert_cleedi_2026_recto.jpg" "Affiche du concert — La vie privée des volcans, 10 novembre 2026">}}
 
 ## Quand
 Mardi **10 novembre 2026** — ouverture des portes à 18h15, concert de 18h45 à 20h30.

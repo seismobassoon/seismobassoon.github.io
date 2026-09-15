@@ -7,7 +7,7 @@ translationKey = "volcans-concert-2026"
 
 フィロガイア東京：地球物理とクラシック音楽のゆうべ— 科学と音楽が出会う夕べです。CLEEDI 2026の一環として開催します。
 
-{{< img "images/affiche-volcans-2026.jpg" "コンサートポスター — La vie privée des volcans、2026年11月10日">}}
+{{< img "images/flyer_concert_cleedi_2026_recto.jpg" "コンサートポスター — La vie privée des volcans、2026年11月10日">}}
 
 ## 日時
 2026年11月10日（火）— 開場18:15、開演18:45〜20:30。
