@@ -22,6 +22,22 @@ Ongaku-no-Tomo Hall, 6-30 Kagurazaka, Shinjuku-ku, Tokyo 162-8716. [Plan d'accè
 
 Interprété par **PhiloGaïa Tokyo**, sous la direction de Kenya Masakado. Avec les mots de Jean-Paul Montagner et Fidel Costa, animation et traduction par Yosuke Aoki (Earthquake Research Institute, Université de Tokyo).
 
+{{< collapse title="À propos de PhiloGaïa Orchestra et du programme de ce soir" >}}
+
+PhiloGaïa Orchestra est un projet musical actif principalement en France, né pour relier science et société. Fondé en 2012, il s'est produit lors de soutenances de thèse et d'habilitations à diriger des recherches (HDR) à l'Institut de physique du globe de Paris (IPGP), ainsi qu'à des fêtes étudiantes. Partant d'expériences mêlant sciences de la Terre et musique, il explore des façons originales et inattendues d'exprimer une passion pour la géophysique et la musique (voir Fuji & Meschede 2017, CIG newsletter 2020, Fuji 2024).
+
+Il a créé *Pierre et la Terre* (Fuji 2016 ; redonné en 2019 pour le centenaire de l'Union géodésique et géophysique internationale — UGGI, sous la direction de Jordan Gudefin), le poème symphonique *InSight* (Fuji 2019), ainsi que *Enigma of the Evolution of the Earth* (Fuji 2023).
+
+Pour ce concert à Tokyo, sous la direction du compositeur-chef d'orchestre Kenya Masakado, les œuvres de Beethoven et de Fuji seront interprétées principalement par des vents de l'orchestre Tomin Symphony (2 hautbois, 2 clarinettes, 2 cors, 2 bassons et 1 trompette), accompagnés d'un contrebassiste et d'un interprète de SoundCube, avec les commentaires du volcanologue Yosuke Aoki (Earthquake Research Institute, Université de Tokyo).
+
+*Sismologie — la musique de la Terre* a été écrite en 2024 pour le sismologue de l'IPGP Jean-Paul Montagner ; elle tente de traduire en musique ses travaux bien connus sur l'anisotropie sismique, entre autres sujets. Le titre est repris directement d'un livre de vulgarisation qu'il a écrit.
+
+*La vie privée des volcans*, créée lors de ce concert, est née de discussions avec le volcanologue de l'IPGP Fidel Costa. La médiation scientifique sur le volcanisme est souvent dominée par les images de coulées de lave et de gaz volcaniques ; cette pièce s'attache au contraire à la « vie privée » d'un volcan — la façon dont une éruption se prépare. L'illustration de ce flyer est son œuvre.
+
+En jouant tout en projetant des figures, des images et des données issues de nos recherches, nous espérons partager avec le plus grand nombre la beauté et l'émerveillement que suscite la nature. Pour commencer, sans aucune explication : écoutez simplement notre musique, et voyez si vous y sentez la science.
+
+{{</collapse>}}
+
 ## Organisé avec
 Entièrement financé par le projet MuseSeLFiE (Institut universitaire de France & IPGP), avec le soutien de l'Earthquake Research Institute de l'Université de Tokyo (qui fête ses 100 ans). Production : Salon d'art.
 
