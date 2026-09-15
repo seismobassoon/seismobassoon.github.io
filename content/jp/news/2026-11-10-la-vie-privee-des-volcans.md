@@ -1,0 +1,32 @@
++++
+title = "コンサート「火山たちの私生活」— 東京、2026年11月10日"
+date = 2026-09-15
+draft = false
+translationKey = "volcans-concert-2026"
++++
+
+「La vie privée des volcans（火山たちの私生活）」— 科学と音楽が出会う夕べです。CLEEDI 2026の一環として開催します。
+
+{{< img "images/affiche-volcans-2026.jpg" "コンサートポスター — La vie privée des volcans、2026年11月10日">}}
+
+## 日時
+2026年11月10日（火）— 開場18:15、開演18:45〜20:30。
+
+## 会場
+音楽の友ホール　〒162-8716 東京都新宿区神楽坂6-30。[アクセス](https://www.ontomo-hall.ongakunotomo.co.jp/access/)
+
+## プログラム
+- ルートヴィヒ・ヴァン・ベートーヴェン — 八重奏曲 作品103
+- 「Sismologie : la musique de la terre pour Jean-Paul Montagner」（2024年、冨士延章 作曲）
+- 「La vie privée des volcans（火山たちの私生活）」（2026年、初演、冨士延章 作曲、フィデル・コスタ氏に捧げる）
+
+演奏：**フィロガイア・オーケストラ東京（PhiloGaïa Tokyo）**、指揮：正門憲也。ジャン=ポール・モンタニエ氏とフィデル・コスタ氏によるお話、司会・通訳：青木陽介氏（東京大学地震研究所）。
+
+## 共催
+IUF（フランス大学学士院）とIPGPによるMuseSeLFiEプロジェクトの全面的な助成により開催、東京大学地震研究所の後援。制作：Salon d'art。
+
+## 入場
+入場無料。ご予約はteket（テケト）にて受付予定（必須ではありません）— 予約受付開始は2026年9月22日の週を予定しています（開始次第リンクを追加します）。
+
+---
+このプロジェクトについて詳しくは [フィロガイア]({{< relref "/geomusic" >}}) のページをご覧ください。
