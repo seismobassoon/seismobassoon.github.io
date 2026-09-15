@@ -1,11 +1,11 @@
 +++
-title = "コンサート「火山たちの私生活」— 東京、2026年11月10日"
+title = "コンサート「フィロガイア東京：地球物理とクラシック音楽のゆうべ」— 東京、2026年11月10日"
 date = 2026-09-15
 draft = false
 translationKey = "volcans-concert-2026"
 +++
 
-「La vie privée des volcans（火山たちの私生活）」— 科学と音楽が出会う夕べです。CLEEDI 2026の一環として開催します。
+フィロガイア東京：地球物理とクラシック音楽のゆうべ— 科学と音楽が出会う夕べです。CLEEDI 2026の一環として開催します。
 
 {{< img "images/affiche-volcans-2026.jpg" "コンサートポスター — La vie privée des volcans、2026年11月10日">}}
 
@@ -17,13 +17,13 @@ translationKey = "volcans-concert-2026"
 
 ## プログラム
 - ルートヴィヒ・ヴァン・ベートーヴェン — 八重奏曲 作品103
-- 「Sismologie : la musique de la terre pour Jean-Paul Montagner」（2024年、冨士延章 作曲）
+- 「Sismologie : la musique de la terre」（2024年、冨士延章 作曲、ジャン＝ポール・モンタニエ氏に捧げる）
 - 「La vie privée des volcans（火山たちの私生活）」（2026年、初演、冨士延章 作曲、フィデル・コスタ氏に捧げる）
 
 演奏：**フィロガイア・オーケストラ東京（PhiloGaïa Tokyo）**、指揮：正門憲也。ジャン=ポール・モンタニエ氏とフィデル・コスタ氏によるお話、司会・通訳：青木陽介氏（東京大学地震研究所）。
 
 ## 共催
-IUF（フランス大学学士院）とIPGPによるMuseSeLFiEプロジェクトの全面的な助成により開催、東京大学地震研究所の後援。制作：Salon d'art。
+IUF（フランス大学学士院）とIPGP（パリ地球物理研究所）によるMuseSeLFiEプロジェクトの全面的な助成により開催、東京大学地震研究所の後援。制作：Salon d'art。
 
 ## 入場
 入場無料。ご予約はteket（テケト）にて受付予定（必須ではありません）— 予約受付開始は2026年9月22日の週を予定しています（開始次第リンクを追加します）。
