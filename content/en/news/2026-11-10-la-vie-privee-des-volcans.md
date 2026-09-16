@@ -24,9 +24,9 @@ Performed by **PhiloGaïa Tokyo**, conducted by Kenya Masakado. With remarks fro
 
 {{< collapse title="About PhiloGaïa Orchestra and tonight's program" >}}
 
-PhiloGaïa Orchestra is a music project active mainly in France, created to connect science and society. Founded in 2012, it has performed at PhD defenses and habilitation (HDR) juries at the Institut de Physique du Globe de Paris (IPGP), as well as at student parties. Starting from experiments blending Earth science and music, it explores original and unexpected ways to express a passion for geophysics and music (see Fuji & Meschede 2017, CIG newsletter 2020, Fuji 2024).
+PhiloGaïa Orchestra is a music project active mainly in France, created to connect science and society. Founded in 2012, it has performed at PhD defenses and habilitation (HDR) juries at the Institut de Physique du Globe de Paris (IPGP), as well as at student parties. Starting from experiments blending Earth science and music, it explores original and unexpected ways to express a passion for geophysics and music.
 
-It has premiered *Pierre et la Terre* (Fuji 2016; performed again in 2019 for the 100th anniversary of the International Union of Geodesy and Geophysics — IUGG, conducted by Jordan Gudefin), the symphonic poem *InSight* (Fuji 2019), and *Enigma of the Evolution of the Earth* (Fuji 2023).
+It has premiered *Pierre et la Terre* (world premiere in 2016 at the French Embassy in Tokyo; performed again in 2019 at UNESCO Headquarters in Paris for the 100th anniversary of the International Union of Geodesy and Geophysics — IUGG, conducted by Jordan Gudefin), the symphonic poem *InSight* (2019), *Enigma of the Evolution of the Earth* (2023), *Clarinet on the Moon* (2024), *A Trip to the Moon (Méliès)* (2024), and *Hydrated Ariège* (2025, with string players from the Orchestre national du Capitole de Toulouse).
 
 For this Tokyo performance, conducted by composer-conductor Kenya Masakado, the Beethoven and Fuji works will be performed mainly by wind players from the Tomin Symphony Orchestra (2 oboes, 2 clarinets, 2 horns, 2 bassoons and 1 trumpet), together with a double bass player and a SoundCube performer, with commentary from volcanologist Yosuke Aoki (Earthquake Research Institute, The University of Tokyo).
 
