@@ -42,7 +42,7 @@ Al tocar mientras proyectamos figuras, imágenes y datos surgidos de nuestra inv
 Financiado íntegramente por el proyecto MuseSeLFiE (Institut Universitaire de France e IPGP), con el apoyo del Earthquake Research Institute de la Universidad de Tokio (que celebra su 100.º aniversario). Producción: Salon d'art.
 
 ## Entrada
-Entrada gratuita. Se recomienda reserva previa, aunque no es obligatoria, a través de [teket](https://teket.jp) — se espera que las reservas se abran la semana del 22 de septiembre de 2026 (el enlace se añadirá aquí en cuanto esté disponible).
+Entrada gratuita. Se recomienda reserva previa, aunque no es obligatoria, a través de [teket](https://teket.jp/19858/78213).
 
 ---
 Más información sobre este proyecto: [PhiloGaïa]({{< relref "/geomusic" >}}).
