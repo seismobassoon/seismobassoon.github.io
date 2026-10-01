@@ -30,6 +30,19 @@ It has premiered *Pierre et la Terre* (world premiere in 2016 at the French Emba
 
 For this Tokyo performance, conducted by composer-conductor Kenya Masakado, the Beethoven and Fuji works will be performed mainly by wind players from the Tomin Symphony Orchestra (2 oboes, 2 clarinets, 2 horns, 2 bassoons and 1 trumpet), together with a double bass player and a SoundCube performer, with commentary from volcanologist Yosuke Aoki (Earthquake Research Institute, The University of Tokyo).
 
+Tonight's performers:
+
+- **Conductor** — Kenya Masakado
+- **MC** — Yosuke Aoki
+- **Remarks** — Jean-Paul Montagner, Fidel Costa
+- **Oboe** — Natsuko Mori, Ayumi Fujioka
+- **Clarinet** — Yoko Yokoyama, Takako Nagao
+- **Trumpet** — Toshiyuki Ishikuro
+- **Horn** — Tomoko Nagura, Yukiko Yoshii
+- **Bassoon** — Nobuaki Fuji, Kenta Hattori
+- **Double bass** — Hiroyuki Koshi
+- **SoundCube** — Kurama Okubo
+
 *Sismologie — la musique de la terre* was written in 2024 for IPGP seismologist Jean-Paul Montagner, as an attempt to express in music his well-known work on seismic anisotropy, among other topics. The title is taken directly from a popular-science book he wrote.
 
 *La vie privée des volcans*, premiering at this concert, grew out of discussions with IPGP volcanologist Fidel Costa. Volcanology outreach tends to be dominated by images of lava flows and volcanic gases; this piece instead focuses on the "private life" of a volcano — how an eruption is actually prepared. The artwork on this flyer is his own design.

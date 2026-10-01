@@ -30,6 +30,19 @@ Il a créé *Pierre et la Terre* (première mondiale en 2016 à l'Ambassade de F
 
 Pour ce concert à Tokyo, sous la direction du compositeur-chef d'orchestre Kenya Masakado, les œuvres de Beethoven et de Fuji seront interprétées principalement par des vents de l'orchestre Tomin Symphony (2 hautbois, 2 clarinettes, 2 cors, 2 bassons et 1 trompette), accompagnés d'un contrebassiste et d'un interprète de SoundCube, avec les commentaires du volcanologue Yosuke Aoki (Earthquake Research Institute, Université de Tokyo).
 
+Interprètes de ce soir :
+
+- **Direction** — Kenya Masakado
+- **Animation** — Yosuke Aoki
+- **Paroles** — Jean-Paul Montagner, Fidel Costa
+- **Hautbois** — Natsuko Mori, Ayumi Fujioka
+- **Clarinette** — Yoko Yokoyama, Takako Nagao
+- **Trompette** — Toshiyuki Ishikuro
+- **Cor** — Tomoko Nagura, Yukiko Yoshii
+- **Basson** — Nobuaki Fuji, Kenta Hattori
+- **Contrebasse** — Hiroyuki Koshi
+- **SoundCube** — Kurama Okubo
+
 *Sismologie — la musique de la Terre* a été écrite en 2024 pour le sismologue de l'IPGP Jean-Paul Montagner ; elle tente de traduire en musique ses travaux bien connus sur l'anisotropie sismique, entre autres sujets. Le titre est repris directement d'un livre de vulgarisation qu'il a écrit.
 
 *La vie privée des volcans*, créée lors de ce concert, est née de discussions avec le volcanologue de l'IPGP Fidel Costa. La médiation scientifique sur le volcanisme est souvent dominée par les images de coulées de lave et de gaz volcaniques ; cette pièce s'attache au contraire à la « vie privée » d'un volcan — la façon dont une éruption se prépare. L'illustration de ce flyer est son œuvre.

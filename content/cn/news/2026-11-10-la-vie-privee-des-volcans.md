@@ -30,6 +30,19 @@ PhiloGaïa Orchestra 是一個主要在法國活動的音樂計畫，旨在連�
 
 本次東京公演由作曲家暨指揮正門憲也（Kenya Masakado）先生指揮，主要由都民交響樂團（Tomin Symphony Orchestra）的管樂手（雙簧管、單簧管、法國號、低音管各兩把，小號一把）、低音提琴手，以及 SoundCube 演奏者共同演出貝多芬與冨士的作品，並穿插由東京大學地震研究所火山學家青木陽介（Yosuke Aoki）先生所做的講解。
 
+今晚的演出陣容：
+
+- **指揮** — 正門憲也（Kenya Masakado）
+- **主持** — 青木陽介（Yosuke Aoki）
+- **談話** — Jean-Paul Montagner、Fidel Costa
+- **雙簧管** — 森菜津子（Natsuko Mori）、藤陵歩実（Ayumi Fujioka）
+- **單簧管** — 橫山容子（Yoko Yokoyama）、長尾賞子（Takako Nagao）
+- **小號** — 石黑俊行（Toshiyuki Ishikuro）
+- **法國號** — 名倉智子（Tomoko Nagura）、吉井由希子（Yukiko Yoshii）
+- **低音管** — 冨士延章（Nobuaki Fuji）、服部健太（Kenta Hattori）
+- **低音提琴** — 越啟之（Hiroyuki Koshi）
+- **SoundCube** — 大久保藏馬（Kurama Okubo）
+
 《Sismologie — la musique de la terre》（地震學——大地的音樂）是2024年為IPGP地震學家讓－保羅・蒙塔尼耶（Jean-Paul Montagner）先生所寫的作品，嘗試以音樂表現他著名的地震波速度各向異性研究等成果。曲名直接取自他為大眾所寫的科普書籍。
 
 《La vie privée des volcans》（火山的私生活）是本次音樂會的世界首演作品，源自與IPGP火山學家費德爾・科斯塔（Fidel Costa）先生的討論。火山學的科普推廣往往被熔岩流與火山氣體等強烈的視覺意象所主導，這首作品則聚焦於火山噴發是如何「醞釀」的——也就是火山的「私生活」。本次傳單上的插畫正是科斯塔先生的設計。
