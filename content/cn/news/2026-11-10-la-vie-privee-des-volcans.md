@@ -18,7 +18,7 @@ translationKey = "volcans-concert-2026"
 ## 節目
 - 路德維希·范·貝多芬（Ludwig van Beethoven）— 八重奏，作品103
 - 《Sismologie : la musique de la terre pour Jean-Paul Montagner》（2024）— 冨士延章（Nobuaki Fuji）
-- 《La vie privée des volcans》（2026，世界首演）— 冨士延章，獻給 Fidel Costa
+- 《La vie privée des volcans》（2026，世界首演）— 冨士延章 作曲，基於火山學家 Fidel Costa 火山學見解的共同創作，並獻給他
 
 由 **PhiloGaïa Tokyo** 演出，指揮：正門憲也（Kenya Masakado）。Jean-Paul Montagner 與 Fidel Costa 將發表談話，主持與口譯：青木陽介（Yosuke Aoki，東京大學地震研究所）。
 
