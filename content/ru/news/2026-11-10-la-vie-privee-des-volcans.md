@@ -18,7 +18,7 @@ translationKey = "volcans-concert-2026"
 ## Программа
 - Людвиг ван Бетховен — Октет, соч. 103
 - «Sismologie : la musique de la terre pour Jean-Paul Montagner» (2024) — Nobuaki Fuji
-- «La vie privée des volcans» (2026, мировая премьера) — композитор Nobuaki Fuji; совместная работа, основанная на вулканологических размышлениях Fidel Costa, которому она посвящается
+- «La vie privée des volcans» (2026, мировая премьера) — композитор Nobuaki Fuji; совместная работа, основанная на вулканологических размышлениях Fidel Costa
 
 Исполняет **PhiloGaïa Tokyo** под управлением Kenya Masakado. Со словами Jean-Paul Montagner и Fidel Costa; ведущий и переводчик — Yosuke Aoki (Институт исследования землетрясений, Токийский университет).
 

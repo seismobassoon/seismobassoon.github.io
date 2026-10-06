@@ -18,7 +18,7 @@ translationKey = "volcans-concert-2026"
 ## プログラム
 - ルートヴィヒ・ヴァン・ベートーヴェン — 八重奏曲 作品103
 - 「Sismologie : la musique de la terre pour Jean-Paul Montagner」（2024年、冨士延章 作曲）
-- 「La vie privée des volcans（火山たちの私生活）」（2026年、初演、冨士延章 作曲、フィデル・コスタ氏の火山学的考察を踏まえた共同作品、同氏に捧げる）
+- 「La vie privée des volcans（火山たちの私生活）」（2026年、初演、冨士延章 作曲、フィデル・コスタ氏の火山学的考察を踏まえた共同作品）
 
 演奏：**フィロガイア・オーケストラ東京（PhiloGaïa Tokyo）**、指揮：正門憲也。ジャン=ポール・モンタニエ氏とフィデル・コスタ氏によるお話、司会・通訳：青木陽介氏（東京大学地震研究所）。
 

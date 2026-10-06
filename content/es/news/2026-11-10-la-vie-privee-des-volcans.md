@@ -18,7 +18,7 @@ Ongaku-no-Tomo Hall, 6-30 Kagurazaka, Shinjuku-ku, Tokio 162-8716. [Cómo llegar
 ## Programa
 - Ludwig van Beethoven — Octeto, op. 103
 - *Sismologie : la musique de la terre pour Jean-Paul Montagner* (2024) — Nobuaki Fuji
-- *La vie privée des volcans* (2026, estreno mundial) — compuesta por Nobuaki Fuji, una obra colaborativa basada en las reflexiones vulcanológicas de Fidel Costa, a quien está dedicada
+- *La vie privée des volcans* (2026, estreno mundial) — compuesta por Nobuaki Fuji, una obra colaborativa basada en las reflexiones vulcanológicas de Fidel Costa
 
 Interpretado por **PhiloGaïa Tokyo**, bajo la dirección de Kenya Masakado. Con las palabras de Jean-Paul Montagner y Fidel Costa; presentación e interpretación a cargo de Yosuke Aoki (Earthquake Research Institute, Universidad de Tokio).
 
