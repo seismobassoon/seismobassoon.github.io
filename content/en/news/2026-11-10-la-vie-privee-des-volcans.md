@@ -22,14 +22,6 @@ Ongaku-no-Tomo Hall, 6-30 Kagurazaka, Shinjuku-ku, Tokyo 162-8716. [Access map](
 
 Performed by **PhiloGaïa Tokyo**, conducted by Kenya Masakado. With remarks from Jean-Paul Montagner and Fidel Costa, hosted and interpreted by Yosuke Aoki (Earthquake Research Institute, The University of Tokyo).
 
-{{< collapse title="About PhiloGaïa Orchestra and tonight's program" >}}
-
-PhiloGaïa Orchestra is a music project active mainly in France, created to connect science and society. Founded in 2012, it has performed at PhD defenses and habilitation (HDR) juries at the Institut de Physique du Globe de Paris (IPGP), as well as at student parties. Starting from experiments blending Earth science and music, it explores original and unexpected ways to express a passion for geophysics and music.
-
-It has premiered *Pierre et la Terre* (world premiere in 2016 at the French Embassy in Tokyo; performed again in 2019 at UNESCO Headquarters in Paris for the 100th anniversary of the International Union of Geodesy and Geophysics — IUGG, conducted by Jordan Gudefin), the symphonic poem *InSight* (2019), *Enigma of the Evolution of the Earth* (2023), *Clarinet on the Moon* (2024), *A Trip to the Moon (Méliès)* (2024), and *Hydrated Ariège* (2025, with string players from the Orchestre national du Capitole de Toulouse).
-
-For this Tokyo performance, conducted by composer-conductor Kenya Masakado, the Beethoven and Fuji works will be performed mainly by wind players from the Tomin Symphony Orchestra (2 oboes, 2 clarinets, 2 horns, 2 bassoons and 1 trumpet), together with a double bass player and a SoundCube performer, with commentary from volcanologist Yosuke Aoki (Earthquake Research Institute, The University of Tokyo).
-
 Tonight's performers:
 
 - **Conductor** — Kenya Masakado
@@ -42,6 +34,14 @@ Tonight's performers:
 - **Bassoon** — Nobuaki Fuji, Kenta Hattori
 - **Double bass** — Hiroyuki Koshi
 - **SoundCube** — Kurama Okubo
+
+{{< collapse title="About PhiloGaïa Orchestra and tonight's program" >}}
+
+PhiloGaïa Orchestra is a music project active mainly in France, created to connect science and society. Founded in 2012, it has performed at PhD defenses and habilitation (HDR) juries at the Institut de Physique du Globe de Paris (IPGP), as well as at student parties. Starting from experiments blending Earth science and music, it explores original and unexpected ways to express a passion for geophysics and music.
+
+It has premiered *Pierre et la Terre* (world premiere in 2016 at the French Embassy in Tokyo; performed again in 2019 at UNESCO Headquarters in Paris for the 100th anniversary of the International Union of Geodesy and Geophysics — IUGG, conducted by Jordan Gudefin), the symphonic poem *InSight* (2019), *Enigma of the Evolution of the Earth* (2023), *Clarinet on the Moon* (2024), *A Trip to the Moon (Méliès)* (2024), and *Hydrated Ariège* (2025, with string players from the Orchestre national du Capitole de Toulouse).
+
+For this Tokyo performance, conducted by composer-conductor Kenya Masakado, the Beethoven and Fuji works will be performed mainly by wind players from the Tomin Symphony Orchestra (2 oboes, 2 clarinets, 2 horns, 2 bassoons and 1 trumpet), together with a double bass player and a SoundCube performer, with commentary from volcanologist Yosuke Aoki (Earthquake Research Institute, The University of Tokyo).
 
 *Sismologie — la musique de la terre* was written in 2024 for IPGP seismologist Jean-Paul Montagner, as an attempt to express in music his well-known work on seismic anisotropy, among other topics. The title is taken directly from a popular-science book he wrote.
 

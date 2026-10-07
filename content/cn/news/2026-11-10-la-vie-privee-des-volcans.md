@@ -22,14 +22,6 @@ translationKey = "volcans-concert-2026"
 
 由 **PhiloGaïa Tokyo** 演出，指揮：正門憲也（Kenya Masakado）。Jean-Paul Montagner 與 Fidel Costa 將發表談話，主持與口譯：青木陽介（Yosuke Aoki，東京大學地震研究所）。
 
-{{< collapse title="關於 PhiloGaïa Orchestra 與今晚的節目" >}}
-
-PhiloGaïa Orchestra 是一個主要在法國活動的音樂計畫，旨在連結科學與社會。成立於2012年，曾在巴黎地球物理研究所（IPGP）的博士論文答辯、研究指導資格（HDR）答辯，以及學生派對等場合演出。從結合地球科學與音樂的實驗出發，探索以獨創而出人意表的方式表達對地球物理學與音樂的熱情。
-
-迄今為止，樂團首演了《Pierre et la Terre》（皮埃爾與地球；2016年於東京法國大使館世界首演，2019年於巴黎聯合國教科文組織〈UNESCO〉總部再度演出，以紀念國際大地測量學與地球物理學聯合會〈IUGG〉成立100週年，指揮：Jordan Gudefin）、交響詩《InSight》（2019）、《地球演化之謎》（2023）、《月中的單簧管》（2024）、《梅里葉的月球旅行記》（2024），以及《水潤的阿列日》（2025，與圖盧茲卡皮托爾管弦樂團〈Orchestre national du Capitole de Toulouse〉弦樂手合作演出）。
-
-本次東京公演由作曲家暨指揮正門憲也（Kenya Masakado）先生指揮，主要由都民交響樂團（Tomin Symphony Orchestra）的管樂手（雙簧管、單簧管、法國號、低音管各兩把，小號一把）、低音提琴手，以及 SoundCube 演奏者共同演出貝多芬與冨士的作品，並穿插由東京大學地震研究所火山學家青木陽介（Yosuke Aoki）先生所做的講解。
-
 今晚的演出陣容：
 
 - **指揮** — 正門憲也（Kenya Masakado）
@@ -42,6 +34,14 @@ PhiloGaïa Orchestra 是一個主要在法國活動的音樂計畫，旨在連�
 - **低音管** — 冨士延章（Nobuaki Fuji）、服部健太（Kenta Hattori）
 - **低音提琴** — 越啟之（Hiroyuki Koshi）
 - **SoundCube** — 大久保藏馬（Kurama Okubo）
+
+{{< collapse title="關於 PhiloGaïa Orchestra 與今晚的節目" >}}
+
+PhiloGaïa Orchestra 是一個主要在法國活動的音樂計畫，旨在連結科學與社會。成立於2012年，曾在巴黎地球物理研究所（IPGP）的博士論文答辯、研究指導資格（HDR）答辯，以及學生派對等場合演出。從結合地球科學與音樂的實驗出發，探索以獨創而出人意表的方式表達對地球物理學與音樂的熱情。
+
+迄今為止，樂團首演了《Pierre et la Terre》（皮埃爾與地球；2016年於東京法國大使館世界首演，2019年於巴黎聯合國教科文組織〈UNESCO〉總部再度演出，以紀念國際大地測量學與地球物理學聯合會〈IUGG〉成立100週年，指揮：Jordan Gudefin）、交響詩《InSight》（2019）、《地球演化之謎》（2023）、《月中的單簧管》（2024）、《梅里葉的月球旅行記》（2024），以及《水潤的阿列日》（2025，與圖盧茲卡皮托爾管弦樂團〈Orchestre national du Capitole de Toulouse〉弦樂手合作演出）。
+
+本次東京公演由作曲家暨指揮正門憲也（Kenya Masakado）先生指揮，主要由都民交響樂團（Tomin Symphony Orchestra）的管樂手（雙簧管、單簧管、法國號、低音管各兩把，小號一把）、低音提琴手，以及 SoundCube 演奏者共同演出貝多芬與冨士的作品，並穿插由東京大學地震研究所火山學家青木陽介（Yosuke Aoki）先生所做的講解。
 
 《Sismologie — la musique de la terre》（地震學——大地的音樂）是2024年為IPGP地震學家讓－保羅・蒙塔尼耶（Jean-Paul Montagner）先生所寫的作品，嘗試以音樂表現他著名的地震波速度各向異性研究等成果。曲名直接取自他為大眾所寫的科普書籍。
 

@@ -22,14 +22,6 @@ Ongaku-no-Tomo Hall, 6-30 Kagurazaka, Shinjuku-ku, Tokio 162-8716. [Cómo llegar
 
 Interpretado por **PhiloGaïa Tokyo**, bajo la dirección de Kenya Masakado. Con las palabras de Jean-Paul Montagner y Fidel Costa; presentación e interpretación a cargo de Yosuke Aoki (Earthquake Research Institute, Universidad de Tokio).
 
-{{< collapse title="Sobre PhiloGaïa Orchestra y el programa de esta noche" >}}
-
-PhiloGaïa Orchestra es un proyecto musical activo principalmente en Francia, creado para conectar la ciencia con la sociedad. Fundado en 2012, ha actuado en defensas de tesis doctorales y en jurados de habilitación para dirigir investigaciones (HDR) en el Institut de Physique du Globe de Paris (IPGP), así como en fiestas estudiantiles. Partiendo de experimentos que combinan las ciencias de la Tierra con la música, explora formas originales e inesperadas de expresar una pasión por la geofísica y la música.
-
-Hasta ahora ha estrenado *Pierre et la Terre* (estreno mundial en 2016 en la Embajada de Francia en Tokio; interpretada de nuevo en 2019 en la sede de la UNESCO en París con motivo del centenario de la Unión Internacional de Geodesia y Geofísica — IUGG, bajo la dirección de Jordan Gudefin), el poema sinfónico *InSight* (2019), *Enigma of the Evolution of the Earth* (2023), *Clarinet on the Moon* (2024), *Le Voyage dans la Lune* de Méliès (2024), y *Ariège hydratée* (2025, con cuerdas de la Orchestre national du Capitole de Toulouse).
-
-Para este concierto en Tokio, bajo la dirección del compositor y director Kenya Masakado, las obras de Beethoven y Fuji serán interpretadas principalmente por instrumentistas de viento de la Tomin Symphony Orchestra (2 oboes, 2 clarinetes, 2 trompas, 2 fagotes y 1 trompeta), junto con un contrabajista y un intérprete de SoundCube, con comentarios del vulcanólogo Yosuke Aoki (Earthquake Research Institute, Universidad de Tokio).
-
 Intérpretes de esta noche:
 
 - **Dirección** — Kenya Masakado
@@ -42,6 +34,14 @@ Intérpretes de esta noche:
 - **Fagot** — Nobuaki Fuji, Kenta Hattori
 - **Contrabajo** — Hiroyuki Koshi
 - **SoundCube** — Kurama Okubo
+
+{{< collapse title="Sobre PhiloGaïa Orchestra y el programa de esta noche" >}}
+
+PhiloGaïa Orchestra es un proyecto musical activo principalmente en Francia, creado para conectar la ciencia con la sociedad. Fundado en 2012, ha actuado en defensas de tesis doctorales y en jurados de habilitación para dirigir investigaciones (HDR) en el Institut de Physique du Globe de Paris (IPGP), así como en fiestas estudiantiles. Partiendo de experimentos que combinan las ciencias de la Tierra con la música, explora formas originales e inesperadas de expresar una pasión por la geofísica y la música.
+
+Hasta ahora ha estrenado *Pierre et la Terre* (estreno mundial en 2016 en la Embajada de Francia en Tokio; interpretada de nuevo en 2019 en la sede de la UNESCO en París con motivo del centenario de la Unión Internacional de Geodesia y Geofísica — IUGG, bajo la dirección de Jordan Gudefin), el poema sinfónico *InSight* (2019), *Enigma of the Evolution of the Earth* (2023), *Clarinet on the Moon* (2024), *Le Voyage dans la Lune* de Méliès (2024), y *Ariège hydratée* (2025, con cuerdas de la Orchestre national du Capitole de Toulouse).
+
+Para este concierto en Tokio, bajo la dirección del compositor y director Kenya Masakado, las obras de Beethoven y Fuji serán interpretadas principalmente por instrumentistas de viento de la Tomin Symphony Orchestra (2 oboes, 2 clarinetes, 2 trompas, 2 fagotes y 1 trompeta), junto con un contrabajista y un intérprete de SoundCube, con comentarios del vulcanólogo Yosuke Aoki (Earthquake Research Institute, Universidad de Tokio).
 
 *Sismologie — la musique de la terre* fue escrita en 2024 para el sismólogo del IPGP Jean-Paul Montagner, como un intento de expresar en música su conocido trabajo sobre la anisotropía sísmica, entre otros temas. El título proviene directamente de un libro de divulgación que él mismo escribió.
 
