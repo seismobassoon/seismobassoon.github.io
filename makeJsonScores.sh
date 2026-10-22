@@ -1,4 +1,5 @@
 #!/bin/bash
+# ⚠️ Obsolete: it empties data/dropbox.json if anything goes wrong (e.g. macOS bash 3). Use makeJsonScores.py instead.
 
 shopt -s nullglob
 
