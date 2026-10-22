@@ -1,37 +1,33 @@
 ---
-title: "CV long"
+title: "CV détaillé"
 date: 2026-02-01
 draft: false
 toc: true
-
 breadcrumbs: false
-
 ---
 
 # Curriculum Vitæ
 
 ## Notice individuelle
 
-- **Nom, Prénom** : Fuji, Nobuaki  
+- **Nom, prénom** : Fuji, Nobuaki  
 - **Date de naissance** : 26 novembre 1982  
 - **Nationalité** : Japonaise (naturalisation française en cours)  
-- **Lieu de naissance** : Hyogo, Japon  
+- **Lieu de naissance** : Hyōgo, Japon  
 - **Situation actuelle** :  
   Maître de conférences, Université Paris Cité  
-  Institut de Physique du Globe de Paris  
-  Membre junior, Institut Universitaire de France  
+  Institut de physique du globe de Paris  
+  Membre junior, Institut universitaire de France  
 
 - **Adresse professionnelle** :  
-  Bureau 328, Équipe de Sismologie  
+  Bureau 328, Équipe de sismologie  
   Université Paris Cité  
-  Institut de Physique du Globe de Paris (CNRS)  
+  Institut de physique du globe de Paris (CNRS)  
   1 rue Jussieu  
   75238 Paris Cedex 05  
 
-
 - **Courriel** :  
   nobuaki_at_ipgp.fr  
-  
 
 - **Page IPGP** :  
   https://www.ipgp.fr/annuaire/nobuaki/
@@ -55,13 +51,13 @@ breadcrumbs: false
 # Emploi et formation
 
 ## 2022–2027  
-**Membre junior**, Institut Universitaire de France
+**Membre junior**, Institut universitaire de France
 
 ---
 
 ## 2022  
 ### Habilitation à diriger des recherches (HDR)  
-Université Paris Cité – Institut de Physique du Globe de Paris  
+Université Paris Cité – Institut de physique du globe de Paris  
 
 - **Titre** :  
   *Sismologie small-data — d'une roche centimétrique à Mars*  
@@ -80,14 +76,14 @@ Université Paris Cité – Institut de Physique du Globe de Paris
 
 ## 2012–présent  
 **Maître de conférences**  
-Institut de Physique du Globe de Paris  
+Institut de physique du globe de Paris  
 Université Paris Cité – UMR 7154
 
 ---
 
 ## 2010–2012  
 **Post-doctorat**  
-Université de Toulouse III – IRAP  
+Université Toulouse III – IRAP  
 
 - **Sujet** :  
   Calcul rapide de noyaux de sensibilité des ondes sismiques de hautes fréquences à l'échelle globale  
@@ -97,7 +93,7 @@ Université de Toulouse III – IRAP
 
 ## 2008–2010  
 **Chercheur spécial DC2**  
-Japan Society for the Promotion of Science  
+Japan Society for the Promotion of Science (JSPS)  
 
 ---
 
@@ -125,18 +121,16 @@ Département des sciences de la Terre et des planètes
 ### Master – Université de Tokyo  
 
 - **Sujet** :  
-  1D SH velocity models for the subregions of the Northwestern Pacific obtained using waveform inversion  
+  *1D SH velocity models for the subregions of the Northwestern Pacific obtained using waveform inversion*  
 - **Direction** : Robert J. Geller  
 
 ---
 
 ## 2003–2005  
-Licence 3–4 – Géophysique  
-Université de Tokyo  
+Licence 3–4 – Géophysique, Université de Tokyo  
 
 ## 2001–2003  
-Licence 1–2 – Sciences  
-Université de Tokyo  
+Licence 1–2 – Sciences, Université de Tokyo  
 
 ---
 
@@ -144,7 +138,7 @@ Université de Tokyo
 **Total : 654,5 k€**
 
 ### 07/2025–  
-Collaborateur scientifique et artistique – Mission NASA *Far Side Seismic Suite (FSS)*
+Collaborateur scientifique et artistique – Mission NASA *Farside Seismic Suite (FSS)*
 
 ### 02/2025–10/2025  
 Workshop IUF – CLEEDI (20 k€)
@@ -170,8 +164,6 @@ Projet MOPGA « GRANITE » (50 k€)
 ### 09/2017–  
 Mission NASA *InSight*
 
-(etc. — tu peux continuer exactement le même format)
-
 ---
 
 # Projets de vulgarisation scientifique  
@@ -182,7 +174,7 @@ Mission NASA *InSight*
 - 06/2024 – *Nuées Ardentes* (0,5 k€)
 - 04/2024 – Théâtre *En cas de doute, foncez !* (4 k€)
 - 07/2019 – Concert IUGG UNESCO (5 k€)
-- 09/2012– Directeur PhiloGaïa Orchestra
+- 09/2012– Directeur du PhiloGaïa Orchestra
 
 ---
 
@@ -236,7 +228,7 @@ Responsable d’un des quatre thèmes de recherche
 *Intérieurs de la Terre et des planètes*
 
 **09/2016–09/2019**  
-Membre élu du comité scientifique  
+Membre élu du conseil scientifique  
 
 **09/2015–09/2020**  
 Responsable adjoint de l’équipe de sismologie  
@@ -257,7 +249,7 @@ Organisation des séminaires hebdomadaires – équipe de géosciences marines
 ### Consortium de recherche
 
 **09/2012–09/2018**  
-Co-responsable du Consortium GPX  
+Co-responsable du consortium GPX  
 (Groupe de géoPhysique d’eXploration de Paris)  
 
 IPGP – Mines ParisTech  
@@ -269,7 +261,7 @@ Financement : ANR, CGG, Total, Schlumberger
 
 **2022–2027**  
 Membre junior – Chaire Médiation scientifique  
-Institut Universitaire de France  
+Institut universitaire de France  
 
 **2017–2021**  
 PEDR – IPGP  
@@ -316,13 +308,13 @@ Milena Marjanović
 
 ## Encadrement et stages d’observation
 
-Organisation de stages de troisième année et entretiens L2  
+Organisation de stages de troisième et entretiens L2  
 Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuelle InSight, répétitions du PhiloGaïa Orchestra  
 
-06/2025 — Uma Abrand (Henri IV)  
+06/2025 — Uma Abrand (Lycée Henri-IV)  
 06/2025 — Stage seconde-découverte IPGP  
 06/2024 — Stage seconde-découverte IPGP  
-06/2023 — Maia Maceiras Crozat (Saint Michel de Picpus)  
+06/2023 — Maia Maceiras Crozat (Saint-Michel de Picpus)  
 10/2021 — David Abdayem et al. (UPEC)  
 02/2018 — Margot Porteneuve  
 02/2015 — Iris Jiménez-Boissin  
@@ -332,14 +324,14 @@ Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuell
 
 ## Jurys
 
-### Jury de thèse
+### Jurys de thèse
 
 12/2024 — Rapporteur, Léo de Souza (Mines Paris-PSL)  
 02/2023 — Rapporteur, Li-Yu Kan (Université Toulouse III)  
 11/2020 — Jury, Ilaria Barone (Università di Padova)  
 09/2016 — Jury, Paul Wellington (UGA)
 
-### Jury de concours
+### Jurys de concours
 
 01/2015 — Jury de recrutement, École des Mines de Paris  
 
@@ -347,7 +339,7 @@ Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuell
 
 ## Accords internationaux (MoU)
 
-- Mise en place d’un MoU et d’un dual master  
+- Mise en place d’un MoU et d’un double master  
   Sorbonne Paris Cité – Université de Kyoto  
   (avec Édouard Kaminski, Hitoshi Mikada)
 
@@ -359,16 +351,14 @@ Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuell
 
 ---
 
-## Édition et reviewing
+## Édition et expertise
 
 ### Éditeur
 
 Discover Geosciences (Springer Nature)  
-
 Éditeur invité – Frontiers  
- 
 
-### Reviewer
+### Relecteur
 
 Journal of Geophysical Research  
 Geophysical Journal International  
@@ -384,7 +374,7 @@ EGU 2026 – Vienne (session BUGS)
 EGU 2025 – Vienne (session BUGS)  
 EGU 2022 – Vienne  
 AGU Fall Meeting 2018 – Washington DC  
-AOGS 2016 – Beijing  
+AOGS 2016 – Pékin  
 AOGS 2013 – Brisbane  
 WPGM 2010 – Taipei  
 
@@ -401,7 +391,7 @@ Paris — 2023
 (~50 chercheurs)
 
 ### IPGP–ERI Tokyo  
-Paris & Tokyo — 2013, 2015, 2017, 2019, 2022, 2024, 2026
+Paris & Tokyo — 2013, 2015, 2017, 2019, 2022, 2024, 2026  
 (~60 chercheurs)
 
 ### Paris Diderot–Seoul National University  
@@ -410,18 +400,18 @@ Paris & Séoul — 2015, 2016
 
 ---
 
-# Vulgarisation scientifique
+# Médiation scientifique
 
 Interviews :  
 
-France info (2025)
+France Info (2025)  
 La Dépêche (2011, 2020, 2021, 2023, 2025)  
 Le Monde (2012)  
 Gazette Ariégeoise (2021, 2023, 2025)  
 
 Cours publics et conférences :  
 Université de Tokyo  
-Université de Kyoto
+Université de Kyoto  
 Université Toulouse III  
 ENS Paris  
 Fête de la Science (IPGP)
@@ -433,10 +423,10 @@ Fête de la Science (IPGP)
 Fondateur du PhiloGaïa Orchestra  
 Orchestre de chambre de l’IPGP  
 
-Concerts à l’UNESCO (100e anniversaire IUGG, 2019)  
+Concerts à l’UNESCO (centenaire de l’UGGI, 2019)  
 Créations :  
 *Pierre et la Terre*  
-*Poème symphonique SEIS – InSight No.1*  
+*Poème symphonique SEIS – InSight No. 1*  
 
 Concerts CLEEDI, collaborations internationales  
 ≈ 20 géomusiciens actuellement  
@@ -445,7 +435,7 @@ Bassoniste semi-professionnel
 Réseaux : Paris, Toulouse, Tokyo, Lisbonne, Vienne, Oslo  
 
 Répertoire symphonique majeur :  
-Chostakovitch, Tchaïkovsky, Mahler, Rimsky-Korsakov, Ravel  
+Chostakovitch, Tchaïkovski, Mahler, Rimski-Korsakov, Ravel  
 
 ---
 

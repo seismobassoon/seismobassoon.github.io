@@ -168,6 +168,9 @@ Lorsque c’est légalement possible, je fournis le PDF du **manuscrit accepté*
 - Yuan, S., **Fuji, N.**, Singh, S., & Borisov, D. (2017). Towards high resolution localised elastic full waveform inversion. *79th EAGE Conference & Exhibition*, Paris.  
   - [PDF](/papers/2017YFSB_EAGE.pdf)
 
+- Fernández Visentini, A., Ke, K.-Y., Lartey, J., Abhishikth, V., Delahaye, C., … **Fuji, N.** (2017). Seismic and geomagnetic survey in an archaeological site at Chartres, France – evidences of paleo-channel and remains of a Roman temple. *79th EAGE Conference & Exhibition, Student Programme*, Paris.  
+  - [PDF](/papers/2017FernandezVisentini_etal.pdf)
+
 [↑ Haut de page](#top)
 <div id="y2016"></div>
 

@@ -1,60 +1,57 @@
 ---
-title: "CV long"
+title: "CV detalhado"
 date: 2026-02-01
 draft: false
 toc: true
-
 breadcrumbs: false
-
 ---
 
 # Curriculum Vitæ
 
-## Individual notice
+## Dados pessoais
 
-- **Name, first name** : Fuji, Nobuaki  
-- **Birthday** : November 26th 1982    
-- **Birthplace** : Hyogo, Japan  
-- **Current position** :  
-  Associate professor at Institut de physique du globe de Paris, Université Paris Cité  
-  Junior member at Institut universitaire de France  
+- **Nome** : Fuji, Nobuaki  
+- **Data de nascimento** : 26 de novembro de 1982  
+- **Nacionalidade** : Japonesa (naturalização francesa em curso)  
+- **Local de nascimento** : Hyōgo, Japão  
+- **Situação atual** :  
+  Professor associado (maître de conférences), Université Paris Cité  
+  Institut de physique du globe de Paris  
+  Membro júnior, Institut universitaire de France  
 
-- **Professional address** :  
-  Bureau 328, Seismology team 
-  Institut de physique du globe de Paris,
-  Université Paris Cité 
-  
+- **Endereço profissional** :  
+  Gabinete 328, Equipa de sismologia  
+  Université Paris Cité  
+  Institut de physique du globe de Paris (CNRS)  
   1 rue Jussieu  
   75238 Paris Cedex 05  
 
-
-- **email** :  
+- **E-mail** :  
   nobuaki_at_ipgp.fr  
-  
 
-- **IPGP page** :  
+- **Página IPGP** :  
   https://www.ipgp.fr/annuaire/nobuaki/
 
-- **IUF page** :  
+- **Página IUF** :  
   https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html  
 
-- **Supervision** :  
-  5 postdocs  
-  14 doctorants (dont 6 avec convention)  
-  24 stagiaires  
+- **Orientação** :  
+  5 pós-doutorandos  
+  14 doutorandos (6 com convenção oficial)  
+  24 estagiários  
 
-- **Publications** :  
-  35 peer-reviewed papers
-  13 peer-reviewed proceedings  
-  17 outreach articles
-  H-index : 20  
+- **Publicações** :  
+  35 artigos com revisão por pares  
+  13 proceedings com revisão por pares  
+  17 artigos de divulgação  
+  Índice h: 20  
 
 ---
 
-# Appointments and formation
+# Percurso profissional e formação
 
 ## 2022–2027  
-**Junior member**, Institut universitaire de France
+**Membro júnior**, Institut universitaire de France
 
 ---
 
@@ -62,56 +59,56 @@ breadcrumbs: false
 ### Habilitation à diriger des recherches (HDR)  
 Université Paris Cité – Institut de physique du globe de Paris  
 
-- **Title** :  
-  *Small data seismology — from a centimetric rock sample to Mars*  
-- **Defended on** : March 28th 2022  
+- **Título** :  
+  *Sismologia small-data — de uma rocha centimétrica a Marte*  
+- **Defendida em** : 28 de março de 2022  
 
-### Jury
-- Jean-Paul Montagner (President, IPGP)
-- Éléonore Stutzmann (Reporter, IPGP)
-- Frederik Simons (Reporter, Princeton University)
-- Karin Sigloch (Reporter, CNRS, Géoazur)
-- Hitoshi Kawakatsu (Examinator, University of Tokyo / Academia Sinica)
-- Saskia Goes (Examinator, Imperial College London)
-- Alexandre Fournier (Invited, Université de Paris)
+### Júri
+- Jean-Paul Montagner (Presidente)
+- Éléonore Stutzmann (Relatora interna)
+- Frederik Simons (Princeton University)
+- Karin Sigloch (CNRS, Géoazur)
+- Hitoshi Kawakatsu (University of Tokyo / Academia Sinica)
+- Saskia Goes (Imperial College London)
+- Alexandre Fournier (Université de Paris)
 
 ---
 
-## 2012–present  
-**Associate professor**  
+## 2012–presente  
+**Professor associado (maître de conférences)**  
 Institut de physique du globe de Paris  
 Université Paris Cité – UMR 7154
 
 ---
 
 ## 2010–2012  
-**Postdoc**  
-Université de Toulouse III – IRAP  
+**Pós-doutoramento**  
+Université Toulouse III – IRAP  
 
-- **Subject** :  
-  Calcul rapide de noyaux de sensibilité des ondes sismiques de hautes fréquences à l'échelle globale  
-- **Direction** : Sébastien Chevrot  
+- **Tema** :  
+  Cálculo rápido de núcleos de sensibilidade de ondas sísmicas de alta frequência à escala global  
+- **Orientação** : Sébastien Chevrot  
 
 ---
 
 ## 2008–2010  
-**Special researcher DC2**  
-Japan Society for the Promotion of Science  
+**Investigador bolseiro da JSPS (DC2)**  
+Japan Society for the Promotion of Science (JSPS)  
 
 ---
 
 ## 2007–2010  
-### PhD – University of Tokyo  
-Department of Earth and planetary sciences 
+### Doutoramento – Universidade de Tóquio  
+Departamento de Ciências da Terra e dos Planetas  
 
-- **Title** :  
+- **Título** :  
   *A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific*
 
-- **Supervisor** : Robert J. Geller  
-- **Defended on the** : 14 janvier 2010  
+- **Orientador** : Robert J. Geller  
+- **Defendida em** : 14 de janeiro de 2010  
 
-### Jury
-- Satoru Honda (President)
+### Júri
+- Satoru Honda (Presidente)
 - Hitoshi Kawakatsu
 - Satoshi Ide
 - Takao Ohminato
@@ -121,207 +118,203 @@ Department of Earth and planetary sciences
 ---
 
 ## 2005–2007  
-### Master – University of Tokyo  
+### Mestrado – Universidade de Tóquio  
 
-- **Subject** :  
-  1D SH velocity models for the subregions of the Northwestern Pacific obtained using waveform inversion  
-- **Direction** : Robert J. Geller  
+- **Tema** :  
+  *1D SH velocity models for the subregions of the Northwestern Pacific obtained using waveform inversion*  
+- **Orientação** : Robert J. Geller  
 
 ---
 
 ## 2003–2005  
-Bachelor 3–4 – Geophysics
-University of Tokyo  
+Licenciatura (3.º–4.º anos) – Geofísica, Universidade de Tóquio  
 
 ## 2001–2003  
-Bachelor 1–2 – Sciences
-University of Tokyo  
+Licenciatura (1.º–2.º anos) – Ciências, Universidade de Tóquio  
 
 ---
 
-# Financed scientific projects  
+# Projetos científicos financiados  
 **Total : 654,5 k€**
 
 ### 07/2025–  
-Collaborateur scientifique et artistique – Mission NASA *Far Side Seismic Suite (FSS)*
+Colaborador científico e artístico – Missão da NASA *Farside Seismic Suite (FSS)*
 
 ### 02/2025–10/2025  
 Workshop IUF – CLEEDI (20 k€)
 
 ### 02/2025–  
-Projet MITI (CNRS) « DrVM-SeLFiE » (PhD : 150 k€)
+Projeto MITI (CNRS) « DrVM-SeLFiE » (PhD : 150 k€)
 
 ### 12/2025–  
-Projet CEA-IPGP – InSAR volcans (PhD : 75 k€)
+Projeto CEA-IPGP – InSAR em vulcões (PhD : 75 k€)
 
 ### 10/2023–09/2025  
-Projet UPCité « Nu-Earth-Probe » (150 k€)
+Projeto da Université Paris Cité « Nu-Earth-Probe » (150 k€)
 
 ### 02/2023–10/2023  
 Workshop CLEEDI (20 k€)
 
 ### 10/2022–09/2027  
-Projet IUF « MuseSeLFiE » (75 k€ + décharge d’enseignement)
+Projeto IUF « MuseSeLFiE » (75 k€ + redução da carga letiva)
 
 ### 10/2018–09/2021  
-Projet MOPGA « GRANITE » (50 k€)
+Projeto MOPGA « GRANITE » (50 k€)
 
 ### 09/2017–  
-Mission NASA *InSight*
-
-(etc. — tu peux continuer exactement le même format)
+Missão da NASA *InSight*
 
 ---
 
-# Projets de vulgarisation scientifique  
+# Projetos de divulgação científica  
 **Total : 28,3 k€**
 
 - 03/2025 – *Quand la musique fait vibrer la Terre !* (0,5 k€)
-- 10/2025 – Concert Journée lunaire (2 k€)
+- 10/2025 – Concerto do Dia da Lua (2 k€)
 - 06/2024 – *Nuées Ardentes* (0,5 k€)
-- 04/2024 – Théâtre *En cas de doute, foncez !* (4 k€)
-- 07/2019 – Concert IUGG UNESCO (5 k€)
-- 09/2012– Directeur PhiloGaïa Orchestra
+- 04/2024 – Teatro *En cas de doute, foncez !* (4 k€)
+- 07/2019 – Concerto IUGG na UNESCO (5 k€)
+- 09/2012– Diretor da PhiloGaïa Orchestra
 
 ---
 
-# Proficiency
+# Competências
 
-## Computation
+## Programação
 Julia > Fortran 77/90 (+MPI), Perl, Python > C > Java  
 
-## Languages
-Japanese
-French  
-English
-Russian (A2) 
-Portuguese, Italian, Norwegian, Chinese, Swedish, Korean, Catalan, Spanish, Icelandic (A1)
+## Línguas
+Japonês  
+Francês  
+Inglês (C2)  
+Russo (A2)  
+Português, italiano, norueguês, chinês, sueco, coreano, catalão, espanhol, islandês (A1)
 
-## Hobby
-Bassoon (semi-professional)  
-Composition (Silver Prize – Master Open Competition 2025)  
-Ski  
-Cooking
+## Passatempos
+Fagote (semiprofissional)  
+Composição (Silver Prize – Master Open Competition 2025)  
+Esqui  
+Cozinha  
 Piano
 
 ---
 
-# Collective responsabilities
+# Responsabilidades coletivas
 
-## Inter/national visibility and scientific impact
+## Projeção e responsabilidades
 
-### France
+### França
 
-**From 04/2022**  
-Responsable de l’axe *Geology and Seismology*  
-International Research Centre (IRC), CNRS – Université de Tokyo  
+**Desde 04/2022**  
+Responsável pelo eixo *Geology and Seismology*  
+International Research Centre (IRC), CNRS – Universidade de Tóquio  
 
 **01/2016–03/2022**  
-Membre du comité scientifique de GEOSCOPE  
+Membro do comité científico do GEOSCOPE  
 
 ---
 
 ### Institut de physique du globe de Paris
 
-**Depuis 07/2025**  
-Responsable de l’équipe de sismologie  
+**Desde 07/2025**  
+Responsável pela equipa de sismologia  
 
 **10/2017–09/2020**  
-Responsable pédagogique – M2R IMSES  
+Responsável pedagógico – M2R IMSES  
 (International Master in Solid Earth Sciences)
 
 **10/2016–12/2020**  
-Responsable d’un des quatre thèmes de recherche  
-*Intérieurs de la Terre et des planètes*
+Responsável por um dos quatro temas de investigação  
+*Interiores da Terra e dos planetas*
 
 **09/2016–09/2019**  
-Membre élu du comité scientifique  
+Membro eleito do conselho científico  
 
 **09/2015–09/2020**  
-Responsable adjoint de l’équipe de sismologie  
-(Direction : Éléonore Stutzmann)
+Responsável adjunto da equipa de sismologia  
+(Direção : Éléonore Stutzmann)
 
 **10/2012–09/2018**  
-Responsable pédagogique – M2R GPX  
-(Géophysique appliquée)
+Responsável pedagógico – M2R GPX  
+(Geofísica aplicada)
 
 **10/2012–09/2017**  
-Organisation des séminaires hebdomadaires – équipe de sismologie  
+Organização dos seminários semanais – equipa de sismologia  
 
 **10/2012–09/2015**  
-Organisation des séminaires hebdomadaires – équipe de géosciences marines  
+Organização dos seminários semanais – equipa de geociências marinhas  
 
 ---
 
-### Consortium de recherche
+### Consórcio de investigação
 
 **09/2012–09/2018**  
-Co-responsable du Consortium GPX  
+Corresponsável pelo consórcio GPX  
 (Groupe de géoPhysique d’eXploration de Paris)  
 
 IPGP – Mines ParisTech  
-Financement : ANR, CGG, Total, Schlumberger  
+Financiamento : ANR, CGG, Total, Schlumberger  
 
 ---
 
-### Distinctions et primes
+### Distinções e prémios
 
 **2022–2027**  
-Membre junior – Chaire Médiation scientifique  
-Institut Universitaire de France  
+Membro júnior – Cátedra de mediação científica  
+Institut universitaire de France  
 
 **2017–2021**  
-PEDR – IPGP  
+Prémio de investigação (PEDR) – IPGP  
 
 ---
 
-### Citoyenneté d'honneur
+### Cidadania honorária
 
 **26/11/2024**  
-Ambassadeur de l’Ariège  
+Embaixador da Ariège  
 (Agence d’Attractivité Ariège)
 
 **31/07/2017**  
-Citoyen d’honneur – Ville de Mazères (Ariège)
+Cidadão honorário – Município de Mazères (Ariège)
 
 ---
 
-## Invitations internationales
+## Convites internacionais
 
-### Séjours de recherche
+### Estadias de investigação
 
-**Mai–juin 2017**  
-Invité par Frédéric Deschamps  
+**Maio–junho 2017**  
+Convidado por Frédéric Deschamps  
 Institute of Earth Sciences, Academia Sinica, Taipei  
 
-**Juillet–août 2018**  
-Invité par Takashi Iidaka  
-Earthquake Research Institute, Université de Tokyo  
+**Julho–agosto 2018**  
+Convidado por Takashi Iidaka  
+Earthquake Research Institute, Universidade de Tóquio  
 
 ---
 
-### Chercheurs invités à l’IPGP
+### Investigadores convidados no IPGP
 
-**Septembre 2025**  
+**Setembro 2025**  
 John Hernlund  
 
-**Décembre 2014 ; avril–mai 2018**  
+**Dezembro 2014 ; abril–maio 2018**  
 Kensuke Konishi  
 
-**Septembre–décembre 2014**  
+**Setembro–dezembro 2014**  
 Milena Marjanović  
 
 ---
 
-## Encadrement et stages d’observation
+## Orientação e estágios de observação
 
-Organisation de stages de troisième année et entretiens L2  
-Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuelle InSight, répétitions du PhiloGaïa Orchestra  
+Organização de estágios de observação para alunos do 3e e entrevistas com estudantes de L2  
+Visitas ao IPGP: Pavillon Cuvier, Geoscope, experiências, realidade virtual InSight, ensaios da PhiloGaïa Orchestra  
 
-06/2025 — Uma Abrand (Henri IV)  
-06/2025 — Stage seconde-découverte IPGP  
-06/2024 — Stage seconde-découverte IPGP  
-06/2023 — Maia Maceiras Crozat (Saint Michel de Picpus)  
+06/2025 — Uma Abrand (Lycée Henri-IV)  
+06/2025 — Estágio de descoberta para alunos do secundário (seconde) no IPGP  
+06/2024 — Estágio de descoberta para alunos do secundário (seconde) no IPGP  
+06/2023 — Maia Maceiras Crozat (Saint-Michel de Picpus)  
 10/2021 — David Abdayem et al. (UPEC)  
 02/2018 — Margot Porteneuve  
 02/2015 — Iris Jiménez-Boissin  
@@ -329,45 +322,43 @@ Visites IPGP : Pavillon Cuvier, Géoscope, expérimentations, réalité virtuell
 
 ---
 
-## Jurys
+## Júris
 
-### Jury de thèse
+### Júris de doutoramento
 
-12/2024 — Rapporteur, Léo de Souza (Mines Paris-PSL)  
-02/2023 — Rapporteur, Li-Yu Kan (Université Toulouse III)  
-11/2020 — Jury, Ilaria Barone (Università di Padova)  
-09/2016 — Jury, Paul Wellington (UGA)
+12/2024 — Relator, Léo de Souza (Mines Paris-PSL)  
+02/2023 — Relator, Li-Yu Kan (Université Toulouse III)  
+11/2020 — Membro do júri, Ilaria Barone (Università di Padova)  
+09/2016 — Membro do júri, Paul Wellington (UGA)
 
-### Jury de concours
+### Júris de concurso
 
-01/2015 — Jury de recrutement, École des Mines de Paris  
-
----
-
-## Accords internationaux (MoU)
-
-- Mise en place d’un MoU et d’un dual master  
-  Sorbonne Paris Cité – Université de Kyoto  
-  (avec Édouard Kaminski, Hitoshi Mikada)
-
-- Renouvellement du MoU IPGP – ERI Tokyo  
-  (avec Jean-Paul Montagner, Masataka Kinoshita)
-
-- Renouvellement du MoU IPGP – Academia Sinica  
-  (avec Édouard Kaminski, Frédéric Deschamps)
+01/2015 — Júri de recrutamento, École des Mines de Paris  
 
 ---
 
-## Édition et reviewing
+## Acordos internacionais (MoU)
 
-### Éditeur
+- Criação de um MoU e de um duplo mestrado  
+  Sorbonne Paris Cité – Universidade de Quioto  
+  (com Édouard Kaminski, Hitoshi Mikada)
+
+- Renovação do MoU IPGP – ERI Tokyo  
+  (com Jean-Paul Montagner, Masataka Kinoshita)
+
+- Renovação do MoU IPGP – Academia Sinica  
+  (com Édouard Kaminski, Frédéric Deschamps)
+
+---
+
+## Edição e revisão
+
+### Editor
 
 Discover Geosciences (Springer Nature)  
+Editor convidado – Frontiers  
 
-Éditeur invité – Frontiers  
- 
-
-### Reviewer
+### Revisor
 
 Journal of Geophysical Research  
 Geophysical Journal International  
@@ -377,75 +368,75 @@ Progress in Earth and Planetary Science
 
 ---
 
-## Organisation of scientific sessions
+## Organização de sessões científicas
 
-EGU 2026 – Vienne (session BUGS)  
-EGU 2025 – Vienne (session BUGS)  
-EGU 2022 – Vienne  
+EGU 2026 – Viena (sessão BUGS)  
+EGU 2025 – Viena (sessão BUGS)  
+EGU 2022 – Viena  
 AGU Fall Meeting 2018 – Washington DC  
-AOGS 2016 – Beijing  
+AOGS 2016 – Pequim  
 AOGS 2013 – Brisbane  
-WPGM 2010 – Taipei  
+WPGM 2010 – Taipé  
 
 ---
 
-## Organisation of workshops
+## Organização de workshops
 
 ### CLEEDI  
 Foix — 2021, 2023, 2025  
-(~30–40 chercheurs et musiciens)
+(~30–40 investigadores e músicos)
 
 ### Multi-messenger tomography  
 Paris — 2023  
-(~50 chercheurs)
+(~50 investigadores)
 
 ### IPGP–ERI Tokyo  
-Paris & Tokyo — 2013, 2015, 2017, 2019, 2022, 2024, 2026
-(~60 chercheurs)
+Paris & Tokyo — 2013, 2015, 2017, 2019, 2022, 2024, 2026  
+(~60 investigadores)
 
 ### Paris Diderot–Seoul National University  
-Paris & Séoul — 2015, 2016  
-(~20 chercheurs)
+Paris & Seul — 2015, 2016  
+(~20 investigadores)
 
 ---
 
-# Scientific mediation
+# Divulgação científica
 
-Interviews :  
+Entrevistas :  
 
-France info (2025)
+France Info (2025)  
 La Dépêche (2011, 2020, 2021, 2023, 2025)  
 Le Monde (2012)  
 Gazette Ariégeoise (2021, 2023, 2025)  
 
-Cours publics et conférences :  
-Université de Tokyo  
-Université de Kyoto
+Aulas públicas e conferências :  
+Universidade de Tóquio  
+Universidade de Quioto  
 Université Toulouse III  
 ENS Paris  
 Fête de la Science (IPGP)
 
 ---
 
-# Seismomusic activities
+# Sismomúsica
 
-Fondateur du PhiloGaïa Orchestra  
-Orchestre de chambre de l’IPGP  
+Fundador da PhiloGaïa Orchestra  
+Orquestra de câmara do IPGP  
 
-Concerts à l’UNESCO (100e anniversaire IUGG, 2019)  
-Créations :  
+Concertos na UNESCO (centenário da IUGG, 2019)  
+Estreias :  
 *Pierre et la Terre*  
-*Poème symphonique SEIS – InSight No.1*  
+*Poema sinfónico SEIS – InSight n.º 1*  
 
-Concerts CLEEDI, collaborations internationales  
-≈ 20 géomusiciens actuellement  
+Concertos CLEEDI, colaborações internacionais  
+≈ 20 geomúsicos atualmente  
 
-Bassoniste semi-professionnel  
-Réseaux : Paris, Toulouse, Tokyo, Lisbonne, Vienne, Oslo  
+Fagotista semiprofissional  
+Redes : Paris, Toulouse, Tóquio, Lisboa, Viena, Oslo  
 
-Répertoire symphonique majeur :  
-Chostakovitch, Tchaïkovsky, Mahler, Rimsky-Korsakov, Ravel  
+Principal repertório sinfónico :  
+Chostakovitch, Tchaikovsky, Mahler, Rimsky-Korsakov, Ravel  
 
 ---
 
-Le fil conducteur de ces projets est l’immersion sensorielle du public dans la science fondamentale, sans prérequis ni a priori.
+O fio condutor destes projetos é a imersão sensorial do público na ciência fundamental, sem pré-requisitos nem ideias preconcebidas.
