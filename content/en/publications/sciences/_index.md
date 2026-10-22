@@ -44,7 +44,8 @@ Where legally possible, I provide an **author-accepted manuscript** or **preprin
 
 <div id="y2024"></div>
 
-- **Fuji, N.** (2024). The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese). *The Review of High Pressure Science and Technology*, 33(3), 158–167.
+- **Fuji, N.** (2024). The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese). *The Review of High Pressure Science and Technology*, 33(3), 158–167.  
+  - [PDF](/papers/2024_Fuji_JapanHighPressure.pdf)
 
 [↑ Back to top](#top)
 
