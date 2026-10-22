@@ -10,5 +10,6 @@ draft = false
 role = "Postdoc"
 start = "2021-04"
 +++
-04/2021-08/2023, postdoc à JAMSTEC, encadré par Tatsu Kuwatani et moi-même. Pendant mon séjour à l'ERI, Université de Tokyo pendant l'été 2018, j'ai eu des difficultés à interpreter les images obtenues du manteau juste au-dessous de la plaque Caroline. Atsushi était postdoc et son bureau était juste à côté. Nous avons commencé à en discuter et il m'a montré la différence de régime de subduction en fonction de la vitesse de la plaque. Depuis, nous sommes devenus collaborateurs et nous avons publié un premier article ensemble. Depuis 2021, il est postdoc à JAMSTEC, en collaborant avec moi sur l'interprétation multidisciplinaire de l'atténuation sismique. Le projet a pour but de comprendre le lien entre la viscosité en géodynamique et l'atténuation en sismologie, qui n'a pas suffisamment été discuté jusqu'à aujourd'hui.
-Il est actuellement assistant professor à l'université d'Akita.
+
+04/2021-08/2023, postdoc at JAMSTEC, supervised by Tatsu Kuwatani and me. During my stay at ERI, University of Tokyo, in summer 2018, I had difficulties interpreting the images of the mantle just beneath the Caroline plate. Atsushi was a postdoc in the office next door. We started discussing, and he showed me how the subduction regime differs depending on plate velocity. Since then we have been collaborators and published a first paper together. From 2021 he was a postdoc at JAMSTEC, working with me on the multidisciplinary interpretation of seismic attenuation. The project aims to understand the link between viscosity in geodynamics and attenuation in seismology, which has not been discussed enough so far.
+He is now an assistant professor at Akita University.

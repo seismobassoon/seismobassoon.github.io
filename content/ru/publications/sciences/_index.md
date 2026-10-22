@@ -1,5 +1,278 @@
 +++
-title = "Peer-reviewed papers"
+title = "Научные статьи"
 layout = "list"
 draft = false
+date = 2026-10-22
 +++
+
+<div id="top"></div>
+
+Ниже приведены избранные публикации. Для каждой работы **официальная версия** доступна по DOI.  
+Там, где это юридически допустимо, я выкладываю PDF **принятой рукописи** или **препринта**.
+
+---
+
+## Перейти к году
+
+[2026](#y2026) · [2025](#y2025) · [2024](#y2024) · [2023](#y2023) · [2022](#y2022) · [2021](#y2021) · [2020](#y2020) · [2019](#y2019) · [2018](#y2018) · [2017](#y2017) · [2016](#y2016) · [2015](#y2015) · [2014](#y2014) · [2013](#y2013) · [2012](#y2012) · [2011](#y2011) · [2010](#y2010) · [2009](#y2009) · [2007](#y2007)
+
+---
+
+<div id="y2026"></div>
+
+- Drique, L., Dalaison, M., Pinel-Puysségur, B., & **Fuji, N.** (2026). Observations of InSAR closure phase and coherence over crops in the Thessaloniki region, Greece. *16th European Conference on Synthetic Aperture Radar (EUSAR 2026)*, Baden-Baden, Germany, 104–109.  
+  - HAL: https://hal.science/hal-05762899  
+  - [PDF](/papers/2026DDPF.pdf)
+
+- Goos, I.A., **Fuji, N.**, Durand, S., Van Elewyck, V., Coelho, J.A.B., Mittelstaedt, E., & Deniz, Y. (2026). Sensitivity of neutrino oscillations to the Earth's interior properties. *Earth and Planetary Science Letters*, 696, 120354.  
+  - DOI: https://doi.org/10.1016/j.epsl.2026.120354  
+  - [PDF (open access)](/papers/2026GFDVCMD.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2025"></div>
+
+- **Fuji, N.** (2025). «Évolution(s)» vue(s) par un géophysicien. *Évolution(s) - Science, art et littérature* (Eds. Séginger, G. & Yvonnet, J.), 289–306.  
+  - DOI: https://doi.org/10.3917/edmat.segin.2025.01.0289  
+  - [PDF](/papers/2025_IUF_book.pdf)
+
+- **Fuji, N.**, & Duretz, T. (2025). Optimally accurate operators for partial differential equations. *Preprint*, arXiv:2505.02320.  
+  - arXiv: https://arxiv.org/abs/2505.02320  
+  - [PDF (preprint)](/papers/2025FD_arXiv.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2024"></div>
+
+- **Fuji, N.** (2024). The interpretation limits of seismological exploration and the possibility of water existence in the Earth’s interior (in Japanese). *The Review of High Pressure Science and Technology*, 33(3), 158–167.
+
+[↑ Наверх](#top)
+
+<div id="y2023"></div>
+
+- **Fuji, N.**, Olive, J.-A., & Hernlund, J. (2023). Editorial: Collaborative Exploration of Earth's Deep Interiors (CLEEDI). *Frontiers in Earth Science*, 11, 1220375.  
+  - DOI: https://doi.org/10.3389/feart.2023.1220375  
+  - [PDF](/papers/2023FOH.pdf)
+
+- Pestes, R., Coelho, J.A.B., Durand, S., **Fuji, N.**, Kaminski, E., Maderer, L., & Van Elewyck, V. (2023). Towards a 3D neutrino tomography of the Earth's mantle. *Proceedings of Science (ICRC 2023)*, 1162.  
+  - HAL: https://hal.science/hal-04302498  
+  - [PDF](/papers/2023PCDFKMV.pdf)
+
+- Xu, Z., Broquet, A., **Fuji, N.**, et al. (2023). Investigation of Martian regional crustal structure near the dichotomy using S1222a surface‐wave group velocities. *Geophysical Research Letters*, 50, e2023GL103136.  
+  - DOI: https://doi.org/10.1029/2023GL103136  
+  - [PDF](/papers/2023XBFKLMPSSB.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2022"></div>
+
+- Kawamura, T., Grott, M., Garcia, R., … **Fuji, N.**, … (2022). An autonomous lunar geophysical experiment package (ALGEP) for future space missions. *Experimental Astronomy*.  
+  - DOI: https://doi.org/10.1007/s10686-022-09857-6  
+  - [PDF](/papers/2022Kawamuraetal.pdf)
+
+- Jacob, A., Plasman, M., Perrin, C., **Fuji, N.**, et al. (2022). Seismic sources of InSight marsquakes and seismotectonic context of Elysium Planitia, Mars. *Tectonophysics*, 837, 229434.  
+  - DOI: https://doi.org/10.1016/j.tecto.2022.229434  
+  - [PDF](/papers/2022JacobEtal.pdf)
+
+- Perrin, C., Jacob, A., Lucas, A., … **Fuji, N.**, … (2022). Geometry and segmentation of Cerberus Fossae, Mars: Implications for marsquake properties. *Journal of Geophysical Research: Planets*, 127, e2021JE007118.  
+  - DOI: https://doi.org/10.1029/2021JE007118
+
+[↑ Наверх](#top)
+
+<div id="y2021"></div>
+
+- Lai, S., **Fuji, N.**, Katayama, I., Bonilla, F., & Capdeville, Y. (2021). Rock deformation monitoring using Monte Carlo waveform inversion. *Journal of Geophysical Research: Solid Earth*, 126, e2021JB021873.  
+  - DOI: https://doi.org/10.1029/2021JB021873  
+  - [PDF](/papers/2021LFKBC.pdf)
+
+- Brinkman, N., Stähler, S.C., Giardini, D., … **Fuji, N.**, … (2021). First focal mechanisms of marsquakes. *Journal of Geophysical Research: Planets*, 126, e2020JE006546.  
+  - DOI: https://doi.org/10.1029/2020JE006546  
+  - [PDF](/papers/2020Brinkmanetal.pdf)
+
+- **Fuji, N.**, Jang, H., Nakao, A., Kim, Y.-H., Fernández-Blanco, D., Lee, S.-M., Schroeder, A., & Konishi, K. (2021). A possible roll-over slab geometry under the Caroline plate imaged by Monte Carlo finite-frequency traveltime inversion of teleseismic SS phases. *Frontiers in Earth Science*, 9, 593947.  
+  - DOI: https://doi.org/10.3389/feart.2021.593947  
+  - [PDF](/papers/2021FJNKFLSK.pdf)
+
+- Yuan, S., **Fuji, N.**, & Singh, S. (2021). High-frequency localized elastic full waveform inversion for time-lapse seismic surveys. *Geophysics*, 86(3).  
+  - DOI: https://doi.org/10.1190/geo2020-0286.1  
+  - [PDF](/papers/2021YFS.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2020"></div>
+
+- Franken, T., Armitage, J.J., **Fuji, N.**, & Fournier, A. (2020). Seismic wave‐based constraints on geodynamical processes: An application to partial melting beneath the Réunion island. *Geochemistry, Geophysics, Geosystems*, 21(5), e2019GC008815.  
+  - DOI: https://doi.org/10.1029/2019GC008815  
+  - [PDF](/papers/2020FAFF.pdf)
+
+- Konishi, K., **Fuji, N.**, & Deschamps, F. (2020). Three-dimensional elastic and anelastic structure of the lowermost mantle beneath the western Pacific from finite-frequency tomography. *Journal of Geophysical Research: Solid Earth*, 125(2), e2019JB018089.  
+  - DOI: https://doi.org/10.1029/2019JB018089  
+  - [PDF](/papers/2020KFD.pdf)
+
+- Xiao, Z., **Fuji, N.**, et al. (2020). Seismic structure beneath the Tibetan Plateau from iterative finite-frequency tomography based on ChinArray. *Journal of Geophysical Research: Solid Earth*.  
+  - DOI: https://doi.org/10.1029/2019JB018344
+
+- Lognonné, P., Banerdt, W.B., Pike, W.T., … **Fuji, N.**, … (2020). Constraints on the shallow elastic and anelastic structure of Mars from InSight seismic data. *Nature Geoscience*.  
+  - DOI: https://doi.org/10.1038/s41561-020-0536-y  
+  - [PDF](/papers/2020LognonneEtal.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2019"></div>
+
+- Deschamps, F., Konishi, K., **Fuji, N.**, & Cobden, L. (2019). Radial thermo-chemical structure beneath western and northern Pacific from seismic waveform inversion. *Earth and Planetary Science Letters*, 520, 153–163.  
+  - DOI: https://doi.org/10.1016/j.epsl.2019.05.040  
+  - [PDF](/papers/2019DKFC.pdf)
+
+- Smrekar, S.E., Lognonné, P., Spohn, T., … **Fuji, N.**, … (2019). Pre-mission InSights on the interior of Mars. *Space Science Reviews*, 215.  
+  - DOI: https://doi.org/10.1007/s11214-018-0563-9  
+  - [PDF](/papers/2018Smrekar.pdf)
+
+- Lai, S., **Fuji, N.**, & Katayama, I. (2019). Time-lapse elastic properties of cracked granite during deformation inferred from laboratory experiments using 2D waveform modelling. *81st EAGE Conference & Exhibition*, London.  
+  - [PDF](/papers/2019LFK.pdf)
+
+- Singh, S., Belahi, T., & **Fuji, N.** (2019). Viscoelastic full waveform inversion of wide-angle data: Application to ultra-long offset data from Mentawai Basin, Indonesia. *81st EAGE Conference & Exhibition, Workshop Programme*, London.  
+  - [PDF](/papers/2019SBF.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2018"></div>
+
+- Daubar, I., Lognonné, P., Teanby, N.A., … **Fuji, N.**, … (2018). Impact-seismic investigations of the InSight mission. *Space Science Reviews*, 214(8), 132.  
+  - DOI: https://doi.org/10.1007/s11214-018-0562-x  
+  - [PDF](/papers/2018Daubar.pdf)
+
+- Hasegawa, K., **Fuji, N.**, & Konishi, K. (2018). Improvement of accuracy of the spectral element method for elastic wave computation using modified numerical integration operators. *Computer Methods in Applied Mechanics and Engineering*.  
+  - DOI: https://doi.org/10.1016/j.cma.2018.07.025  
+  - [PDF](/papers/2018HFK.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2017"></div>
+
+- Marjanović, M., **Fuji, N.**, Singh, S., Belahi, T., & Escartin, J. (2017). Seismic signatures of hydrothermal pathways along the East Pacific Rise between 9°16' and 9°56'N. *Journal of Geophysical Research: Solid Earth*.  
+  - DOI: https://doi.org/10.1002/2017JB015004  
+  - [PDF](/papers/2017MFSBE.pdf)
+
+- Yuan, S., **Fuji, N.**, & Singh, S. (2017). Localized time-lapse elastic waveform inversion using wavefield injection and extrapolation: 2-D parametric studies. *Geophysical Journal International*, 209, 1699–1717.  
+  - DOI: https://doi.org/10.1093/gji/ggx118  
+  - [PDF](/papers/2017YFSB.pdf)
+
+- Konishi, K., **Fuji, N.**, & Deschamps, F. (2017). Elastic and anelastic structure of the lowermost mantle beneath the Western Pacific from waveform inversion. *Geophysical Journal International*, 208, 1290–1304.  
+  - DOI: https://doi.org/10.1093/gji/ggw450  
+  - [PDF](/papers/2016KFD.pdf)
+
+- Belahi, T., **Fuji, N.**, & Singh, S. (2017). Imaging of Sumatra gas-rich region using 2D hierarchical viscoelastic waveform inversion. *79th EAGE Conference & Exhibition*, Paris.  
+  - [PDF](/papers/2017BFS.pdf)
+
+- Yuan, S., **Fuji, N.**, Singh, S., & Borisov, D. (2017). Towards high resolution localised elastic full waveform inversion. *79th EAGE Conference & Exhibition*, Paris.  
+  - [PDF](/papers/2017YFSB_EAGE.pdf)
+
+[↑ Наверх](#top)
+<div id="y2016"></div>
+
+- Belahi, T., **Fuji, N.**, Singh, S. (2016). Viscoelastic Full Waveform Inversion of Sea Bottom Long Offset Seismic Data in Presence of Attenuation. *EAGE abstract*  
+  - [PDF](/papers/2016BSF.pdf)
+
+- **Fuji, N.**, Ovcharenko, O., Martin, R., & Cuvilliez, C. (2016). Simple and Accurate Operators Based on Taylor Expansion for 2D Elastic Seismogram Calculation under Geological Discontinuities with Regular Cartesian Grids. *EAGE abstract*  
+  - [PDF](/papers/2016FOMC.pdf)
+
+- Marjanović, M, **Fuji, N.**, Singh, S. & Belahi, T. (2016). Imaging Hydrothermal Circulation Paths along the East Pacific Rise Using Elastic Wave-equation Based Inversion Technique. *EAGE abstract*  
+  - [PDF](/papers/2016MFSB.pdf)
+
+- Yuan, S., **Fuji, N.**, Borisov, D., Singh, S. (2016). Localised Time-lapse 3D Elastic Full Waveform Inversion Using Finite-difference Injection and Wavefield Extrapolation. *EAGE abstract*  
+  - [PDF](/papers/2016YFBS.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2015"></div>
+
+- Villanueva-Robles, F., **Fuji, N.**, Shapiro, N., & Singh, S. (2015). Near-offset Trace Reconstruction from Sparse Ocean Bottom Seismometer Data Using Seismic Interferometry. *EAGE abstract*  
+  - [PDF](/papers/2015VFSS.pdf)
+
+- Borisov, D., Singh, S., & **Fuji, N.** (2015). An efficient method of 3-D elastic full waveform inversion using a finite-difference injection method for time-lapse imaging. *Geophysical Journal International*, 202, 1908–1922.  
+  - DOI: https://doi.org/10.1093/gji/ggv268
+  - [PDF](/papers/2015BSF_borisov.pdf)
+
+- Belahi, T., **Fuji, N.**, & Singh, S. (2015) Elastic Versus Viscoelastic Full Waveform Inversion of Near-offset and Wide-angle Data in the Presence of Attenuation, *EAGE abstract*  
+  - [PDF](/papers/2015BFS_belahi.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2014"></div>
+
+- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2014). Waveform inversion for localized three-dimensional seismic velocity structure in the lowermost mantle beneath the Western Pacific. *Geophysical Journal International*, 199, 1245–1267.  
+  - DOI: https://doi.org/10.1093/gji/ggu288
+  - [PDF](/papers/2014KKGF_konishi.pdf)
+
+- Kawai, K., Konishi, K., Geller, R.J., & **Fuji, N.** (2014). Methods for inversion of body-wave waveforms for localized three-dimensional seismic structure and an application to D'' structure beneath Central America. *Geophysical Journal International*.  
+  - DOI: https://doi.org/10.1093/gji/ggt520  
+  - [PDF](/papers/2014KKGF_kawai.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2013"></div>
+
+- Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2013). A hybrid method to compute short-period synthetic seismograms of teleseismic body waves in a 3-D regional model. *Geophysical Journal International*, 192, 230–247.  
+  - DOI: https://doi.org/10.1093/gji/ggs006
+  - [PDF](/papers/2013MCKF.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2012"></div>
+
+- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2012). Waveform inversion of broad-band body wave data for the S-velocity structure in the lowermost mantle beneath the Indian subcontinent and Tibetan Plateau. *Geophysical Journal International*, 191, 305–316.  
+  - DOI: https://doi.org/10.1111/j.1365-246X.2012.05614.x
+  - [PDF](/papers/2012KKGF.pdf)
+
+- **Fuji, N.**, Chevrot, S., Zhao, L., Geller, R.J., & Kawai, K. (2012). Finite-frequency structural sensitivities of short-period compressional body waves. *Geophysical Journal International*, 190, 522–540.  
+  - DOI: https://doi.org/10.1111/j.1365-246X.2012.05495.x
+  - [PDF](/papers/2012FCZGK.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2011"></div>
+
+- Monteiller, V., Chevrot, S., Komatitsch, D., & **Fuji, N.** (2011). A hybrid technique for 3-D modelling of high frequency teleseismic body waves in the Earth, *EAGE abstract*  
+  - [PDF](/papers/2011MCKF.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2010"></div>
+
+- **Fuji, N.** (2010). A methodology for inversion of seismic waveforms for elastic and anelastic structure and its preliminary application to the mantle transition zone beneath the Northwestern Pacific. *PhD thesis* University of Tokyo.  
+  - [PDF](/papers/2010PhDThesis.pdf)
+
+- **Fuji, N.**, Kawai, K., & Geller, R.J. (2010). A methodology for inversion of broadband seismic waveforms for elastic and anelastic structure and its application to the mantle transition zone beneath the northwestern Pacific. *Physics of the Earth and Planetary Interiors*, 180, 118–137.  
+  - DOI: https://doi.org/10.1016/j.pepi.2009.10.004  
+  - [PDF](/papers/2010FKG_proof.pdf)
+
+- Kawai, K., Geller, R.J., & **Fuji, N.** (2010). Waveform inversion for S-wave structure in the lowermost mantle beneath the Arctic: Implications for mineralogy and chemical composition. *Geophysical Research Letters*, 37, L16301.  
+  - DOI: https://doi.org/10.1029/2010GL043654  
+  - [PDF (final manuscript)](/papers/2010KGF_proof.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2009"></div>
+
+- Kawai, K., Sekine, S., **Fuji, N.**, & Geller, R.J. (2009). Waveform inversion for D" structure beneath northern Asia using Hi-net tiltmeter data. *Geophysical Research Letters*, 36, L039651.  
+  - DOI: https://doi.org/10.1029/2009GL039651  
+  - [PDF (final manuscript)](/papers/2009KSFG_proof.pdf)
+
+- Konishi, K., Kawai, K., Geller, R.J., & **Fuji, N.** (2009). MORB in the lowermost mantle beneath the western Pacific: Evidence from waveform inversion. *Earth and Planetary Science Letters*, 278, 219–225.  
+  - DOI: https://doi.org/10.1016/j.epsl.2008.12.002
+  - [PDF (final manuscript)](/papers/2009KKGF_proof.pdf)
+
+[↑ Наверх](#top)
+
+<div id="y2007"></div>
+
+- Kawai, K., Geller, R.J., & **Fuji, N.** (2007). Dʺ beneath the Arctic from inversion of shear waveforms. *Geophysical Research Letters*, 34, L031517.  
+  - DOI: https://doi.org/10.1029/2007GL031517  
+  - [PDF (final manuscript)](/papers/2007KGF_proof.pdf)
+
+- Kawai, K., Takeuchi, N., Geller, R.J., & **Fuji, N.** (2007). Possible evidence for a double crossing phase transition in Dʺ beneath Central America from inversion of seismic waveforms. *Geophysical Research Letters*, 34, L029642.  
+  - DOI: https://doi.org/10.1029/2007GL029642  
+  - [PDF (final manuscript)](/papers/2007KTGF_proof.pdf)
+
+[↑ Наверх](#top)

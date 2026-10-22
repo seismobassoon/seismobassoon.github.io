@@ -5,5 +5,5 @@ status = "alumni"
 date = "2015-01-01"
 draft = false
 +++
-01/2015-06/2015, M2R, encadrée par Eléonore Stutzmann, Jean-Paul Montagner et moi-même. Nous avons voulu extraire des fonctions de Green à l'aide de la corrélation croisée des bruits sismiques enregistrés au Groenland. Claude étant une étudiante sérieuse, elle a beaucoup travaillé avec Éléonore mais le temps s'est écoulé et nous n'avons pas pu modéliser des sismogrammes synthétiques. Par contre, nous avons beaucoup échangé pendant son stage et elle a approfondi sa compréhension de la sismologie théorique. Après sa thèse en physique à Rennes, elle est actuellement enseignante à l'Efrei Paris, la Grande école du numérique.
 
+01/2015-06/2015, M2R、エレオノール・スタッツマン、ジャン＝ポール・モンタニエとの共同指導。グリーンランドで記録された地震ノイズの相互相関からグリーン関数を抽出しようとしました。真面目な学生でエレオノールとよく作業しましたが、時間が足りず合成地震波形のモデリングまではできませんでした。それでもインターン中にたくさん議論し、理論地震学への理解を深めてくれました。レンヌで物理学の博士号を取得し、現在はEfrei Parisで教えています。

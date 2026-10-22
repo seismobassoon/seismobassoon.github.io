@@ -6,4 +6,4 @@ date = "2016-10-01"
 draft = false
 +++
 
-10/2016-02/2021, en thèse, encadrée par Satish Singh. Elle a dû accélérer le calcul de la direction du gradient lors de l'inversion des formes d'ondes et elle est venue vers moi pour formaliser le théorème de représentation de ce cas spécifique. Aline a animé mon cours de sismologie et activement participé à l'écriture du polycopié ouvert à tous les étudiants. Elle travaille à OPeRA (Organisme Pétrolier de Recherche Appliquée), organisme de recherche en imagerie sismique pour l'industrie pétrolière, issu d'un partenariat entre l'ADERA, TOTAL et l'UPPA (Université de Pau et des Pays de l'Adour).
+10/2016-02/2021, 博士課程、シン・サティッシュの指導学生。波形インバージョンにおける勾配方向の計算を高速化する必要があり、この特殊な場合の表現定理を定式化するために私のところに来ました。私の地震学の講義の演習を担当し、全学生に公開している講義ノートの執筆にも積極的に参加してくれました。現在はADERA、TOTAL、ポー・アドゥール大学（UPPA）の連携で生まれた石油産業向け地震イメージング研究機関OPeRAで働いています。

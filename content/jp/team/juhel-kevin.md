@@ -5,4 +5,5 @@ status = "alumni"
 date = "2013-03-01"
 draft = false
 +++
-03/2013-06/2013, M1, Université Pierre-Marie Curie, encadré par Lapo Boschi, Laëtitia Le Pourhiet et moi-même à l'UPMC. Venant du département de physique, il a travaillé sur le problème de la résolution des ondes de surface. Nous avons testé l'interférométrie sismique à partir des données synthétiques. Ensuite, il a fait sa thèse avec Jean-Paul Montagner et Martin Vallée sur les signaux précoces de perturbation du champ de gravité terrestre liés à de multiples séismes. Il est postdoc à Nantes.
+
+03/2013-06/2013, ピエール・マリー・キュリー大学 M1、ラポ・ボスキ、レティシア・ル・プリエとの共同指導。物理学科出身で、表面波の分解能の問題に取り組み、合成データで地震波干渉法を試しました。その後ジャン＝ポール・モンタニエとマルタン・ヴァレのもとで、大地震に伴う重力場の早期擾乱信号をテーマに博士号を取得。現在はナントでポスドクです。

@@ -1,9 +1,9 @@
 +++
-title = "Original compositions"
+title = "Compositions originales"
 layout = "list"
 draft = false
 +++
-*The scores marked in red are protected by SACEM and their use must be declared (first to me).*
+*Les partitions marquées en rouge sont protégées par la SACEM et leur utilisation doit être déclarée (d’abord auprès de moi).*
 
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}

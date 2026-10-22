@@ -5,4 +5,5 @@ status = "alumni"
 date = "2025-02-01"
 draft = false
 +++
-02/2025-08/2025, M2R, encadré par Taichi Kawamura et moi-même pour explorer des méthodologies d'inversion pour des modèles de la structure 1D de la lune à partir des données antennes. Haiyuan est embauché en tant qu'ingénieur-chercheur dans une boîte pétrolière en Chine.
+
+02/2025-08/2025, M2R, supervised by Taichi Kawamura and me, to explore inversion methodologies for 1D models of the lunar structure from array data. Haiyuan has been hired as a research engineer at an oil company in China.

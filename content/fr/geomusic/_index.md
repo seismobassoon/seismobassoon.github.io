@@ -1,5 +1,5 @@
 +++
-title = "PhiloGaïa projects"
+title = "Projets PhiloGaïa"
 layout = "list"
 sortBy = "date"
 sortOrder = "asc"

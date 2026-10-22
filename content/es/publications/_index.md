@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Publicaciones"
 layout = "list"
 draft = false
 +++

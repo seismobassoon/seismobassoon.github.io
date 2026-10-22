@@ -1,9 +1,9 @@
 +++
-title = "Original compositions"
+title = "Eigene Kompositionen"
 layout = "list"
 draft = false
 +++
-*The scores marked in red are protected by SACEM and their use must be declared (first to me).*
+*Die rot markierten Partituren sind durch die SACEM geschützt; ihre Verwendung muss (zuerst bei mir) angemeldet werden.*
 
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
@@ -13,6 +13,9 @@ draft = false
 
 1. 2024 — Clarinette dans la lune
   {{< score folder="2024Melies" protected="true" >}}
+
+1. 2024 - Sismologie : la musique de la terre pour Jean-Paul Montagner
+  {{< score folder="2024JPM" protected="true" >}}
 
 
 1. 2023 - Enigma of the Evolution of the Earth

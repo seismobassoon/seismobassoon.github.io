@@ -5,6 +5,5 @@ status = "alumni"
 date = "2022-11-01"
 draft = false
 +++
-11/2022-04/2024, encadrée par Véronique Van Elewyck et moi-même. Rebekah a soutenu sa thèse à VirginiaTech 
-devant le jury qui comprend Shunsaku Horiuchi, un vieux ami en physique quantique. C'était la première fois que
-j'ai travaillé sur la physique des hautes énergies et j'ai beaucoup appris grâce à elle.
+
+11/2022-04/2024, ファン・エレウィック・ヴェロニックとの共同指導。レベッカはバージニア工科大学で博士号を取得しました。審査員には量子物理の古い友人である堀内俊作さんもいました。高エネルギー物理の研究は初めてで、彼女のおかげで多くを学びました。

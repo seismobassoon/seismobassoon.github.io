@@ -1,5 +1,5 @@
 +++
-title = "Peer-reviewed papers"
+title = "Publikationen"
 layout = "list"
 draft = false
 +++

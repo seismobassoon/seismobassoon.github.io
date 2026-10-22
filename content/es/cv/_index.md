@@ -1,5 +1,5 @@
 +++
-title = "Moi"
+title = "Quién soy"
 translationKey = "about"
 draft = false
 +++

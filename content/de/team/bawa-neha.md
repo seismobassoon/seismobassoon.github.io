@@ -6,4 +6,4 @@ date = "2023-02-01"
 draft = false
 +++
 
-02/2023-06/2023, M2, encadré par Ssu-Ting Lai et moi-même sur le calcul des dérivées Fréchet dans une roche cylindrique. 
+02/2023–06/2023, M2, betreut von Ssu-Ting Lai und mir selbst, zur Berechnung von Fréchet-Ableitungen in einer zylindrischen Gesteinsprobe.

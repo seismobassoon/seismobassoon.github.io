@@ -6,4 +6,4 @@ date = "2015-01-01"
 draft = false
 +++
 
-01/2015-06/2015, M2R GPX, encadré par Roland Martin et moi-même. Nous avons développé un code de différence finie « OptimallyAccurate2D » avec des discontinuités qui ne coincident pas avec les grilles. Cette étude est publiée un an plus tard et le code est toujours disponible sur mon Github. Oleg a eu la meilleure note pendant sa soutenance de Master. Il a ensuite commencé sa thèse à KAUST puis il est actuellement data scientist chez ExxonMobil.
+01/2015-06/2015, M2R GPX, orientado por Roland Martin e por mim. Desenvolvemos o código de diferenças finitas “OptimallyAccurate2D”, com descontinuidades que não coincidem com a malha. O estudo foi publicado um ano depois e o código continua disponível no meu GitHub. O Oleg obteve a melhor nota na defesa do mestrado. Fez depois o doutoramento na KAUST e é hoje cientista de dados na ExxonMobil.

@@ -1,5 +1,5 @@
 +++
-title = "News"
+title = "ニュース"
 layout = "list"
 draft = false
 +++

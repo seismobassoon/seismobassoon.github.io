@@ -5,4 +5,5 @@ status = "alumni"
 date = "2015-01-01"
 draft = false
 +++
-01/2015-06/2015, M2R, encadré par Hervé Chauris et moi-même. Très motivé et qualifié en physique, Hao a travaillé sur la migration sismique \textit{time-lapse}. Ces résultats ont été utiles pour comprendre les problématiques, notamment dans le cadre de l'inversion des formes d'ondes localisée que Shihao Yuan et moi-même avons développé au cours du temps. Hao a continué à étudier le sujet en cas de présence d'une couche très atténuante avec Hervé et a soutenu en 2019. Il travaille pour le CGG actuellement.
+
+01/2015-06/2015, M2R、エルヴェ・ショーリスとの共同指導。物理に強くとても意欲的な学生で、タイムラプス地震波マイグレーションに取り組みました。その結果は、袁世豪と私が開発してきた局所波形インバージョンの問題点を理解するのに役立ちました。その後もエルヴェのもとで強い減衰層がある場合を研究し、2019年に博士号を取得。現在はCGGで働いています。

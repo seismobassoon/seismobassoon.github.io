@@ -1,4 +1,3 @@
-
 +++
 title = "Yuan, Shihao"
 current_role = "PhD*"
@@ -6,4 +5,5 @@ status = "alumni"
 date = "2014-10-01"
 draft = false
 +++
-10/2014-04/2018 en thèse encadré par Satish Singh et moi-même. Je connaissais Shihao depuis son M2 à l'IPGP. Il s'est intégré dans l'équipe de géosciences marines et a commencé à développer la méthode de l'inversion des formes d'ondes localisée \textit{time-lapse}. Nous avons consacré un an entier sur la (re)formalisation du théorème de représentation en cas d'une petite perturbation, qui pourrait finalement être interprété comme une théorie de perturbation. Même si j'avais des expériences dans ce genre de théorie, c'était avec Shihao que j'avais pu théoriquement connecter de nombreuses techniques existantes en sismologie théorique et numérique (l'annexe de notre premier article est toujours une de mes œuvres dont je suis fier). Avec Dmitry et Satish, nous avons pu avancer sur la méthodologie et j'envisage d'utiliser le code que nous avons concocté pour imager les chambres magmatiques avec Milena dès son arrivée à l'IPGP en septembre 2021. Puisque Shihao a toujours été intéressé par la sismologie rotationelle, il a fait sno postdoc chez Heiner Igel à Munich, en participant à plusieurs projets autour de cette nouvelle technologie en sismologie. Actuellement, il est devenu professeur (CPJ) à l'université Gustav Eiffel.
+
+10/2014-04/2018, 博士課程、シン・サティッシュとの共同指導。IPGPの修士時代から知っていました。海洋地球科学チームに入り、局所的なタイムラプス波形インバージョン手法の開発を始めました。小さな摂動に対する表現定理の（再）定式化に丸1年を費やし、最終的にはそれを摂動論として解釈できるようになりました。この種の理論には経験がありましたが、理論・数値地震学の既存の多くの手法を理論的に結びつけられたのは彼のおかげです（最初の論文の付録は今でも私の誇りです）。ドミトリーとサティッシュとともに手法を発展させ、2021年9月にIPGPに着任したミレナとこのコードでマグマ溜まりをイメージングする予定です。回転地震学に関心があったので、ミュンヘンのハイナー・イゲルのもとでポスドクをし、この新しい技術に関するプロジェクトに参加しました。現在はギュスターヴ・エッフェル大学の教授（CPJ）です。

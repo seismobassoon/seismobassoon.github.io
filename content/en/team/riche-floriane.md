@@ -5,4 +5,5 @@ status = "alumni"
 date = "2025-11-01"
 draft = false
 +++
-11/2025-04/2026, L2, un stage sur la revue des études sur le mont Fuji. Elle a le courage de se plonger dans les publications de domaines variés : géochimie, volcanologie, pétrologie pour faire la synthèse.
+
+11/2025-04/2026, L2, an internship reviewing studies on Mount Fuji. She has the courage to dive into publications from many fields — geochemistry, volcanology, petrology — to write a synthesis.

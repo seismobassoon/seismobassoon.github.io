@@ -13,7 +13,23 @@ breadcrumbs: false
 
 ---
 
+## 2026
+
+Drique, L., Dalaison, M., Pinel-Puysségur, B., Fuji, N., 2026 (supervision)  
+Observations of InSAR closure phase and coherence over crops in the Thessaloniki region, Greece.  
+*16th European Conference on Synthetic Aperture Radar (EUSAR 2026)*, 104–109.
+
+Goos, I.A., Fuji, N., Durand, S., Van Elewyck, V., Coelho, J.A.B., Mittelstaedt, E., Deniz, Y., 2026 (supervision)  
+Sensitivity of neutrino oscillations to the Earth's interior properties.  
+*Earth and Planetary Science Letters*, 696, 120354.
+
+---
+
 ## 2025
+
+Fuji, N., Duretz, T., 2025 (preprint)  
+Optimally accurate operators for partial differential equations.  
+*arXiv:2505.02320*.
 
 Fuji, N., 2025  
 « Évolution(s) » vue(s) par un géophysicien.  

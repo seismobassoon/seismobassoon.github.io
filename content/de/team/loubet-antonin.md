@@ -6,5 +6,4 @@ date = "2018-02-01"
 draft = false
 +++
 
-
-02/2018-06/2018, M2R encadré par Philippe Lognonné et moi-même. Antonin a contribué au calcul des sismogrammes synthétiques pour les modèles de Mars en utilisant Direct Solution Method (DSM). Il est actuellement cadre de la fonction publique.
+02/2018–06/2018, M2R, betreut von Philippe Lognonné und mir selbst. Antonin trug zur Berechnung synthetischer Seismogramme für Marsmodelle mit der Direct Solution Method (DSM) bei. Er ist heute im höheren öffentlichen Dienst tätig.

@@ -1,9 +1,9 @@
 +++
-title = "Original compositions"
+title = "作品一覧"
 layout = "list"
 draft = false
 +++
-*The scores marked in red are protected by SACEM and their use must be declared (first to me).*
+*赤で示した楽譜はSACEMに登録されており、使用の際は（まず私に）届け出が必要です。*
 
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
@@ -16,6 +16,7 @@ draft = false
 
 1. 2024 - Sismologie : la musique de la terre pour Jean-Paul Montagner
   {{< score folder="2024JPM" protected="true" >}}
+
 
 1. 2023 - Enigma of the Evolution of the Earth
   {{< score folder="2023E3" protected="true" >}}

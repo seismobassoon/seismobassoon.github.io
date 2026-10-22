@@ -6,7 +6,6 @@ date = "2021-12-01"
 draft = false
 +++
 
-Doctorante 12/21-09/2025 encadrée par John Armitage, Christophe Andermann, Niel Hovius et moi-même.
-
-Kapiolani est arrivée à Paris en 2021 après son M2 en hydrologie. Nous avons simulé le changement saisonnier de la vitesse apparente des ondes sismiques à partir de la modélisation du transport de l'eau.
-Grâce à Kapiolani, j'ai pu faire un terrain au Népal avec la dream team.
+博士課程 12/2021-09/2025、ジョン・アーミテージ、クリストフ・アンダーマン、ニールス・ホヴィウスとの共同指導。
+水文学の修士を終えて2021年にパリに来ました。水の輸送のモデリングから地震波の見かけ速度の季節変化をシミュレーションしました。
+カピオラニのおかげで、ドリームチームとネパールでフィールドワークをすることができました。

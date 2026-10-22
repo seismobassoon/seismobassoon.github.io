@@ -1,9 +1,9 @@
 +++
-title = "Original compositions"
+title = "Egne komposisjoner"
 layout = "list"
 draft = false
 +++
-*The scores marked in red are protected by SACEM and their use must be declared (first to me).*
+*Partiturene merket med rødt er beskyttet av SACEM, og bruk av dem må meldes (først til meg).*
 
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
@@ -17,9 +17,9 @@ draft = false
 1. 2024 - Sismologie : la musique de la terre pour Jean-Paul Montagner
   {{< score folder="2024JPM" protected="true" >}}
 
+
 1. 2023 - Enigma of the Evolution of the Earth
   {{< score folder="2023E3" protected="true" >}}
-
 
 1. 2022 - Nachtmusik
   {{< score folder="2022quartett1" protected="true" >}}

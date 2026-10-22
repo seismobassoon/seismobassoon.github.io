@@ -192,7 +192,7 @@ disablePathToLower = false
         weight = 4
     [[languages.jp.menu.main]]
         name = "🎓"
-        pre = "Publications"
+        pre = "業績"
         pageRef = "publications/"
         weight = 5
     [[languages.jp.menu.main]]
@@ -207,7 +207,7 @@ disablePathToLower = false
         weight = 7
     [[languages.jp.menu.main]]
         name = "✏️"
-        pre = "Compositions"
+        pre = "作品"
         url = "compositions/"
         weight = 8
 
@@ -246,7 +246,7 @@ disablePathToLower = false
 
    [[languages.de.menu.main]]
         name = "🎓"
-        pre = "Publications"
+        pre = "Publikationen"
         pageRef = "publications/"
         weight = 5
 
@@ -263,7 +263,7 @@ disablePathToLower = false
       weight = 7
 [[languages.de.menu.main]]
         name = "✏️"
-        pre = "Compositions"
+        pre = "Kompositionen"
         url = "compositions/"
         weight = 8
    
@@ -297,7 +297,7 @@ disablePathToLower = false
 
         [[languages.no.menu.main]]
         name = "🎓"
-        pre = "Publications"
+        pre = "Publikasjoner"
         pageRef = "publications/"
         weight = 5
 
@@ -313,7 +313,7 @@ disablePathToLower = false
         weight = 7
 [[languages.no.menu.main]]
         name = "✏️"
-        pre = "Compositions"
+        pre = "Komposisjoner"
         url = "compositions/"
         weight = 8
         
@@ -361,6 +361,12 @@ disablePathToLower = false
         pre = "地球音樂"
         url = "geomusic/"
         weight = 7
+    [[languages.cn.menu.main]]
+        name = "✏️"
+        pre = "作品"
+        url = "compositions/"
+        weight = 8
+
 
 
     [languages.pt]
@@ -412,6 +418,12 @@ disablePathToLower = false
             pre = "Geomúsica"
             url = "geomusic/"
             weight = 7
+        [[languages.pt.menu.main]]
+            name = "✏️"
+            pre = "Composições"
+            url = "compositions/"
+            weight = 8
+
 
 
     [languages.ru]
@@ -463,6 +475,12 @@ disablePathToLower = false
             pre = "Геомузыка"
             url = "geomusic/"
             weight = 7
+        [[languages.ru.menu.main]]
+            name = "✏️"
+            pre = "Сочинения"
+            url = "compositions/"
+            weight = 8
+
 
 
 
@@ -516,6 +534,12 @@ disablePathToLower = false
             pre = "Geomusica"
             url = "geomusic/"
             weight = 7
+        [[languages.it.menu.main]]
+            name = "✏️"
+            pre = "Composizioni"
+            url = "compositions/"
+            weight = 8
+
 
 
     [languages.es]
@@ -567,3 +591,9 @@ disablePathToLower = false
             pre = "Geomúsica"
             url = "geomusic/"
             weight = 7
+        [[languages.es.menu.main]]
+            name = "✏️"
+            pre = "Composiciones"
+            url = "compositions/"
+            weight = 8
+

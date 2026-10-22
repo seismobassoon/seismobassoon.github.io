@@ -4,27 +4,24 @@ draft = false
 title = "Curriculum Vitæ"
 +++
 
+I was born in Amagasaki, Hyōgo, on Friday, November 26th, 1982.
 
-I was born in Hyogo, one Friday, November 26th, 1982 and I experienced the Kobe earthquake when I was 12 years old. 
-However, instead of making me decide to become a seismologist, I just learned that the earthquake prediction is impossible
-and that the media and the government had been emphasising the potential danger of only the "big one" in Tokyo region but not elsewhere, 
-while it is natural to have catastrophic earthquakes whenever and wherever in Japan.
+In 1995, when I was 12 years old, I experienced the Kobe earthquake, shortly before failing the entrance exam of a private junior high school.
+However, instead of making me decide to become a seismologist, it only taught me that earthquake prediction is impossible, and that one should not simply believe the seismologists on TV: the media and the government had been emphasising the potential danger of only the "Big One" in the Tokyo region, as if there were no danger elsewhere, while it is natural to have catastrophic earthquakes whenever and wherever in Japan. Looking back, this reaction may have been naive, but it shaped me.
 
-I started my studies at University of Tokyo in 2001 but most of the time I found myself in the corridor of students' house to work on my bassoon playing, under the sueprvision of Hitomi Sugawara, who has treated me like his son until his passing way on February 2022.
+Dreaming of the capital, I entered the University of Tokyo in 2001, where I stayed nine years in total. Most of the time, however, I found myself in the corridor of the students' house or with the university orchestra, working on my bassoon playing under the supervision of Hitomi Sugawara, honorary member of the International Double Reed Society, who treated me like his son until his passing in February 2022.
 
-I defended [my thesis in 2010](https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642) on a new methodology to invert seismic waveforms for elastic and anelastic structure, under the supervision of Robert J. Geller at University of Tokyo.
+I defended [my thesis in 2010](https://ndlsearch.ndl.go.jp/books/R100000002-I000011108642) on a new methodology to invert seismic waveforms for elastic and anelastic structure, under the supervision of Robert J. Geller at the University of Tokyo.
 
-I then quitted Japan, attracted by olive oil, to work with Sébastien Chevrot in Toulouse to optimise the computation of high-frequency waveform Fréchet derivatives from 2010.
+Right after my thesis, I left Japan, attracted by olive oil (and cassoulet), to work from 2010 to 2012 as a postdoc with Sébastien Chevrot at Université Toulouse III, optimising the computation of high-frequency waveform Fréchet derivatives (sensitivity kernels).
 
-I was recruited as an associate professor at [l'Institut de physique du globe de Paris](https://www.ipgp.fr) in 2012, had been the pedagogic head of international master (GPX and IMSES) from 2012 to 2020, elected member of the scientific council of IPGP from 2016 to 2019, scientific council member of global network GEOSCOPE from 2016 to 2022, and responsable of the theme *Earth's and planetary interiors* from 2016 to 2020. 
+I was recruited as an associate professor at [l'Institut de physique du globe de Paris](https://www.ipgp.fr) in 2012. I was the pedagogic head of the international master's programmes (GPX and IMSES) from 2012 to 2020, elected member (rank B) of the scientific council of IPGP from 2016 to 2019, member of the scientific council of the global network GEOSCOPE from 2016 to 2022, and head of the theme *Earth's and planetary interiors* from 2016 to 2020.
 
-I finally defended my [habilitation à diriger des recherches (HDR)](https://hal.science/tel-05081045) in 2022 and became a junior member of [l'Institut universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) from 2022.
+I defended my [habilitation à diriger des recherches (HDR)](https://hal.science/tel-05081045) in 2022 and have been a junior member of [l'Institut universitaire de France](https://www.iufrance.fr/les-membres-de-liuf/membre/2392-nobuaki-fuji.html) since 2022.
 
-From 2025, I am the head of seismology laboratory in IPGP.
+Since 2025, I have been the head of the seismology team at IPGP.
 
-{{< img "images/parcours.png" "Parcours">}}
-
-
+It looks like I will most probably stay in France for the rest of my life.
 
 {{< img "images/parcours.png" "Parcours">}}
 {{< entry-card "cv/details/CV_long.md" >}}

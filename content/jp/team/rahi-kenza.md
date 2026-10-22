@@ -6,5 +6,4 @@ date = "2016-06-01"
 draft = false
 +++
 
-
-06/2019-07/2019, L2, encadrée par moi-même. Kenza est une étudiante très enthousiaste. Elle a voulu faire ce stage avec moi, même si un stage en L2 n'est pas quelque chose de commun. Elle a travaillé avec Roxane sur « MarsMTInversion ». 
+06/2019-07/2019, 学部2年。とても熱心な学生で、学部2年でのインターンシップは珍しいにもかかわらず私のところに来てくれました。ロクサンヌと一緒に「MarsMTInversion」に取り組みました。

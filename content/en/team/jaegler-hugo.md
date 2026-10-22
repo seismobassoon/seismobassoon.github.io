@@ -5,4 +5,5 @@ status = "alumni"
 date = "2013-06-01"
 draft = false
 +++
-06/2013-07/2013, trosième année, EOST Strasbourg. Malgré la courte durée du stage, Hugo m'a beaucoup impressionné. Venant de l'EOST, il a voulu m'aider à terminer mon code « DSM Kernel Suite ». Il a ajouté des outils utiles en python pour faciliter la visualisation, qui sont toujours utilisés même aujourd'hui. Hugo est actuellement ingénieur-chercheur à l'institut de radioprotection et de sûreté nucléaire, dans un labo de radiochimie et de chimie analytique.
+
+06/2013-07/2013, third year, EOST Strasbourg. Despite the short internship, Hugo impressed me a lot. Coming from EOST, he wanted to help me finish my code "DSM Kernel Suite". He added useful Python tools for visualisation, which are still used today. Hugo is now a research engineer at the French Institute for Radiological Protection and Nuclear Safety, in a radiochemistry and analytical chemistry lab.

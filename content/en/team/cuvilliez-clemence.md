@@ -6,4 +6,4 @@ date = "2015-06-01"
 draft = false
 +++
 
-07/2015-09/2015, troisième année à l'École nationale supérieure de géologie, Nancy. En arrivant juste après le stage d'Oleg, Clémence a repris son code de l'opérateur optimal en différence finie. Elle a nettoyé le code et rédigé le proceeding EAGE avec moi pendant le stage. Étant guitariste, Matthias, Clémence et moi-même avons fait des petits concerts dans la rue parisienne. Elle est devenue géophysicienne à TotalEnergies. 
+07/2015-09/2015, third year at the École nationale supérieure de géologie, Nancy. Arriving right after Oleg's internship, Clémence took over his finite-difference optimal-operator code. She cleaned up the code and wrote an EAGE proceeding with me during the internship. As she is a guitarist, Matthias, Clémence and I gave a few small street concerts in Paris. She became a geophysicist at TotalEnergies.

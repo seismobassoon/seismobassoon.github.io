@@ -5,4 +5,5 @@ status = "alumni"
 date = "2014-01-01"
 draft = false
 +++
-01/2014-06/2014, M2R GPX, 10/2014-08/2015, début de thèse financée par CGG Mexico, encadré par Nikolaï Shapiro et moi-même. Le sujet avait pour but de proposer une méthodologie d'extrapolation des champs d'ondes à partir des données marines avec des sources actives. Avec sa dynamique, Fernando a pu publié deux articles EAGE avec nous sur ce projet en un an. Cela a fait une très bonne base pour la thèse de Shihao car j'avais beaucoup appris sur les théorèmes de représentation. Pendant la crise économique dans son entreprise, il a dû malheureusement changer de sujet de thèse. 
+
+01/2014–06/2014, M2R GPX, dann 10/2014–08/2015 Beginn einer von CGG Mexiko finanzierten Promotion, betreut von Nikolaï Shapiro und mir selbst. Ziel war eine Methode zur Wellenfeldextrapolation aus marinen Daten mit aktiven Quellen. Mit seinem Elan veröffentlichte Fernando innerhalb eines Jahres zwei EAGE-Beiträge mit uns. Das war eine sehr gute Grundlage für Shihaos Promotion, denn ich habe dabei viel über Darstellungstheoreme gelernt. Während der Wirtschaftskrise in seinem Unternehmen musste er leider das Thema seiner Promotion wechseln.

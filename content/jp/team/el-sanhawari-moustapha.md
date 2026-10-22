@@ -6,5 +6,4 @@ date = "2013-11-01"
 draft = false
 +++
 
-
-11/2013-01/2014, Post-master, encadré par Satish Singh et moi-même. Venant de Telecom Paris, Moustapha a nettoyé le code de l'extrapolation de champs d'ondes sismiques dans un milieu acoustique. En appliquant cet outil aux données de Sumatra, je me suis rendu compte de la limite de la méthodologie, qui m'a ensuite amené à développer le code d'extrapolation à l'aide des fonctions Green complètes avec Shihao Yuan. Moustapha est aujourd'hui consultant informatique.
+11/2013-01/2014, 修士修了後のインターン、シン・サティッシュとの共同指導。テレコム・パリ出身で、音響媒質中の地震波動場外挿コードを整理してくれました。このツールをスマトラのデータに適用したことで手法の限界に気づき、後に袁世豪と完全なグリーン関数を用いた外挿コードを開発するきっかけとなりました。現在はITコンサルタントです。

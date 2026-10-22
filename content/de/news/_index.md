@@ -1,5 +1,5 @@
 +++
-title = "Nyheter"
+title = "Aktuelles"
 layout = "list"
 draft = false
 +++

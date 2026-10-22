@@ -6,14 +6,9 @@ date = "2012-10-01"
 draft = false
 +++
 
-10/2012–04/2017, thèse, encadré par moi-même et Satish Singh (IPGP).
-
-Thomas commença sa thèse en même temps que moi à l'IPGP, i.e. il est mon premier étudiant « officiel ». Venant de l'école nationale supérieure des mines de Nancy et M2 en IDEA league (ETH Zürich, RWTH Aachen, TU Delft), il était déjà ingénieur et avait de très solides bases en codage.
-
-Le sujet était le développement d'une méthodologie d'inverser des formes d'ondes pour la structure élastique et anélastique en domaine temporel. Bien qu'il y existât quelques codes développés par d'anciens thésards, il n'était pas évident pour nous de les synthétiser pour commencer le projet, étant donné une grande disparité des codes existants.
-
-Thomas et moi-même avons pris la décision de centraliser ces codes pour pouvoir mieux les maintenir, ce qui allait créer le dépôt de l'IPGP sur GitHub en 2016 avec l'aide de Matthias Meschede. Sa curiosité et son intelligence ont été les moteurs de sa recherche malgré quelques blocages théoriques que nous avons dû rencontrer au cours de sa thèse.
-
-Il a beaucoup aidé Milena et moi-même pour l'imagerie de la dorsale est-Pacifique. Au bout de cinq ans de thèse, Thomas a pu appliquer la méthodologie aux données réelles (Sumatra), ce qui a été publié dans des proceedings par les pairs à plusieurs reprises.
-
-Thomas a ensuite décidé de se lancer dans la science des données et il est maintenant manager dans un secteur privé parisien. Il participe activement à des activités comme le hackathon à l'IPGP avec Matthias, Milena et John.
+10/2012–04/2017, Promotion, betreut von mir selbst und Satish Singh (IPGP).
+Thomas begann seine Promotion zur gleichen Zeit, als ich ans IPGP kam – er ist also mein erster „offizieller“ Doktorand. Er kam von der École nationale supérieure des mines de Nancy und einem M2 der IDEA League (ETH Zürich, RWTH Aachen, TU Delft), war bereits Ingenieur und hatte sehr solide Programmierkenntnisse.
+Thema war die Entwicklung einer Methode zur Wellenforminversion für elastische und anelastische Strukturen im Zeitbereich. Zwar gab es einige Codes früherer Doktoranden, doch angesichts ihrer großen Unterschiedlichkeit war es nicht einfach, sie für den Projektstart zusammenzuführen.
+Thomas und ich beschlossen, diese Codes zu zentralisieren, um sie besser pflegen zu können – daraus entstand 2016 mit Hilfe von Matthias Meschede das GitHub-Repository des IPGP. Seine Neugier und Intelligenz trieben seine Forschung voran, trotz einiger theoretischer Hürden während der Promotion.
+Er half Milena und mir sehr bei der Bildgebung des Ostpazifischen Rückens. Nach fünf Jahren konnte Thomas die Methode auf reale Daten (Sumatra) anwenden, was mehrfach in begutachteten Proceedings veröffentlicht wurde.
+Danach entschied sich Thomas für Data Science und ist heute Manager in der Privatwirtschaft in Paris. Er beteiligt sich aktiv an Aktivitäten wie dem Hackathon am IPGP mit Matthias, Milena und John.
