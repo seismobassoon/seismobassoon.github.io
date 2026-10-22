@@ -5,6 +5,9 @@ draft = false
 +++
 *Партитуры, отмеченные красным, защищены SACEM, и их использование необходимо заявлять (сначала мне).*
 
+1. 2026 — La vie privée des volcans (совместное произведение, основанное на идеях вулканолога Фиделя Косты)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 

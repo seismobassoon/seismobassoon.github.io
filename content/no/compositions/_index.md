@@ -5,6 +5,9 @@ draft = false
 +++
 *Partiturene merket med rødt er beskyttet av SACEM, og bruk av dem må meldes (først til meg).*
 
+1. 2026 — La vie privée des volcans (et samarbeidsverk basert på innsikten til vulkanolog Fidel Costa)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 

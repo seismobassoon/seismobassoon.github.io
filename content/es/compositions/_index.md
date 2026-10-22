@@ -5,6 +5,9 @@ draft = false
 +++
 *Las partituras marcadas en rojo están protegidas por la SACEM y su uso debe declararse (primero a mí).*
 
+1. 2026 — La vie privée des volcans (obra colaborativa basada en las ideas del vulcanólogo Fidel Costa)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 

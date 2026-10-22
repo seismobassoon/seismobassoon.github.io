@@ -5,6 +5,9 @@ draft = false
 +++
 *The scores marked in red are protected by SACEM and their use must be declared (first to me).*
 
+1. 2026 — La vie privée des volcans (a collaborative work drawing on volcanologist Fidel Costa’s insights)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 

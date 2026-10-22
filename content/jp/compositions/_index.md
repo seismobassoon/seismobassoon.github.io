@@ -5,6 +5,9 @@ draft = false
 +++
 *赤で示した楽譜はSACEMに登録されており、使用の際は（まず私に）届け出が必要です。*
 
+1. 2026 — La vie privée des volcans (火山学者フィデル・コスタとの対話から生まれた共同作品)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 

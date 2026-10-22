@@ -32,7 +32,8 @@ create_link () {
 # --------------------------
 # 1️⃣ Paramètres
 # --------------------------
-localDropbox="/Users/nobuaki/Dropbox (IPGP)/shared_for_website"
+localDropbox="/Users/nobuaki/IPGP Dropbox/nobuaki fuji/shared_for_website"
+[ -d "$localDropbox" ] || localDropbox="/Users/nobuaki/Dropbox (IPGP)/shared_for_website"
 #files_txt="files.txt"
 json_out="data/dropbox.json"
 mkdir -p data
@@ -63,6 +64,7 @@ perc
 pf
 hp
 uk
+sc
 poem
 )
 
@@ -82,7 +84,7 @@ declare -A nameMap=(
   [hr]="Horn" [hr1]="Horn I" [hr2]="Horn II"
   [tp]="Trumpet" [tp1]="Trumpet I" [tp2]="Trumpet II"
   [tb]="Trombone" [tb1]="Trombone I" [tb2]="Trombone II" [btb]="Bass Trombone" [tu]="Tuba"
-  [dig]="Didgeridoo" [timp]="Timpani" [uk]="Ukulele" [poem]="Poem"
+  [sc]="SoundCube" [dig]="Didgeridoo" [timp]="Timpani" [uk]="Ukulele" [poem]="Poem"
   [perc]="Percussion" [pf]="Piano" [hp]="Harp"
 )
 

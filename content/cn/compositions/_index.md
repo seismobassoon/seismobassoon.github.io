@@ -5,6 +5,9 @@ draft = false
 +++
 *以紅色標示的樂譜受 SACEM（法國作詞作曲家協會）保護，使用前須先（向我）申報。*
 
+1. 2026 — La vie privée des volcans (與火山學家 Fidel Costa 合作、源自其見解的作品)
+ {{< score folder="2026VolcansViePrivee" protected="true" >}}
+
 1. 2025 — Ariège hydratée
  {{< score folder="2025AriegeHydratee" protected="true" >}}
 
