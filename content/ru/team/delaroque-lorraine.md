@@ -6,4 +6,4 @@ date = "2023-02-01"
 draft = false
 +++
 
-02/2023-06/2023, M2R. Lorraine est venue de l'université Grenoble Alpes et elle a développé un portail python pour télécharger des données et calculer des sismogrammes synthétiques à l'aide du dsmpy. Lorraine est actuellement en thèse avec Antoine Lucas et Taichi Kawamura en planétologie.
+02/2023–06/2023, M2R. Лоррен пришла из Университета Гренобль-Альпы и разработала Python-портал для загрузки данных и расчёта синтетических сейсмограмм с помощью dsmpy. Сейчас она аспирантка по планетологии у Антуана Люка и Тайти Кавамуры.

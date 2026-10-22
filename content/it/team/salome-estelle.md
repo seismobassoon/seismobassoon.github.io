@@ -6,4 +6,4 @@ date = "2025-06-01"
 draft = false
 +++
 
-06/2025-08/2025, deuxième année à l'École nationale supérieure de géologie, Nancy, encadrée par Véronique Van Elewyck et moi-même. Estelle a adapté Neurthino.jl dans ma nouvelle plateforme flexOPT.jl pour rendre possible le calcul des oscillogrammes de neutrino pour des modèles 2D/3D hétérogènes de la Terre.
+06/2025-08/2025, secondo anno all’École nationale supérieure de géologie di Nancy, supervisionata da Véronique Van Elewyck e da me. Estelle ha adattato Neurthino.jl alla mia nuova piattaforma flexOPT.jl, rendendo possibile il calcolo di oscillogrammi di neutrini per modelli 2D/3D eterogenei della Terra.

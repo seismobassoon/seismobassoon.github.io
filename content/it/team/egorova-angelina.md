@@ -6,5 +6,4 @@ date = "2013-01-01"
 draft = false
 +++
 
-
-01/2013-06/2013, M2R, encadrée par Satish Singh et moi-même. Angelina était dans la première promotion de GPX (Master 2 en géophysique d'exploration) et donc elle était officiellement ma première stagiaire de M2. Le projet avait pour but d'explorer la structure interne de la zone de fracture sous la ride 90° Est. Nous avons malheureusement été contraints d'abandonner ce stage.
+01/2013-06/2013, M2R, supervisionata da Satish Singh e da me. Angelina faceva parte della prima promozione di GPX (M2 in geofisica di esplorazione) ed è stata quindi ufficialmente la mia prima tirocinante di M2. Il progetto mirava a esplorare la struttura interna della zona di frattura sotto la dorsale Ninety East. Purtroppo abbiamo dovuto abbandonare il tirocinio.

@@ -49,7 +49,6 @@ J’ai récemment obtenu plusieurs financements doctoraux, notamment autour de l
 
 ![Schéma Caroline](/images/caro_schema.jpg)
 
-*Figure suggérée — `caro_schema.jpg`*  
 Schéma simplifié d’une série d’études tomographiques ciblant le manteau sous la plaque Caroline. Nos images tomographiques, couplées à des prédictions pétrologiques, suggèrent qu’un panache mantellique profond, à proximité immédiate de la limite du LLVP pacifique/hawaïen, pourrait entraîner du fer depuis la limite noyau-manteau. Dans la zone de transition située au-dessus, on identifie un panache plus superficiel, qui alimente la dorsale d’Eauripik et pourrait contribuer à la dynamique rapide de la microplaque Caroline.
 
 Dans cette section, je présente brièvement mes études basées sur l’inversion de formes d’ondes que j’ai développée tout au long de ma carrière. Je me limite à présenter la série d’études tomographiques du manteau supérieur et inférieur sous la plaque Caroline. En haut, cette microplaque est entourée de grandes plaques anciennes tandis qu’en bas du manteau, la région correspond à une zone de faible vitesse de propagation des ondes sismiques (LLVP) sous Hawaï. Nous avons imagé un petit panache venant du fond du manteau, probablement riche en fer, remontant peut-être jusqu’à l’alimentation de la dorsale de la plaque Caroline, poussant la microplaque vers le sud avec une grande vitesse, ce qui entraîne un régime de subduction de type *roll-over*.
@@ -86,7 +85,6 @@ Par ailleurs, concernant la remontée du panache mantellique de Caroline, la por
 
 ![Codes et flexOPT](/images/codes.jpg)
 
-*Figure suggérée — `codes.jpg`*  
 État de mes codes jusqu’à 2023 (gauche) et développement récent de `flexOPT.jl` (droite). Cette figure résume l’évolution de mes outils, depuis les développements Fortran historiques jusqu’au méta-programme générique en Julia capable de dériver automatiquement des opérateurs optimaux pour des EDP arbitraires.
 
 Ce qui distingue mon approche de celle d’autres sismologues, c’est que je m’intéresse à la dynamique du manteau et à l’apport des processus chimiques dans cette dynamique, tout en étant également développeur de schémas numériques, aussi bien pour l’inversion que pour la modélisation directe. J’analyse les données en même temps que je conçois les outils théoriques et numériques pour les interpréter.
@@ -107,7 +105,6 @@ Parallèlement aux tests et au benchmarking, le code `flexOPT.jl` est d’ores e
 
 ![Stratégie tomographie-géodynamique-SeLFiE](/images/tomo_projet.jpg)
 
-*Figure suggérée — `tomo_projet.jpg`*  
 Schéma illustrant les projets de recherche que je souhaite mener.  
 À gauche : amélioration de la tomographie des formes d’ondes, de l’échelle globale à l’échelle locale, avec prise en compte des effets extérieurs à la boîte.  
 Au centre : interprétation lithologique et filtrage sismologique par l’approche *SeLFiE*.  
@@ -181,7 +178,6 @@ En parallèle, un projet a été lancé avec Béatrice Puyssegur et Manon Dalais
 
 ![SeLFiE planétologie](/images/optiSeLFiE_schema.jpg)
 
-*Figure suggérée — `optiSeLFiE_schema.jpg`*  
 Extension de la méthodologie *SeLFiE* à la planétologie pour distinguer des scénarios d’évolution thermo-chimique de la Terre, Mars et de la Lune à partir de modèles numériques et d’attributs extraits par intelligence artificielle ou science participative.
 
 Je continue à travailler occasionnellement sur des données martiennes InSight pour certains projets. Pour le projet FSS (*FarSide Suite*) sur la Lune en 2026, je serai collaborateur scientifique et artistique.

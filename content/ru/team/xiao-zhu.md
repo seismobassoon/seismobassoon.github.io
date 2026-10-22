@@ -1,4 +1,3 @@
-
 +++
 title = "Xiao, Zhu"
 current_role = "PhD"
@@ -6,4 +5,5 @@ status = "alumni"
 date = "2018-08-01"
 draft = false
 +++
-08/2018-06/2019, en thèse, partiellement encadré par Yuan Gao de l'administration des tremblements de terre de la Chine (CEA) et Takashi Iidaka de l'ERI, Université de Tokyo. Zhu a passé quelques mois à l'ERI pendant l'été 2018 chez Takashi en même temps que moi et il a voulu explorer le manteau supérieur sous le plateau tibétain. Nous nous sommes vus deux fois par semaines pour discuter le problème inverse et le fameux rasoir d'Occam. Il est très doué pour visualiser les résultats et nous avons pu avancer ce projet à une vitesse impressionnante. Nous avons publié un article sur cette imagerie à l'aide de l'inversion des formes d'ondes. Zhu est actuellement postdoc en Chine.
+
+08/2018–06/2019, аспирантура, частичное руководство — Юань Гао (Китайское управление по землетрясениям, CEA) и Такаси Иидака (ERI, Токийский университет). Летом 2018 года Чжу провёл несколько месяцев в ERI у Такаси одновременно со мной и хотел исследовать верхнюю мантию под Тибетским плато. Мы встречались дважды в неделю, обсуждая обратную задачу и знаменитую бритву Оккама. Он отлично визуализирует результаты, и проект продвигался с впечатляющей скоростью. Мы опубликовали статью об этой томографии методом инверсии волновых форм. Сейчас Чжу — постдок в Китае.

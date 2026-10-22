@@ -6,5 +6,5 @@ date = "2025-02-01"
 draft = false
 +++
 
-02/2025-présent, encadrée par Stéphanie Durand et moi-même, sur la tomographie localisée du Mont Fuji.
-Le mont Fuji est un volcan dormant qui n'attirait pas assez d'attention et on ne le connaît pas assez. Dans le cadre de la thèse de Hesaneh, très motivée, on développe la méthode d'imagerie sismique localisée sur la nouvelle plateforme flexOPT.jl et à partir du modèle obtenu on aimerait imager la migration du fluide.
+02/2025-actualidad, dirigida por Stéphanie Durand y por mí, sobre la tomografía localizada del monte Fuji.
+El monte Fuji es un volcán dormido que no ha recibido suficiente atención y que aún conocemos poco. En el doctorado de Hesaneh, muy motivada, desarrollamos el método de imagen sísmica localizada en la nueva plataforma flexOPT.jl y, a partir del modelo obtenido, quisiéramos visualizar la migración de fluidos.

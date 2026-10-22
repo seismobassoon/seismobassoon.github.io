@@ -1,5 +1,5 @@
 +++
-title = "Drique, Lorette　（ドリック　ロレット）"
+title = "Drique, Lorette"
 current_role = "PhD*"
 status = "active"
 date = "2024-12-15"

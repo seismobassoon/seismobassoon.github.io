@@ -1,10 +1,8 @@
 +++
-title = "Problème inverse linéarisé"
+title = "Problema inverso linearizado"
 draft = false
 +++
 
-Je vais mettre les notebooks et polys que je donne lors de mes cours ici.
+Vou colocar aqui os notebooks e as sebentas das minhas aulas.
 
-[View notebook (nbviewer)](https://nbviewer.org/github/seismobassoon/flexOPT/blob/main/notebooks/smallCourseInverseTheory.ipynb)
-
-
+[Ver o notebook (nbviewer)](https://nbviewer.org/github/seismobassoon/flexOPT/blob/main/notebooks/smallCourseInverseTheory.ipynb)

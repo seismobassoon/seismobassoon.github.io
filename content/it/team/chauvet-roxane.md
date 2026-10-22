@@ -6,6 +6,4 @@ date = "2019-06-01"
 draft = false
 +++
 
-
-
-06/2019-07/2019, L3 Cursus master ingénierie en génie géologique et civil (CMIgéoc) à l’Université de Bordeaux. Roxane était très enthousiaste pendant ce petit stage où nous avons amélioré la boîte à outils pour inverser des données sur le projet InSight. Je lui ai fourni un jeu de données synthétiques calculés pour des modèles de Mars, afin de localiser des séismes. Nous nous sommes rendus compte qu'il faut utiliser l'inverse de la matrice Hessian pour stabiliser la solution. Roxane et moi avons tout écrit en Python et ces outils sont encore utilisés pour les travaux dirigés du cours « Problème Inverse ». Ces outils ont été ensuite intégré dans mon code « MarsMTInversion » en fortran qui est le moteur de la thèse d'Alice Jacob. Roxane s'intégra au Master à l'IPGP suite à ce stage.
+06/2019-07/2019, L3, corso di ingegneria geologica e civile (CMIgéoc) dell’Università di Bordeaux. Roxane è stata molto entusiasta durante questo breve tirocinio, in cui abbiamo migliorato gli strumenti di inversione dei dati del progetto InSight. Le ho fornito dati sintetici calcolati per modelli di Marte per localizzare i terremoti, e ci siamo accorti che serve l’inversa della matrice Hessiana per stabilizzare la soluzione. Abbiamo scritto tutto in Python e questi strumenti sono ancora usati nelle esercitazioni del mio corso “Problema inverso”. Sono poi stati integrati nel mio codice Fortran “MarsMTInversion”, motore della tesi di Alice Jacob. Dopo il tirocinio, Roxane è entrata nel master dell’IPGP.

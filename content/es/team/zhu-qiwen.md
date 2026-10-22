@@ -5,5 +5,5 @@ status = "alumni"
 date = "2021-01-01"
 draft = false
 +++
-11/2023-, encadré par Li Zhao à Pékin et moi-même sur la tomographie du plateau tibétain. Qiwen est rentré en Chine en février 2025.
 
+11/2023-, dirigido por Li Zhao en Pekín y por mí, sobre la tomografía de la meseta tibetana. Qiwen regresó a China en febrero de 2025.

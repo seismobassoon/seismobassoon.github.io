@@ -1,199 +1,193 @@
 +++
-title = "Recherche"
+title = "Investigación"
 draft = false
 +++
 
-de la tomographie globale et régionale à la réconciliation des échelles grâce aux contraintes minéralogiques, pétrologiques et géodynamiques avec la plateforme unique `flexOPT.jl`
+De la tomografía global y regional a la reconciliación de escalas gracias a restricciones mineralógicas, petrológicas y geodinámicas, con la plataforma única `flexOPT.jl`
 
-{{< collapse title="Introduction générale" >}}
+{{< collapse title="Introducción general" >}}
 
-Mon projet de recherche a pour objectif de mieux contraindre l’évolution de l’intérieur des corps telluriques en s’appuyant sur l’analyse de données (géo)physiques, en particulier les formes d’ondes sismiques.
+Mi proyecto de investigación busca restringir mejor la evolución del interior de los cuerpos telúricos a partir del análisis de datos (geo)físicos, en particular de las formas de onda sísmicas.
 
-Au fil du temps, j’ai développé des méthodes numériques et théoriques pour l’inversion des formes d’ondes, en prenant en compte les propriétés élastiques et viscoélastiques des milieux, à différentes échelles, que j’ai appliquées à des données réelles.
+Con el tiempo he desarrollado métodos numéricos y teóricos de inversión de formas de onda que tienen en cuenta las propiedades elásticas y viscoelásticas de los medios a distintas escalas, y los he aplicado a datos reales.
 
-L’une de mes contributions majeures est le développement de la méthode dite de *box-tomographie* à plusieurs échelles, qui permet d’imager une région localisée (ou « boîte ») à partir de formes d’ondes sismiques échantillonnant non seulement l’intérieur de cette région, mais aussi son environnement externe.
+Una de mis principales contribuciones es el desarrollo de la llamada *tomografía en caja* (*box tomography*) a varias escalas, que permite obtener la imagen de una región localizada (o «caja») a partir de formas de onda sísmicas que muestrean no solo el interior de esa región sino también su entorno.
 
-Je présente tout d’abord les financements qui ont permis la réalisation de mes recherches. J’illustre ensuite une série de travaux d’imagerie élastique et anélastique que j’ai menés sur la micro-dynamique sous la plaque Caroline, en collaboration avec des géodynamiciens et des pétrologues. Par la suite, je formulerai des questions portant sur les méthodes, les résultats et les interprétations. Je détaille ensuite la boîte à outils théoriques et numériques que j’ai développée au fil du temps pour répondre à des problématiques scientifiques variées. Enfin, je décris le projet de recherche que je souhaite porter avec mes partenaires actuels et futurs.
+Presento primero la financiación que ha hecho posible mi investigación. Ilustro después una serie de trabajos de imagen elástica y anelástica sobre la microdinámica bajo la placa de las Carolinas, realizados con geodinamistas y petrólogos. Planteo luego preguntas sobre los métodos, los resultados y las interpretaciones. A continuación describo la caja de herramientas teóricas y numéricas que he desarrollado para responder a problemas científicos variados. Por último, describo el proyecto de investigación que deseo llevar adelante con mis socios actuales y futuros.
 
-![Schéma box-tomographie](/images/schema_box.png)
+![Esquema de la tomografía en caja](/images/schema_box.png)
 
 *
-Quelques exemples d’applications de la « box-tomographie » à différentes échelles :
-(a) en sismologie globale, utilisation de séismes télésismiques pour imager des régions localisées ;  
-(b) sous la plaque Caroline, inversion des formes d’onde pour `Vs` et `Qs` en 1D et 3D ;  
-(c) inversion 1D et 3D pour `Vs` dans la LLVP sous Hawaï ;  
-(d) ouverture vers l’imagerie par neutrinos ;  
-(e) contrainte sur la remontée de fusion partielle sous La Réunion ;  
-(f) imagerie 3D `Vp`, `Vs` et densité sous le plateau Tibétain, avec ouverture récente vers le mont Fuji.
+Algunos ejemplos de aplicación de la tomografía en caja a distintas escalas:
+(a) en sismología global, uso de eventos telesísmicos para obtener imágenes de regiones localizadas;  
+(b) bajo la placa de las Carolinas, inversión de formas de onda 1D y 3D para `Vs` y `Qs`;  
+(c) inversión 1D y 3D para `Vs` en la LLVP bajo Hawái;  
+(d) apertura hacia la imagen con neutrinos;  
+(e) restricciones sobre el ascenso de fusión parcial bajo La Reunión;  
+(f) imagen 3D de `Vp`, `Vs` y densidad bajo la meseta tibetana, extendida recientemente al monte Fuji.
 *
 {{< /collapse >}}
 
-{{< collapse title="Financements obtenus" >}}
+{{< collapse title="Financiación obtenida" >}}
 
- Deux tiers de ma thèse ont été financés par la JSPS (Société japonaise pour la promotion de la Science). Au Japon, jusqu’au début des années 2010, les doctorants ne bénéficiaient pas systématiquement d’un financement doctoral. J’ai donc dû rédiger mon propre projet de recherche, centré sur le développement de l’inversion des formes d’ondes pour l’élasticité et l’anélasticité, ce qui m’a permis d’acquérir dès cette époque un recul critique sur la rédaction de projets scientifiques.
+Dos tercios de mi doctorado fueron financiados por la JSPS (Sociedad Japonesa para la Promoción de la Ciencia). En Japón, hasta comienzos de la década de 2010, los doctorandos no recibían financiación de forma sistemática. Tuve, pues, que redactar mi propio proyecto, centrado en el desarrollo de la inversión de formas de onda para la elasticidad y la anelasticidad, lo que me dio pronto una mirada crítica sobre la redacción de proyectos científicos.
 
-Entre 2012 et 2017, j’ai été collaborateur et responsable principal de l’enseignement au sein du consortium GPX, dédié à l’exploration géophysique. Ce consortium a favorisé la recherche et la formation, en lien entre les universités et l’industrie. Mes travaux théoriques sur l’inversion localisée des formes d’ondes et le développement fondamental du calcul de sismogrammes synthétiques ont posé les bases de ma nouvelle méthode actuelle : les *opérateurs optimaux pour les équations aux dérivées partielles arbitraires*.
+Entre 2012 y 2017 fui colaborador y principal responsable de la docencia en el consorcio GPX, dedicado a la geofísica de exploración. Este consorcio impulsó la investigación y la formación, conectando universidades e industria. Mis trabajos teóricos sobre la inversión localizada de formas de onda y el desarrollo fundamental del cálculo de sismogramas sintéticos sentaron las bases de mi nuevo método actual: los *operadores óptimos para ecuaciones en derivadas parciales arbitrarias*.
 
-J’ai ensuite contribué aux études préparatoires du sismomètre de la mission InSight sur Mars, ce qui m’a conduit à travailler sur la première détermination des mécanismes au foyer sur Mars à l’aide de mes méthodes d’inversion.
+Después contribuí a los estudios preparatorios del sismómetro de la misión InSight a Marte, lo que me llevó a la primera determinación de mecanismos focales en Marte con mis métodos de inversión.
 
-Parallèlement, j’ai obtenu plusieurs financements pour organiser des workshops internationaux, qui ont permis de nouer des collaborations pérennes. Grâce à ma collaboration étroite avec Frédéric Deschamps (Academia Sinica), j’ai participé à plusieurs projets franco-taïwanais, au sein desquels j’ai pu développer la série d’études en imagerie sismo-pétrologique décrite ci-dessous. Ce partenariat m’a permis de diriger ma première doctorante officielle, S.-T. Lai, dans le cadre de l’appel MOPGA (*Make Our Planet Great Again*).
+Paralelamente, obtuve varias ayudas para organizar talleres internacionales que dieron lugar a colaboraciones duraderas. Gracias a mi estrecha colaboración con Frédéric Deschamps (Academia Sinica), participé en varios proyectos franco-taiwaneses en los que desarrollé la serie de estudios de imagen sismo-petrológica descrita más abajo. Esta alianza me permitió dirigir a mi primera doctoranda oficial, S.-T. Lai, en el marco de la convocatoria MOPGA (*Make Our Planet Great Again*).
 
-Depuis 2022, je suis membre junior de l’Institut universitaire de France (IUF) en médiation scientifique, ce qui me permet de consacrer du temps à la fois à mes recherches et à mes activités de médiation auprès du grand public.
+Desde 2022 soy miembro junior del Institut universitaire de France (IUF) en mediación científica, lo que me permite dedicar tiempo tanto a la investigación como a la divulgación para el gran público.
 
-J’ai récemment obtenu plusieurs financements doctoraux, notamment autour de la caractérisation du mont Fuji. Une collaboration étroite s’est également engagée avec Véronique Van Elewyck, avec qui nous avons obtenu deux bourses postdoctorales sur la tomographie neutrino pour l’imagerie de la Terre profonde à partir d’observables géophysiques.
-
-{{< /collapse >}}
-
-
-{{< collapse title="Bilan : micro-dynamique du manteau sous la plaque Caroline" >}}
-
-![Schéma Caroline](/images/caro_schema.jpg)
-
-*Figure suggérée — `caro_schema.jpg`*  
-Schéma simplifié d’une série d’études tomographiques ciblant le manteau sous la plaque Caroline. Nos images tomographiques, couplées à des prédictions pétrologiques, suggèrent qu’un panache mantellique profond, à proximité immédiate de la limite du LLVP pacifique/hawaïen, pourrait entraîner du fer depuis la limite noyau-manteau. Dans la zone de transition située au-dessus, on identifie un panache plus superficiel, qui alimente la dorsale d’Eauripik et pourrait contribuer à la dynamique rapide de la microplaque Caroline.
-
-Dans cette section, je présente brièvement mes études basées sur l’inversion de formes d’ondes que j’ai développée tout au long de ma carrière. Je me limite à présenter la série d’études tomographiques du manteau supérieur et inférieur sous la plaque Caroline. En haut, cette microplaque est entourée de grandes plaques anciennes tandis qu’en bas du manteau, la région correspond à une zone de faible vitesse de propagation des ondes sismiques (LLVP) sous Hawaï. Nous avons imagé un petit panache venant du fond du manteau, probablement riche en fer, remontant peut-être jusqu’à l’alimentation de la dorsale de la plaque Caroline, poussant la microplaque vers le sud avec une grande vitesse, ce qui entraîne un régime de subduction de type *roll-over*.
-
-### Plaque Caroline
-
-La plaque Caroline présente un contexte géodynamique particulièrement complexe : encadrée par les plaques australienne, philippine et pacifique, elle se situe dans une zone à convergence rapide, marquée par des subductions actives et anciennes, des marges transformantes, des rifts abandonnés et une activité volcanique soutenue. Une structure majeure, la dorsale d’Eauripik, perturbe le centre de la plaque et constitue une anomalie topographique et magmatique notable, interprétée soit comme une ancienne dorsale morte, soit comme la trace d’un panache profond ou d’un point chaud.
-
-La géométrie des anomalies magnétiques, la bathymétrie, et des structures comme la fosse de Sorol ou les fosses de Nouvelle-Guinée témoignent d’une dynamique encore mal comprise, et potentiellement liée à une remontée mantellique profonde à la limite noyau-manteau.
-
-### Structure profonde et panache de Caroline
-
-Nous avons mené une série d’études d’imagerie sismique dans cette région en appliquant la méthode d’inversion des formes d’ondes, que j’ai développée au cours de ma thèse et de mon post-doctorat. Cette approche permet d’imager à haute résolution les vitesses de cisaillement `Vs` et les facteurs de qualité `Qs`, particulièrement sensibles aux contrastes thermiques. En exploitant les données du réseau japonais F-net, pour des séismes profonds situés dans les régions de Tonga et Fidji, nous avons mis en évidence une anomalie marquée et localisée de `Vs` et `Qs`, centrée sous le panache de Caroline.
-
-L’interprétation des résultats suggère un excès de température localisé d’environ 100 K dans le LLVP pacifique, ainsi qu’une possible contribution d’un matériau enrichi en fer dans le panache, incompatible avec un modèle purement thermique. L’analyse a été étendue à d’autres régions du Pacifique pour confirmer le caractère localisé de ces anomalies. La modélisation géodynamique et minéralogique indique une interaction possible avec la limite noyau-manteau sur plusieurs centaines de kilomètres de hauteur.
-
-### Structure de la zone de transition et du manteau supérieur
-
-Enfin, nous avons mené une inversion Monte Carlo des temps d’arrivée de phases multiples, pour contraindre la structure de la zone de transition du manteau sous la plaque Caroline. Le modèle final, basé sur des jeux de données SS et des modélisations de formes d’ondes, révèle une vitesse de cisaillement anormalement élevée dans tout le manteau supérieur. Après plusieurs simulations géodynamiques, nous avons conclu que notre modèle sismique indique la possibilité de subductions de plaque en rouleau *roll-over* à partir de la limite sud et éventuellement aussi de la limite nord, ainsi que la présence d’anomalies de vitesse basses en forme de panache s’étendant au moins à 800 km de profondeur sous la plaque Caroline. Nos simulations géodynamiques montrent en outre que la subduction *roll-over* nécessite une vitesse de poussée de la plaque relativement rapide.
+Recientemente obtuve varias financiaciones de doctorado, en particular sobre la caracterización del monte Fuji. También ha comenzado una estrecha colaboración con Véronique Van Elewyck, con quien obtuvimos dos becas posdoctorales sobre tomografía de neutrinos para la imagen de la Tierra profunda a partir de observables geofísicos.
 
 {{< /collapse >}}
 
-{{< collapse title="Questions ouvertes" >}}
 
-Même si cette approche d’imagerie localisée, dite *box-tomographie*, a permis d’éclairer certaines régions critiques pour la compréhension de la dynamique du manteau terrestre, de nombreux points restent encore à améliorer ou à élucider, tant du point de vue scientifique que technique.
+{{< collapse title="Balance: microdinámica del manto bajo la placa de las Carolinas" >}}
 
-L’un des verrous majeurs de cette méthodologie réside dans la négligence des hétérogénéités situées en dehors de la boîte d’étude. Jusqu’à présent, nous avons utilisé uniquement des modèles sphériques 1D pour simuler le champ d’ondes, aussi bien lors du calcul des dérivées partielles des formes d’ondes que pour la reconstruction du champ d’ondes aux limites de la boîte. Nous avons évalué la propagation d’erreurs liée à cette approximation dans un cadre cartésien, mais l’absence de traitement rigoureux des effets extérieurs reste une limitation importante à prendre en compte plus sérieusement à l’avenir. Le couplage entre la méthode des éléments spectraux et ma méthode DSM, bien que prometteur, reste très coûteux en ressources. C’est entre autres pour répondre à ce défi que j’ai entrepris récemment une réorganisation complète de ma boîte à outils numériques.
+![Esquema de la placa de las Carolinas](/images/caro_schema.jpg)
 
-Par ailleurs, concernant la remontée du panache mantellique de Caroline, la portion du manteau située entre 800 km et 2500 km de profondeur reste à imager. L’objectif est de vérifier la continuité éventuelle de la colonne panachique depuis la limite noyau-manteau jusqu’à la surface. Excepté des études que nous avons menées sur la base du panache, nous n’avons pas encore eu l’occasion d’interpréter quantitativement les modèles tomographiques obtenus, qui restent pour l’instant exprimés uniquement en termes de paramètres sismologiques tels que `Vs` et `Qs`. Il devient désormais essentiel d’engager des collaborations avec des pétrologues, des géochimistes et des géodynamiciens afin de mieux interpréter et valoriser les structures mises en évidence par la sismologie. Dans cette perspective, je propose une démarche de filtrage sismique innovante, baptisée *SeLFiE*.
+Esquema simplificado de una serie de estudios tomográficos del manto bajo la placa de las Carolinas. Nuestras imágenes tomográficas, combinadas con predicciones petrológicas, sugieren que una pluma mantélica profunda, junto al borde de la LLVP del Pacífico/Hawái, podría arrastrar hierro desde el límite núcleo-manto. En la zona de transición superior se identifica una pluma más somera, que alimenta la dorsal de Eauripik y podría contribuir a la rápida dinámica de la microplaca de las Carolinas.
 
-{{< /collapse >}}
+En esta sección presento brevemente mis estudios basados en la inversión de formas de onda que he desarrollado a lo largo de mi carrera, limitándome a la serie de estudios tomográficos del manto superior e inferior bajo la placa de las Carolinas. Arriba, esta microplaca está rodeada de grandes placas antiguas, mientras que en la base del manto la región corresponde a una zona de baja velocidad de ondas de cizalla (LLVP) bajo Hawái. Obtuvimos la imagen de una pequeña pluma que asciende desde el fondo del manto, probablemente rica en hierro, quizá hasta alimentar la dorsal de la placa de las Carolinas, empujando la microplaca hacia el sur a gran velocidad, lo que da lugar a un régimen de subducción de tipo *roll-over*.
 
-{{< collapse title="Outils numériques et théoriques" >}}
+### La placa de las Carolinas
 
-![Codes et flexOPT](/images/codes.jpg)
+La placa de las Carolinas presenta un contexto geodinámico particularmente complejo: rodeada por las placas australiana, filipina y del Pacífico, se sitúa en una zona de convergencia rápida marcada por subducciones activas y antiguas, márgenes transformantes, rifts abandonados y una actividad volcánica sostenida. Una estructura mayor, la dorsal de Eauripik, atraviesa el centro de la placa y constituye una anomalía topográfica y magmática notable, interpretada como una antigua dorsal muerta o como la huella de una pluma profunda o de un punto caliente.
 
-*Figure suggérée — `codes.jpg`*  
-État de mes codes jusqu’à 2023 (gauche) et développement récent de `flexOPT.jl` (droite). Cette figure résume l’évolution de mes outils, depuis les développements Fortran historiques jusqu’au méta-programme générique en Julia capable de dériver automatiquement des opérateurs optimaux pour des EDP arbitraires.
+La geometría de las anomalías magnéticas, la batimetría y estructuras como la fosa de Sorol o las fosas de Nueva Guinea muestran una dinámica todavía mal comprendida, posiblemente ligada a un ascenso mantélico profundo desde el límite núcleo-manto.
 
-Ce qui distingue mon approche de celle d’autres sismologues, c’est que je m’intéresse à la dynamique du manteau et à l’apport des processus chimiques dans cette dynamique, tout en étant également développeur de schémas numériques, aussi bien pour l’inversion que pour la modélisation directe. J’analyse les données en même temps que je conçois les outils théoriques et numériques pour les interpréter.
+### Estructura profunda y pluma de las Carolinas
 
-Depuis ma thèse, j’ai développé de nombreux codes basés sur la méthode DSM (*Direct Solution Method*) en domaine fréquentiel pour des planètes sphériques, ainsi que sur la méthode des différences finies en domaine temporel avec des opérateurs modifiés. Ces deux approches reposent sur une base théorique commune : celle des opérateurs optimaux. J’ai consacré une partie importante de mon travail à la mise en œuvre numérique de cette théorie, en développant des codes spécifiques.
+Realizamos una serie de estudios de imagen sísmica en esta región con el método de inversión de formas de onda que desarrollé durante mi doctorado y mi posdoc. Este enfoque permite obtener imágenes de alta resolución de la velocidad de cizalla `Vs` y del factor de calidad `Qs`, especialmente sensibles a los contrastes térmicos. Con datos de la red japonesa F-net para sismos profundos en las regiones de Tonga y Fiyi, pusimos de manifiesto una anomalía marcada y localizada de `Vs` y `Qs`, centrada bajo la pluma de las Carolinas.
 
-Les opérateurs optimaux sont des opérateurs compacts qui permettent d’atteindre une précision supérieure à celle des opérateurs conventionnels utilisant le même nombre de points en espace et en temps. Toutefois, la méthode générale pour dériver ces opérateurs n’avait jamais été formulée de manière systématique. J’ai moi-même contribué à l’optimisation des opérateurs pour les éléments spectraux, sans pour autant imaginer qu’une recette générale serait accessible.
+La interpretación sugiere un exceso de temperatura localizado de unos 100 K en la LLVP del Pacífico, así como una posible contribución de material enriquecido en hierro en la pluma, incompatible con un modelo puramente térmico. El análisis se extendió a otras regiones del Pacífico para confirmar el carácter localizado de estas anomalías. La modelización geodinámica y mineralógica indica una posible interacción con el límite núcleo-manto a lo largo de varios cientos de kilómetros de altura.
 
-La plupart de ces codes étaient écrits en Fortran, ce qui s’est avéré difficile à maintenir : un code pour chaque objectif spécifique, avec un débogage long et fastidieux. J’ai donc récemment décidé de repartir de zéro pour concevoir un méta-programme unique, capable de couvrir de nombreux cas d’usage. Le langage *Julia* s’est imposé comme un choix naturel, grâce à ses capacités de méta-programmation, de manipulation symbolique et à son intégration fluide avec des outils modernes tels que MPI ou les GPU.
+### Estructura de la zona de transición y del manto superior
 
-En travaillant sur ce projet avec Thibault Duretz, qui m’a suggéré plusieurs équations tests ainsi que des pistes d’optimisation du code, j’ai pu formaliser une méthode générale permettant de dériver automatiquement des opérateurs optimaux pour des équations aux dérivées partielles arbitraires. Un préprint présentant cette approche est actuellement soumis à *Computer Methods in Applied Mechanics and Engineering*.
-
-Parallèlement aux tests et au benchmarking, le code `flexOPT.jl` est d’ores et déjà utilisé pour la résolution de diverses équations aux dérivées partielles. Il est notamment mis en œuvre par ma doctorante Hesaneh Mohammadi dans le cadre d’un projet de tomographie du mont Fuji, où il est comparé à d’autres codes de référence.
+Por último, realizamos una inversión de Monte Carlo de los tiempos de llegada de varias fases para restringir la estructura de la zona de transición del manto bajo la placa de las Carolinas. El modelo final, basado en conjuntos de datos SS y en la modelización de formas de onda, revela una velocidad de cizalla anormalmente alta en todo el manto superior. Tras varias simulaciones geodinámicas, concluimos que nuestro modelo sísmico apunta a posibles subducciones de placa de tipo *roll-over* desde el límite sur y, eventualmente, también desde el norte, así como a anomalías de baja velocidad en forma de pluma que se extienden al menos hasta 800 km de profundidad bajo la placa de las Carolinas. Las simulaciones muestran además que la subducción *roll-over* requiere un empuje de la placa relativamente rápido.
 
 {{< /collapse >}}
 
-{{< collapse title="Projet de recherche : vision d’ensemble" >}}
+{{< collapse title="Preguntas abiertas" >}}
 
-![Stratégie tomographie-géodynamique-SeLFiE](/images/tomo_projet.jpg)
+Aunque este enfoque de imagen localizada, la *tomografía en caja*, ha permitido esclarecer algunas regiones clave para entender la dinámica del manto, muchos puntos siguen pendientes de mejorar o aclarar, tanto en lo científico como en lo técnico.
 
-*Figure suggérée — `tomo_projet.jpg`*  
-Schéma illustrant les projets de recherche que je souhaite mener.  
-À gauche : amélioration de la tomographie des formes d’ondes, de l’échelle globale à l’échelle locale, avec prise en compte des effets extérieurs à la boîte.  
-Au centre : interprétation lithologique et filtrage sismologique par l’approche *SeLFiE*.  
-À droite : modélisation de la convection du manteau et génération de Terres virtuelles dont on peut calculer les observables sismiques et neutrino.
+Uno de los principales obstáculos de esta metodología es que se desprecian las heterogeneidades situadas fuera de la caja. Hasta ahora solo hemos usado modelos esféricos 1D para simular el campo de ondas, tanto para calcular las derivadas parciales de las formas de onda como para reconstruir el campo de ondas en los bordes de la caja. Evaluamos la propagación de errores debida a esta aproximación en un marco cartesiano, pero la falta de un tratamiento riguroso de los efectos externos sigue siendo una limitación importante que habrá que abordar con más seriedad. El acoplamiento entre el método de elementos espectrales y mi método DSM, aunque prometedor, sigue siendo muy costoso. Es, entre otras cosas, para responder a este reto que emprendí recientemente una reorganización completa de mi caja de herramientas numéricas.
 
-Comme évoqué plus haut, plusieurs projets s’inscrivent naturellement dans la continuité de mes activités de recherche. Maintenant que mon projet de modernisation et de démocratisation des opérateurs optimaux arrive à maturité, il est temps pour moi de mobiliser pleinement ces acquis afin de revisiter des données sismologiques, mais aussi d’autres types de données, dans le but de répondre à certaines des grandes questions qui traversent les géosciences : comment les planètes ont-elles évolué depuis la formation du système solaire, et comment évolueront-elles dans le futur ? Qu’est-ce qui rend notre planète si unique parmi ses voisines ?
-
-
+Además, en cuanto al ascenso de la pluma mantélica de las Carolinas, falta obtener la imagen de la porción del manto entre 800 y 2500 km de profundidad, para verificar la posible continuidad de la columna de la pluma desde el límite núcleo-manto hasta la superficie. Salvo en los estudios sobre la base de la pluma, aún no hemos tenido ocasión de interpretar cuantitativamente los modelos tomográficos obtenidos, que de momento solo se expresan en parámetros sismológicos como `Vs` y `Qs`. Es ahora esencial colaborar con petrólogos, geoquímicos y geodinamistas para interpretar y valorizar mejor las estructuras reveladas por la sismología. Con este fin propongo un enfoque innovador de filtrado sísmico al que llamé *SeLFiE*.
 
 {{< /collapse >}}
 
-{{< collapse title="Tomographie des formes d’ondes, de/à l’échelle locale à/de l’échelle globale" >}}
+{{< collapse title="Herramientas numéricas y teóricas" >}}
 
-L’approche de *box-tomographie* repose sur l’hypothèse que le champ d’onde incident peut être estimé avec une précision suffisante, soit à partir d’un modèle 1D de référence de la Terre, soit en supposant que les ondes incidentes se comportent comme des ondes planes. Cette approximation est raisonnablement valable pour certaines premières ondes de volume isolées, comme les ondes P directes, PKP ou S. Toutefois, elle devient insuffisante à haute fréquence, où la cohérence du champ d’onde global ne peut plus être garantie.
+![Códigos y flexOPT](/images/codes.jpg)
 
-Pour contourner cette limitation, je propose d’utiliser plusieurs modèles tomographiques plus réalistes, tels que SEISGLOB2, permettant une représentation plus fidèle de la propagation des ondes complexes, en particulier dans les régions où l’hétérogénéité du manteau influence fortement les phases observées. Afin de mieux contraindre les incertitudes, j’utiliserai plusieurs modèles issus de différentes observables, telles que les ondes de surface ou les temps d’arrivée des ondes de volume.
+Estado de mis códigos hasta 2023 (izquierda) y desarrollo reciente de `flexOPT.jl` (derecha). La figura resume la evolución de mis herramientas, desde los desarrollos históricos en Fortran hasta el metaprograma genérico en Julia capaz de derivar automáticamente operadores óptimos para EDP arbitrarias.
 
-Je vais ainsi mettre à jour ma méthode de box-tomographie en tenant compte des hétérogénéités au-delà de la région d’intérêt. Si des tests synthétiques ont déjà été menés dans un cadre cartésien, l’application de cette méthode en sismologie globale constituera une première. Cette nouvelle version de la box-tomographie nécessite des solveurs capables de modéliser des milieux 3D dans deux domaines imbriqués (global et local), ce qui a motivé le développement de la méthode `flexOPT.jl`.
+Lo que distingue mi enfoque del de otros sismólogos es que me interesa la dinámica del manto y el papel de los procesos químicos en ella, siendo a la vez desarrollador de esquemas numéricos, tanto para la inversión como para la modelización directa. Analizo los datos al mismo tiempo que diseño las herramientas teóricas y numéricas para interpretarlos.
 
-Je vais notamment explorer des phases permettant d’imager la région s’étendant de la base du manteau jusqu’à la surface de la plaque de Caroline, pour les paramètres `Vs`, `Qs`, `Vp`, `Qp`, ainsi que, dans un second temps, l’anisotropie. Cela contribuera à mieux comprendre la dynamique du panache que j’ai imaginé, depuis la base du manteau jusqu’au manteau supérieur. La région sous la microplaque de Caroline pourrait offrir une scène encore jamais observée, exotique du point de vue de la géodynamique, à la bordure de la LLVP hawaïenne.
+Desde mi doctorado he desarrollado numerosos códigos basados en el Direct Solution Method (DSM) en el dominio de la frecuencia para planetas esféricos, así como en diferencias finitas en el dominio del tiempo con operadores modificados. Ambos enfoques descansan sobre una base teórica común: los operadores óptimos. He dedicado una parte importante de mi trabajo a la implementación numérica de esta teoría mediante códigos específicos.
 
-J’envisage également d’appliquer cette méthode à d’autres régions géodynamiquement actives, notamment le manteau supérieur et la zone de transition sous le Japon, La Réunion et le plateau Tibétain.
+Los operadores óptimos son operadores compactos que alcanzan una precisión superior a la de los operadores convencionales con el mismo número de puntos en el espacio y en el tiempo. Sin embargo, el método general para derivarlos nunca se había formulado de forma sistemática. Yo mismo contribuí a optimizar operadores para elementos espectrales, sin imaginar que una receta general estuviera a nuestro alcance.
 
-En utilisant les modèles globaux pour affiner l’image locale dans les boîtes, nous pourrons faire progresser la résolution de la Terre profonde, étape par étape. Cependant, il est bien connu que l’inversion des formes d’ondes souffre plus fortement de non-unicité et de non-linéarité que l’inversion d’attributs secondaires comme la dispersion des ondes de surface ou les temps d’arrivée. Il est donc crucial de démarrer l’inversion à partir de modèles initiaux réalistes. Je poursuivrai également le travail d’interprétation des modèles tomographiques en collaboration avec des pétrologues, pour traduire ces modèles en paramètres physico-chimiques plus pertinents pour contraindre la dynamique du manteau.
+La mayoría de estos códigos estaban escritos en Fortran y resultaron difíciles de mantener: un código para cada propósito, con una depuración larga y tediosa. Por eso decidí recientemente empezar de cero y diseñar un único metaprograma capaz de cubrir muchos casos de uso. *Julia* se impuso como elección natural gracias a sus capacidades de metaprogramación y manipulación simbólica y a su integración fluida con herramientas modernas como MPI o las GPU.
 
-{{< /collapse >}}
+Trabajando en este proyecto con Thibault Duretz, que me sugirió varias ecuaciones de prueba y vías de optimización del código, pude formalizar un método general para derivar automáticamente operadores óptimos para ecuaciones en derivadas parciales arbitrarias. Un preprint que presenta este enfoque se ha enviado a *Computer Methods in Applied Mechanics and Engineering*.
 
-{{< collapse title="Tomographie des oscillations de neutrinos" >}}
-
-Récemment, les physiciens des hautes énergies ont commencé à s’intéresser à l’utilisation des oscillations de neutrinos traversant l’intérieur de la Terre pour en imager la structure. Depuis 2022, en collaboration avec Véronique Van Elewyck, nous co-encadrons deux postdoctorants et travaillons à la formalisation du problème inverse associé à ce type de données. Nous évaluons la sensibilité de ces observations aux structures internes de la Terre.
-
-Les neutrinos sont produits dans l’atmosphère à la suite de l’interaction des rayons cosmiques avec les particules atmosphériques, puis pénètrent dans la Terre. Leur interaction avec la matière est extrêmement faible, mais au cours de leur propagation – à une vitesse proche de celle de la lumière – ils peuvent changer de saveur via un mécanisme d’oscillation sensible à la densité électronique rencontrée le long du trajet. Comme l’hydrogène-1 est pratiquement le seul atome dont le nombre de neutrons est nul, ces observations pourraient permettre de contraindre indirectement la teneur en eau de l’intérieur de la Terre, bien que la résolution spatiale reste limitée à des échelles supérieures à 1000 km.
-
-Nous utilisons le code EarthProb, une version spécialisée du logiciel OscProb, pour simuler ces oscillations de saveur. Je suis en train d’intégrer ce code dans l’environnement de modélisation et d’inversion `flexOPT.jl`, afin de pouvoir explorer des configurations inverses plus flexibles.
-
-Par ailleurs, l’arrivée prochaine de Hyper-Kamiokande, un observatoire de neutrinos de nouvelle génération dont la mise en service est prévue au Japon en 2027, devrait considérablement améliorer la résolution et la gamme d’énergie détectable. Ce nouvel instrument pourrait transformer profondément notre capacité à sonder l’intérieur de la Terre par cette méthode.
+Paralelamente a las pruebas y al benchmarking, el código `flexOPT.jl` ya se utiliza para resolver diversas ecuaciones en derivadas parciales, en particular por mi doctoranda Hesaneh Mohammadi en un proyecto de tomografía del monte Fuji, donde se compara con otros códigos de referencia.
 
 {{< /collapse >}}
 
-{{< collapse title="SeLFiE : Seismic and Lithological Filtering of Earth’s and planets’ models avec flexOPT.jl" >}}
+{{< collapse title="Proyecto de investigación: visión de conjunto" >}}
 
-Que se passerait-il si nous parvenions à imager l’intérieur de la Terre avec une résolution de quelques centimètres ? Serait-ce une victoire définitive ? Même si l’on parvient à mieux contraindre la dynamique interne par inversion des données géophysiques, comprendre l’évolution de la Terre profonde constitue un tout autre problème inverse, cette fois à paramètres quasi illimités.
+![Estrategia tomografía–geodinámica–SeLFiE](/images/tomo_projet.jpg)
 
-L’un des grands débats persistants en géodynamique concerne l’origine des LLVPs : sont-elles d’origine purement thermique ou bien thermochimique ? En d’autres termes, la convection du manteau est-elle uniquement thermique, ou bien la chimie y joue-t-elle un rôle essentiel ? Pour trancher ce type de questions, le problème inverse se reformule en un problème de classification.
+Esquema de los proyectos de investigación que deseo llevar a cabo.  
+A la izquierda: mejora de la tomografía de formas de onda, de la escala global a la local, teniendo en cuenta los efectos exteriores a la caja.  
+En el centro: interpretación litológica y filtrado sismológico con el enfoque *SeLFiE*.  
+A la derecha: modelización de la convección del manto y generación de Tierras virtuales cuyos observables sísmicos y de neutrinos pueden calcularse.
 
-Dans ce contexte, il devient pertinent d’examiner directement les données sismiques observées, comparées à celles prédites par des modèles géodynamiques. Concrètement, cela implique une modélisation en chaîne allant de la géodynamique à la simulation des formes d’onde. J’ai baptisé ce processus *SeLFiE :* **Se**ismic and **L**ithological **Fi**ltering of **E**arth’s (and planets’) models. Il s’agit de confronter les signaux sismiques générés à partir d’instantanés de modèles numériques de la Terre à ceux de la Terre réelle, comme si nous prenions un *selfie* de l’intérieur de notre planète.
-
-Je dispose déjà de plusieurs collections de modèles globaux de convection thermique 2D et 3D. Récemment, j’ai intégré des fonctionnalités pour lire ces modèles dans le cadre de `flexOPT.jl`. Cela permet de visualiser les champs thermiques et chimiques, incluant la circulation de l’eau dans le manteau ou encore la remontée de fer depuis sa base.
-
-Nous traduisons ensuite ces modèles en paramètres physiques pertinents pour la propagation des ondes sismiques — densité, vitesses `Vp` et `Vs`, anisotropie, atténuation — à partir des phases *in situ*, en collaboration avec des pétrologues. Cette conversion tient compte des incertitudes grâce à des tables de correspondance (*look-up tables*).
-
-À partir de ces modèles, nous générons des sismogrammes synthétiques, sur lesquels nous extrayons des attributs (*features*) de forme d’onde, en vue d’une classification ou d’un apprentissage supervisé par intelligence artificielle. Les codes, disponibles en Python, pourront être intégrés dans l’écosystème Julia.
+Como se ha mencionado, varios proyectos se inscriben de forma natural en la continuidad de mi investigación. Ahora que mi proyecto de modernización y democratización de los operadores óptimos llega a su madurez, es momento de movilizar plenamente estos logros para revisitar datos sismológicos, y también de otros tipos, con el fin de responder a algunas de las grandes preguntas de las geociencias: ¿cómo han evolucionado los planetas desde la formación del sistema solar y cómo evolucionarán en el futuro? ¿Qué hace que nuestro planeta sea tan único entre sus vecinos?
 
 {{< /collapse >}}
 
-{{< collapse title="Mont Fuji – nouveau laboratoire naturel" >}}
+{{< collapse title="Tomografía de formas de onda, entre la escala local y la global" >}}
 
-Représentation des cohérences temporelles entre des données continues enregistrées à six stations autour du mont Fuji durant l’année 2008, projetées via *UMAP*. Cette représentation permet de visualiser l’évolution temporelle des régimes sismiques et d’identifier des signaux associés à des *Low Frequency Earthquakes* (LFE) ainsi que d’autres événements tectoniques.
+La *tomografía en caja* se basa en la hipótesis de que el campo de ondas incidente puede estimarse con suficiente precisión, ya sea a partir de un modelo 1D de referencia de la Tierra o suponiendo que las ondas incidentes se comportan como ondas planas. Esta aproximación es razonablemente válida para algunas primeras llegadas aisladas de ondas de cuerpo, como las ondas P directas, PKP o S. Sin embargo, resulta insuficiente a alta frecuencia, donde ya no puede garantizarse la coherencia del campo de ondas global.
 
-Depuis le stage d’Adèle Doucet, que j’ai co-encadré avec Yosuke Aoki en 2022, je m’intéresse à la structure et à l’activité sismique du mont Fuji. Contrairement à ce que l’on pourrait penser au premier abord, le mont Fuji ne reçoit pas l’attention qu’il mérite. Au Japon, plus de 100 volcans actifs sont surveillés en raison d’éruptions fréquentes, tandis que le mont Fuji n’a connu aucune éruption depuis plus de 300 ans. Cette inactivité rend son étude plus difficile pour les volcanologues, à l’exception des sismologues.
+Para superar esta limitación, propongo usar varios modelos tomográficos más realistas, como SEISGLOB2, que representan con mayor fidelidad la propagación de ondas complejas, sobre todo en regiones donde la heterogeneidad del manto influye fuertemente en las fases observadas. Para restringir mejor las incertidumbres, utilizaré varios modelos obtenidos de distintos observables, como las ondas superficiales o los tiempos de llegada de las ondas de cuerpo.
 
-Avec Léonard Seydoux et Jean-Philippe Métaxian, nous avons commencé à encadrer la thèse d’Adèle Doucet, dont l’objectif est de développer une méthode de surveillance des données sismiques continues à l’aide de l’apprentissage automatique, notamment via la méthode *UMAP*. En définissant des attributs de cohérence entre six stations sismiques autour du mont Fuji, nous avons pu catégoriser automatiquement les *Low Frequency Earthquakes* (LFE), ainsi que d’autres événements sismiques d’origine tectonique.
+Así actualizaré mi método de tomografía en caja teniendo en cuenta las heterogeneidades más allá de la región de interés. Aunque ya se han realizado pruebas sintéticas en un marco cartesiano, su aplicación en sismología global será una primicia. Esta nueva versión requiere solvers capaces de modelizar medios 3D en dos dominios anidados (global y local), lo que motivó el desarrollo de `flexOPT.jl`.
 
-Depuis cette première étude, j’ai obtenu une bourse de thèse CNRS-MITI pour Hesaneh Mohammadi, dont l’encadrement est assuré avec Stéphanie Durand et moi-même. Le projet porte sur l’imagerie sismologique 3D et 4D du mont Fuji. Nous prévoyons de mener une *box-tomographie* à très haute fréquence (> 2 Hz) pour imager les premiers 50 km sous le volcan. Dans cette approche, l’utilisation de modèles 1D ou tomographiques standards pour calculer les champs d’onde extérieurs à la boîte devient inapplicable. Je propose donc d’évaluer la validité de l’approximation par ondes planes pour des arrivées isolées telles que les ondes P et S. Une fois cette étape franchie, nous chercherons à rétro-propager les formes d’onde associées aux LFE identifiés pendant la thèse d’Adèle Doucet.
+En particular, exploraré fases que permitan obtener la imagen de la región desde la base del manto hasta la superficie de la placa de las Carolinas, para `Vs`, `Qs`, `Vp`, `Qp` y, en una segunda etapa, la anisotropía. Esto ayudará a comprender la dinámica de la pluma cuya imagen obtuve, desde la base del manto hasta el manto superior. La región bajo la microplaca de las Carolinas podría ofrecer un escenario nunca antes observado, exótico desde el punto de vista geodinámico, en el borde de la LLVP hawaiana.
 
-En parallèle, un projet a été lancé avec Béatrice Puyssegur et Manon Dalaison dans le cadre de la thèse de Lorette Drique. Cette thèse vise à développer une boîte à outils pour atténuer les erreurs affectant les images InSAR dues à la végétation. Bien que ce sujet ne soit pas directement lié au mont Fuji, nous envisageons d’appliquer ces méthodes durant la troisième année de thèse afin d’analyser les éventuelles déformations de la région entourant le volcan.
+Tengo previsto aplicar este método a otras regiones geodinámicamente activas, en particular el manto superior y la zona de transición bajo Japón, La Reunión y la meseta tibetana.
+
+Usando los modelos globales para afinar la imagen local en las cajas, podremos mejorar paso a paso la resolución de la Tierra profunda. Sin embargo, es bien sabido que la inversión de formas de onda sufre más la falta de unicidad y la no linealidad que la inversión de atributos secundarios como la dispersión de ondas superficiales o los tiempos de llegada. Por eso es crucial partir de modelos iniciales realistas. Seguiré además interpretando los modelos tomográficos con petrólogos, para traducirlos en parámetros fisicoquímicos más pertinentes para restringir la dinámica del manto.
 
 {{< /collapse >}}
 
-{{< collapse title="Planétologie à l’aide de la sismologie : InSight / FSS" >}}
+{{< collapse title="Tomografía de las oscilaciones de neutrinos" >}}
 
-![SeLFiE planétologie](/images/optiSeLFiE_schema.jpg)
+Recientemente, los físicos de altas energías han empezado a interesarse por el uso de las oscilaciones de los neutrinos que atraviesan el interior de la Tierra para obtener la imagen de su estructura. Desde 2022, junto con Véronique Van Elewyck, codirigimos a dos posdocs y trabajamos en la formalización del problema inverso asociado a este tipo de datos. Evaluamos la sensibilidad de estas observaciones a las estructuras internas de la Tierra.
 
-*Figure suggérée — `optiSeLFiE_schema.jpg`*  
-Extension de la méthodologie *SeLFiE* à la planétologie pour distinguer des scénarios d’évolution thermo-chimique de la Terre, Mars et de la Lune à partir de modèles numériques et d’attributs extraits par intelligence artificielle ou science participative.
+Los neutrinos se producen en la atmósfera por la interacción de los rayos cósmicos con las partículas atmosféricas y luego atraviesan la Tierra. Su interacción con la materia es extremadamente débil, pero al propagarse, a una velocidad cercana a la de la luz, pueden cambiar de sabor mediante un mecanismo de oscilación sensible a la densidad electrónica a lo largo de su trayectoria. Como el hidrógeno-1 es prácticamente el único átomo sin neutrones, estas observaciones podrían restringir indirectamente el contenido de agua del interior de la Tierra, aunque la resolución espacial se limita a escalas superiores a 1000 km.
 
-Je continue à travailler occasionnellement sur des données martiennes InSight pour certains projets. Pour le projet FSS (*FarSide Suite*) sur la Lune en 2026, je serai collaborateur scientifique et artistique.
+Utilizamos el código EarthProb, una versión especializada del software OscProb, para simular estas oscilaciones de sabor. Estoy integrando este código en el entorno de modelización e inversión `flexOPT.jl` para poder explorar configuraciones inversas más flexibles.
 
-Nous allons proposer la méthode de filtrage *SeLFiE* pour trois corps telluriques. Nous collecterons des scénarios 1D, 2D et 3D de refroidissement de l’océan magmatique et de convection mantellique pour la Terre, Mars et la Lune, basés sur des observations géophysiques, géochimiques et pétrologiques. Ensuite, nous construirons numériquement, via des simulations de convection mantellique, ou conceptuellement, des modèles planétaires actuels, en mettant un accent particulier sur la géométrie des couches partiellement fondues ou des panaches à la base du manteau.
+Además, la próxima llegada de Hyper-Kamiokande, un observatorio de neutrinos de nueva generación cuya puesta en marcha está prevista en Japón en 2027, debería mejorar considerablemente la resolución y el rango de energías detectables. Este nuevo instrumento podría transformar profundamente nuestra capacidad de sondear el interior de la Tierra con este método.
 
-Nous convertirons ces modèles en paramètres viscoélastiques afin de simuler les ondes sismiques pour différents scénarios et de calculer des noyaux de sensibilité permettant de prédire les phases sensibles à la structure de la base du manteau avec `flexOPT.jl`.
+{{< /collapse >}}
 
-Nous comparerons les données sismologiques synthétiques, qui contiennent des informations sur la base du manteau des trois corps telluriques, avec les données observées. Cela nous permettra d’évaluer la pertinence des modèles proposés et d’affiner notre compréhension de ces structures profondes.
+{{< collapse title="SeLFiE: Seismic and Lithological Filtering of Earth’s and planets’ models con flexOPT.jl" >}}
 
-Ensuite, nous catégoriserons les données selon les scénarios à l’aide de l’intelligence artificielle, maximisant ainsi la capacité à distinguer les différents scénarios de formation du manteau.
+¿Qué pasaría si pudiéramos obtener imágenes del interior de la Tierra con una resolución de unos pocos centímetros? ¿Sería una victoria definitiva? Aunque logremos restringir mejor la dinámica interna mediante la inversión de datos geofísicos, comprender la evolución de la Tierra profunda es un problema inverso completamente distinto, esta vez con parámetros casi ilimitados.
 
-En parallèle, nous organiserons une exposition de médiation scientifique axée sur l’écoute des sons — concerts de médiation scientifique et séances d’écoute des données synthétiques et observées — en utilisant la psychologie du contrôle cognitif, et aussi pour enrichir notre recherche avec les données collectées avec le grand public.
+Uno de los grandes debates persistentes en geodinámica se refiere al origen de las LLVP: ¿son de origen puramente térmico o termoquímico? Dicho de otro modo, ¿la convección del manto es solo térmica, o la química desempeña en ella un papel esencial? Para zanjar este tipo de preguntas, el problema inverso se reformula como un problema de clasificación.
+
+En este contexto, resulta pertinente examinar directamente los datos sísmicos observados, comparados con los predichos por modelos geodinámicos. Concretamente, esto implica una modelización en cadena desde la geodinámica hasta la simulación de las formas de onda. Bauticé este proceso como *SeLFiE*: **Se**ismic and **L**ithological **Fi**ltering of **E**arth’s (and planets’) models. Se trata de comparar las señales sísmicas generadas a partir de instantáneas de modelos numéricos de la Tierra con las de la Tierra real, como si nos hiciéramos un *selfie* del interior de nuestro planeta.
+
+Ya dispongo de varias colecciones de modelos globales de convección térmica 2D y 3D, y recientemente integré en `flexOPT.jl` funciones para leerlos. Esto permite visualizar los campos térmicos y químicos, incluida la circulación del agua en el manto o el ascenso de hierro desde su base.
+
+Después traducimos estos modelos en parámetros físicos pertinentes para la propagación de las ondas sísmicas —densidad, velocidades `Vp` y `Vs`, anisotropía, atenuación— a partir de las fases *in situ*, en colaboración con petrólogos. Esta conversión tiene en cuenta las incertidumbres mediante tablas de correspondencia (*look-up tables*).
+
+A partir de estos modelos generamos sismogramas sintéticos, de los que extraemos atributos (*features*) de forma de onda para una clasificación o un aprendizaje supervisado con inteligencia artificial. Los códigos, disponibles en Python, podrán integrarse en el ecosistema Julia.
+
+{{< /collapse >}}
+
+{{< collapse title="Monte Fuji – un nuevo laboratorio natural" >}}
+
+Representación de las coherencias temporales entre datos continuos registrados en seis estaciones alrededor del monte Fuji durante 2008, proyectadas con *UMAP*. Esta representación permite visualizar la evolución temporal de los regímenes sísmicos e identificar señales asociadas a *Low Frequency Earthquakes* (LFE) y a otros eventos tectónicos.
+
+Desde una pasantía de M2 que codirigí con Yosuke Aoki en 2022, me intereso por la estructura y la actividad sísmica del monte Fuji. Contrariamente a lo que podría pensarse, el monte Fuji no recibe la atención que merece. En Japón se vigilan más de 100 volcanes activos por sus frecuentes erupciones, mientras que el Fuji no ha entrado en erupción desde hace más de 300 años. Esta inactividad dificulta su estudio para los vulcanólogos, pero no para los sismólogos.
+
+Con Léonard Seydoux y Jean-Philippe Métaxian trabajamos en el desarrollo de un método de vigilancia de datos sísmicos continuos mediante aprendizaje automático, en particular con *UMAP*. Al definir atributos de coherencia entre seis estaciones sísmicas alrededor del Fuji, pudimos clasificar automáticamente los *Low Frequency Earthquakes* (LFE), así como otros eventos sísmicos de origen tectónico.
+
+Tras este primer estudio obtuve una beca de doctorado CNRS-MITI para Hesaneh Mohammadi, codirigida por Stéphanie Durand y por mí. El proyecto trata de la imagen sismológica 3D y 4D del monte Fuji. Prevemos realizar una *tomografía en caja* a muy alta frecuencia (> 2 Hz) para obtener la imagen de los primeros 50 km bajo el volcán. En este enfoque, los modelos 1D o tomográficos estándar ya no sirven para calcular los campos de ondas exteriores a la caja. Propongo, por tanto, evaluar la validez de la aproximación de onda plana para llegadas aisladas como las ondas P y S. Superada esta etapa, intentaremos retropropagar las formas de onda asociadas a los LFE así identificados.
+
+Paralelamente se lanzó un proyecto con Béatrice Puyssegur y Manon Dalaison en el marco del doctorado de Lorette Drique, que busca desarrollar herramientas para atenuar los errores de las imágenes InSAR debidos a la vegetación. Aunque el tema no está directamente ligado al Fuji, prevemos aplicar estos métodos durante el tercer año del doctorado para analizar posibles deformaciones de la región que rodea al volcán.
+
+{{< /collapse >}}
+
+{{< collapse title="Planetología con sismología: InSight / FSS" >}}
+
+![SeLFiE planetología](/images/optiSeLFiE_schema.jpg)
+
+Extensión de la metodología *SeLFiE* a la planetología, para distinguir escenarios de evolución termoquímica de la Tierra, Marte y la Luna a partir de modelos numéricos y de atributos extraídos mediante inteligencia artificial o ciencia ciudadana.
+
+Sigo trabajando ocasionalmente con datos marcianos de InSight en algunos proyectos. En el proyecto FSS (*FarSide Suite*) en la Luna, en 2026, seré colaborador científico y artístico.
+
+Propondremos el método de filtrado *SeLFiE* para tres cuerpos telúricos. Reuniremos escenarios 1D, 2D y 3D de enfriamiento del océano de magma y de convección del manto para la Tierra, Marte y la Luna, basados en observaciones geofísicas, geoquímicas y petrológicas. Después construiremos, numéricamente mediante simulaciones de convección o de forma conceptual, modelos planetarios actuales, prestando especial atención a la geometría de las capas parcialmente fundidas o de las plumas en la base del manto.
+
+Convertiremos estos modelos en parámetros viscoelásticos para simular las ondas sísmicas en distintos escenarios y calcular con `flexOPT.jl` núcleos de sensibilidad que permitan predecir las fases sensibles a la estructura de la base del manto.
+
+Compararemos los datos sismológicos sintéticos, que contienen información sobre la base del manto de los tres cuerpos telúricos, con los datos observados. Esto nos permitirá evaluar la pertinencia de los modelos propuestos y afinar nuestra comprensión de estas estructuras profundas.
+
+Luego clasificaremos los datos según los escenarios con inteligencia artificial, maximizando la capacidad de distinguir los distintos escenarios de formación del manto.
+
+Paralelamente organizaremos una exposición de divulgación científica centrada en la escucha de sonidos —conciertos de divulgación y sesiones de escucha de datos sintéticos y observados— basándonos en la psicología del control cognitivo, y también para enriquecer nuestra investigación con los datos recogidos entre el gran público.
 
 {{< /collapse >}}

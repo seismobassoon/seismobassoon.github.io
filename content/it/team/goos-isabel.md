@@ -5,4 +5,5 @@ status = "active"
 date = "2023-04-01"
 draft = false
 +++
-04/2023-présent, encadrée par Véronique Van Elewyck et moi-même sur la tomographie des oscillations de neutrinos. Avec le groupe de l'université d'Idaho et Stéphanie Durand à Lyon, Isabel anime nos travaux collaboratifs. C'est la seule équipe du monde qui fait le pont entre la physique de hautes énergies et la géophysique de manière quantitative.
+
+04/2023-oggi, supervisionata da Véronique Van Elewyck e da me, sulla tomografia delle oscillazioni dei neutrini. Con il gruppo dell’Università dell’Idaho e Stéphanie Durand a Lione, Isabel anima il nostro lavoro collaborativo. È l’unico gruppo al mondo che collega in modo quantitativo la fisica delle alte energie e la geofisica.
