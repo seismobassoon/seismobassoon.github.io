@@ -160,13 +160,9 @@ Fra modellene genererer vi syntetiske seismogrammer, og trekker ut bølgeformatt
 
 {{< collapse title="Fuji-fjellet – et nytt naturlig laboratorium" >}}
 
-Framstilling av den tidsmessige koherensen mellom kontinuerlige data registrert på seks stasjoner rundt Fuji-fjellet i 2008, projisert med *UMAP*. Framstillingen viser den tidsmessige utviklingen av seismiske regimer og hjelper til å identifisere signaler knyttet til *Low Frequency Earthquakes* (LFE) og andre tektoniske hendelser.
-
 Siden et M2-praksisopphold jeg veiledet sammen med Yosuke Aoki i 2022, har jeg vært interessert i strukturen og den seismiske aktiviteten til Fuji-fjellet. I motsetning til hva man kanskje skulle tro, får ikke Fuji den oppmerksomheten den fortjener. I Japan overvåkes over 100 aktive vulkaner på grunn av hyppige utbrudd, mens Fuji ikke har hatt utbrudd på mer enn 300 år. Denne inaktiviteten gjør den vanskeligere å studere for vulkanologer – men ikke for seismologer.
 
-Med Léonard Seydoux og Jean-Philippe Métaxian har vi arbeidet med å utvikle en metode for overvåking av kontinuerlige seismiske data med maskinlæring, særlig med *UMAP*. Ved å definere koherensattributter mellom seks seismiske stasjoner rundt Fuji kunne vi automatisk klassifisere *Low Frequency Earthquakes* (LFE) og andre seismiske hendelser av tektonisk opprinnelse.
-
-Etter denne første studien fikk jeg et CNRS-MITI-doktorgradsstipend for Hesaneh Mohammadi, veiledet av Stéphanie Durand og meg. Prosjektet gjelder seismisk 3D- og 4D-avbildning av Fuji-fjellet. Vi planlegger *boks-tomografi* ved svært høye frekvenser (> 2 Hz) for å avbilde de første 50 km under vulkanen. Her kan 1D-modeller eller standard tomografiske modeller ikke lenger brukes til å beregne bølgefeltene utenfor boksen. Jeg foreslår derfor å vurdere gyldigheten av planbølgetilnærmingen for isolerte ankomster som P- og S-bølger. Når det er gjort, vil vi forsøke å tilbakeforplante bølgeformene til LFE-ene som er identifisert på denne måten.
+Deretter fikk jeg et CNRS-MITI-doktorgradsstipend for Hesaneh Mohammadi, veiledet av Stéphanie Durand og meg. Prosjektet gjelder seismisk 3D- og 4D-avbildning av Fuji-fjellet. Vi planlegger *boks-tomografi* ved svært høye frekvenser (> 2 Hz) for å avbilde de første 50 km under vulkanen. Her kan 1D-modeller eller standard tomografiske modeller ikke lenger brukes til å beregne bølgefeltene utenfor boksen. Jeg foreslår derfor å vurdere gyldigheten av planbølgetilnærmingen for isolerte ankomster som P- og S-bølger. Når det er gjort, vil vi forsøke å tilbakeforplante bølgeformene til lavfrekvente skjelv (LFE) under vulkanen.
 
 Parallelt er det startet et prosjekt med Béatrice Puyssegur og Manon Dalaison i Lorette Driques doktorgrad, som skal utvikle en verktøykasse for å redusere vegetasjonsrelaterte feil i InSAR-bilder. Selv om temaet ikke er direkte knyttet til Fuji, planlegger vi å bruke metodene i doktorgradens tredje år til å analysere mulige deformasjoner rundt vulkanen.
 
