@@ -1,0 +1,30 @@
+{{- /* Shows every image or video in static/<dir>, newest first.
+       Name files YYYY-MM-DD_some_title.ext : the date and title become the caption.
+       Usage: {{< figdir "images/flexopt" >}} */ -}}
+{{- $dir := .Get 0 -}}
+{{- $imgs := slice ".png" ".jpg" ".jpeg" ".gif" ".svg" ".webp" -}}
+{{- $vids := slice ".mp4" ".webm" -}}
+{{- if fileExists (printf "static/%s" $dir) -}}
+<div class="figdir">
+{{- range sort (readDir (printf "static/%s" $dir)) "Name" "desc" -}}
+  {{- $ext := lower (path.Ext .Name) -}}
+  {{- if and (not .IsDir) (or (in $imgs $ext) (in $vids $ext)) -}}
+  {{- $url := printf "/%s/%s" $dir .Name | absURL -}}
+  {{- $base := strings.TrimSuffix (path.Ext .Name) .Name -}}
+  {{- $date := "" -}}{{- $title := $base -}}
+  {{- with findRESubmatch `^(\d{4}-\d{2}-\d{2})_(.*)$` $base 1 -}}
+    {{- $date = time.AsTime (index (index . 0) 1) -}}{{- $title = index (index . 0) 2 -}}
+  {{- end -}}
+  {{- $title = replace $title "_" " " -}}
+  <figure>
+    {{- if in $vids $ext -}}
+    <video src="{{ $url }}" autoplay loop muted playsinline controls preload="metadata"></video>
+    {{- else -}}
+    <a href="{{ $url }}" target="_blank" rel="noopener"><img src="{{ $url }}" alt="{{ $title }}" loading="lazy"></a>
+    {{- end -}}
+    <figcaption>{{ with $date }}<strong>{{ i18n "figureOfTheWeek" }}</strong> · {{ if in (slice "jp" "cn") site.Language.Lang }}{{ .Format "2006年1月2日" }}{{ else }}{{ time.Format ":date_long" . }}{{ end }}<br>{{ end }}{{ $title }}</figcaption>
+  </figure>
+  {{- end -}}
+{{- end -}}
+</div>
+{{- end -}}

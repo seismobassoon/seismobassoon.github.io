@@ -6,3 +6,6 @@ other = "Equipa atual"
 
 [teamAlumni]
 other = "Antigos membros"
+
+[figureOfTheWeek]
+other = "Figura da semana"

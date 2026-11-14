@@ -1,0 +1,5 @@
+/* flexOPT figure gallery (figdir shortcode) */
+.figdir { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; margin: 1.5rem 0; align-items: start; }
+.figdir figure { margin: 0; }
+.figdir img, .figdir video { width: 100%; height: auto; border-radius: 6px; }
+.figdir figcaption { font-size: 0.85em; opacity: 0.8; margin-top: 0.4rem; text-align: center; }
