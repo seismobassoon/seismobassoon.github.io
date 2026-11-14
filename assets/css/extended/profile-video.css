@@ -1,0 +1,8 @@
+/* circled flexOPT video next to the portrait on the home page */
+.profile .profile_pics { display: flex; align-items: center; justify-content: center; gap: 1.2rem; flex-wrap: wrap; }
+.profile .profile_video video {
+  display: block; border-radius: 50%; object-fit: cover;
+  box-shadow: 0 0 0 2px var(--border);
+  transition: transform 0.2s;
+}
+.profile .profile_video:hover video { transform: scale(1.05); }
