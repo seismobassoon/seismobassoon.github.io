@@ -18,6 +18,8 @@ disablePathToLower = false
     [markup.goldmark.renderer]
       unsafe = true
 [params]
+    description = "Nobuaki Fuji (冨士延章), seismologist at IPGP (Institut de physique du globe de Paris): seismic imaging of the Earth and planets, waveform modelling and inversion with flexOPT.jl, and music composed from Earth-science data."
+    keywords = ["Nobuaki Fuji", "冨士延章", "seismology", "IPGP", "flexOPT.jl", "seismobassoon"]
     displayFullLangName = false
     ShowReadingTime = false
     ShowBreadCrumbs = false
