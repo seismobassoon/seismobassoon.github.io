@@ -49,6 +49,18 @@
         <span>{{ .subtitle | markdownify }}</span>
         {{- partial "social_icons.html" -}}
 
+        {{- with .teaserVideo }}
+        {{- $src := replace (replace . "dl=0" "raw=1") "dl=1" "raw=1" }}
+        {{- if not (in $src "raw=1") }}{{ $src = printf "%s%sraw=1" $src (cond (in $src "?") "&" "?") }}{{ end }}
+        <figure class="profile_teaser">
+          <video controls playsinline preload="none" width="1920" height="1080"
+            {{- with site.Params.profileMode.teaserPoster }} poster="{{ . | absURL }}"{{ end }}>
+            <source src="{{ $src }}" type="video/mp4">
+          </video>
+          <figcaption><a href="{{ "research/flexopt/" | relLangURL }}">flexOPT.jl</a></figcaption>
+        </figure>
+        {{- end }}
+
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}

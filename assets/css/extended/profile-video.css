@@ -6,3 +6,11 @@
   transition: transform 0.2s;
 }
 .profile .profile_video:hover video { transform: scale(1.05); }
+
+/* flexOPT teaser (Dropbox-hosted) under the profile on the home page */
+.profile .profile_teaser { width: 100%; max-width: 720px; margin: 1.5rem auto 0; }
+.profile .profile_teaser video {
+  display: block; width: 100%; height: auto; aspect-ratio: 16 / 9;
+  border-radius: 8px; box-shadow: 0 0 0 1px var(--border); background: #f5f1ea;
+}
+.profile .profile_teaser figcaption { margin-top: 0.4rem; font-size: 0.85rem; color: var(--secondary); }

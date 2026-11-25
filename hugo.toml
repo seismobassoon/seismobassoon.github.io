@@ -36,6 +36,11 @@ disablePathToLower = false
         imageUrl = "images/moi.png"
         imageWidth = 180
         imageHeight = 160
+        # flexOPT teaser shown under the profile on the home page.
+        # The video lives in Dropbox: shared_for_website/flexOPT/2026-11-25_flexOPT_teaser.mp4
+        # Paste its Dropbox share link here (dl=0 is turned into raw=1 automatically). Empty = hidden.
+        teaserVideo = "https://www.dropbox.com/scl/fi/5mp8m1p6s5gc5gx3hzspo/2026-11-25_flexOPT_teaser.mp4?rlkey=saqs9558m8wz2ipgdbogm9kec&dl=0"
+        teaserPoster = "images/flexopt_teaser_poster.jpg"
     
 
     [[params.socialIcons]]
